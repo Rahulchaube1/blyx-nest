@@ -1,0 +1,13 @@
+{
+  "slug": "wren",
+  "title": "Wren",
+  "description": "Run named checks and skips, compare floating-point measurements, and report a TAP 13 stream and a process exit status for CI.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-wren",
+  "commit": "54face061805e7bf749c500aa31b3341eee91b4b",
+  "module": "wren",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "0ffe4dcc338a07d0c9eb9f8a5d8c44468887952e6d2037647f15c53c87d668b6",
+  "size": 100976
+}

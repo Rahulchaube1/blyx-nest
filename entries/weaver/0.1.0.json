@@ -1,0 +1,13 @@
+{
+  "slug": "weaver",
+  "title": "Weaver",
+  "description": "Lay out equal-width tiles on small or large viewports, distribute leftover pixels and map pointer coordinates back to an item.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-weaver",
+  "commit": "660e7fe3dbf52f721675812af5d7b4730c3044c4",
+  "module": "weaver",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "66ee1885f676e62e7e8461b3878bd62ac1d442d44c815130beca0d45ed5ffca9",
+  "size": 101462
+}

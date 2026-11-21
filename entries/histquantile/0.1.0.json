@@ -1,0 +1,13 @@
+{
+  "slug": "histquantile",
+  "title": "HistQuantile",
+  "description": "Locate a nearest-rank quantile in noncumulative histogram counts.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-histquantile",
+  "commit": "b5dd0b838ad95673533e201d3d9aa70a56ca2e28",
+  "module": "histquantile",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "566cbb36258577919ffa9382cc484f081c058292e9fe2c1db1df18542af57df8",
+  "size": 27238
+}

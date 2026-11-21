@@ -1,0 +1,13 @@
+{
+  "slug": "towhee",
+  "title": "Towhee",
+  "description": "Combine indentation and line-width diagnostics for a measured source file.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-towhee",
+  "commit": "9b4c90ce714e110b211fc57a31d52f3cfdd2b8e2",
+  "module": "towhee",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "a44d4dde4a18c791331f4aa142f5b77db17fe3bdccadb7c7c694d187b85ecf34",
+  "size": 28180
+}

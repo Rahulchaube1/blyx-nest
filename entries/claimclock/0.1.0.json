@@ -1,0 +1,13 @@
+{
+  "slug": "claimclock",
+  "title": "ClaimClock",
+  "description": "Evaluate activation and expiration bounds on previously verified claims.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-claimclock",
+  "commit": "8841f7b814d3b0eea565a5f509293fd4980a7739",
+  "module": "claimclock",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "cbf0498aaa7ce96b6b3efe0d63e40f484f5429e33f637018f571704ce05c9801",
+  "size": 27161
+}

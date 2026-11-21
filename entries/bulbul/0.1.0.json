@@ -1,0 +1,13 @@
+{
+  "slug": "bulbul",
+  "title": "Bulbul",
+  "description": "Check required and extra fields in an already parsed object.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-bulbul",
+  "commit": "afb3069b24cd370b2edab79c21829b85950fa8d4",
+  "module": "bulbul",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "d89815d7604631d3a8772e0012c0b8a13091337994098ece71981c5307d831f1",
+  "size": 32370
+}

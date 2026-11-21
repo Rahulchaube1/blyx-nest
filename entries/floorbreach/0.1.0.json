@@ -1,0 +1,13 @@
+{
+  "slug": "floorbreach",
+  "title": "FloorBreach",
+  "description": "Locate the first reserve breach and count all deficient period ends.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-floorbreach",
+  "commit": "c53a904a68690b904c165f2f087e86c176545794",
+  "module": "floorbreach",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "524d1951a31a7ad6389e0d332af670492fc0c04412bbe3b884a979e75d5fcd4d",
+  "size": 26446
+}

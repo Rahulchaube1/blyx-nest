@@ -1,0 +1,13 @@
+{
+  "slug": "dagorder",
+  "title": "DagOrder",
+  "description": "Validate indexed dependencies in an ordered build forest.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-dagorder",
+  "commit": "a62cd9d499c2b83f25762f9bd2cff335679f0ae5",
+  "module": "dagorder",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "b8683b86451994b503ad1abf04aa2abf048e19c18ea020b8782f5b34584f3d14",
+  "size": 26935
+}

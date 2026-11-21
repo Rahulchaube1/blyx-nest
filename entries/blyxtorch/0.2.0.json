@@ -1,0 +1,13 @@
+{
+  "slug": "blyxtorch",
+  "title": "BlyxTorch",
+  "description": "Train dense networks with SGD or Adam, inspect parameter gradients, and generate standalone Blyx models for regression or classification.",
+  "version": "0.2.0",
+  "repository": "https://github.com/Rahulchaube1/blyxtorch",
+  "commit": "6b67ab026a5dae70f0894dc327dfe0364e18c135",
+  "module": "blyxtorch",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "cbb1bdedf7b4d639fb09265052cab9b280a197c76b944bc62514ad2379757746",
+  "size": 134289
+}

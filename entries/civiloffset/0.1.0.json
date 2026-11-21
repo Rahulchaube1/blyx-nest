@@ -1,0 +1,13 @@
+{
+  "slug": "civiloffset",
+  "title": "CivilOffset",
+  "description": "Convert a local tick to a candidate UTC tick for a supplied offset.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-civiloffset",
+  "commit": "b2b3910091baf5ee351e60dab366639e049bf8a8",
+  "module": "civiloffset",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "e4dccdbe2bd986050db43930172cba2851552c6c51d084342cd2da23300af6bb",
+  "size": 27216
+}

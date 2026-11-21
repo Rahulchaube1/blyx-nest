@@ -1,0 +1,13 @@
+{
+  "slug": "resumeindex",
+  "title": "ResumeIndex",
+  "description": "Recover the first unfinished chunk from an ordered checkpoint log.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-resumeindex",
+  "commit": "f0284e9799f4d7fb7dc5ff216e85c9fba37fe2d8",
+  "module": "resumeindex",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "18634b023b076a7069984be093a7a9d8fd696c786255483ff4db598d8dfdce1b",
+  "size": 27277
+}

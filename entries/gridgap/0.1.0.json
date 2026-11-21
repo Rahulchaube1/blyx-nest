@@ -1,0 +1,13 @@
+{
+  "slug": "gridgap",
+  "title": "GridGap",
+  "description": "Locate the coarsest gap and count nonincreasing steps in a sample grid.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-gridgap",
+  "commit": "7d010c19b9bd139ef67f88e686ab21236d15d012",
+  "module": "gridgap",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "b7b249f68527aa0d0dd38227366fd8659d6b4ec1cfc88e2dac886b8e5a938286",
+  "size": 27008
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "valuebounds",
+  "title": "ValueBounds",
+  "description": "Check a numeric setting against inclusive bounds and explain the violation.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-valuebounds",
+  "commit": "67af9352e88c415b4a09ce3a774d75cef5261f30",
+  "module": "valuebounds",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "863e6911c233c1b868bc00bb7ce8c7580564bcbd6f9b482aafbf40e663cf9a8d",
+  "size": 27140
+}

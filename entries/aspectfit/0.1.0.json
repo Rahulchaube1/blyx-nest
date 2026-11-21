@@ -1,0 +1,13 @@
+{
+  "slug": "aspectfit",
+  "title": "AspectFit",
+  "description": "Fit an image inside a box while preserving aspect ratio.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-aspectfit",
+  "commit": "2ec8d55a8e8bed44e05a1a77b16679c968ededb4",
+  "module": "aspectfit",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "3f5de4567f403c556b81ddacde9432ae41fd4c97894dc01d38c5e6313c4c2cab",
+  "size": 27023
+}

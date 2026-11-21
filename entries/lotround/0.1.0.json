@@ -1,0 +1,13 @@
+{
+  "slug": "lotround",
+  "title": "LotRound",
+  "description": "Round a shortage to a supplier's whole purchase lots.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-lotround",
+  "commit": "3f7d79b0853d55de3f6e9eaaeea46d1f90eb4056",
+  "module": "lotround",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "08c5061a0148a6c497ee2a4b713e6c5f05252be042d12acc77f56295a6369faa",
+  "size": 26709
+}

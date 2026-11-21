@@ -1,0 +1,13 @@
+{
+  "slug": "shotmargins",
+  "title": "ShotMargins",
+  "description": "Extract both individual bit frequencies from joint two-bit shots.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-shotmargins",
+  "commit": "206922afe9c01da04671dfc96446a2485998007a",
+  "module": "shotmargins",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "fa9394ae6ea372cdfa461d63bbb7bb87e128a05bd1b9ae88cd0e746cd810f43b",
+  "size": 26519
+}

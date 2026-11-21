@@ -1,0 +1,13 @@
+{
+  "slug": "osprey",
+  "title": "Osprey",
+  "description": "Score a detection against a reference after clipping both to the camera frame.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-osprey",
+  "commit": "ed8a8ff2940f6795ce5faa34b89c95b35aac77ba",
+  "module": "osprey",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "511cadb290d8558511da3fa40f34444b1aa0b4f2e433b0ad4e3d40b36560f0ca",
+  "size": 28070
+}

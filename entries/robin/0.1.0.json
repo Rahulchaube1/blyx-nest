@@ -1,0 +1,13 @@
+{
+  "slug": "robin",
+  "title": "Robin",
+  "description": "Convert a validated civil date into an ordinal, weekday and comparable day number.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-robin",
+  "commit": "989352e006cf0a359f2890e6fc6a996a9885ea87",
+  "module": "robin",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "0b7a84282da022e760013ce5395353ac8d42e02aca1e9d94bc80c2a71bf0ec64",
+  "size": 28071
+}

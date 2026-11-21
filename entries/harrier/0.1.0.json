@@ -1,0 +1,13 @@
+{
+  "slug": "harrier",
+  "title": "Harrier",
+  "description": "Apply time and assurance policy to a session after upstream identity verification.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-harrier",
+  "commit": "ec025b6ac9db4d50ced229358b0a54e7c0d35602",
+  "module": "harrier",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "b5c2cc400f5f8ee0e87a61849687c4a726becb4aa6337a7d1bd9d1e70151f71d",
+  "size": 24548
+}

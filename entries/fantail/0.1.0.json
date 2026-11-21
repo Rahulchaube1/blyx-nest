@@ -1,0 +1,13 @@
+{
+  "slug": "fantail",
+  "title": "Fantail",
+  "description": "Resolve a layered setting and report where an invalid override came from.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-fantail",
+  "commit": "6566df3e21c1343135fe97979154eed687724e6e",
+  "module": "fantail",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "47584e7be0f2666ea81b8cea0a057ae02aaaff85c56ff997fe432019d96dcb47",
+  "size": 28735
+}

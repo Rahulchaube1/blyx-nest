@@ -1,0 +1,13 @@
+{
+  "slug": "pagecursor",
+  "title": "PageCursor",
+  "description": "Find a keyset page strictly after a cursor in sorted keys.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-pagecursor",
+  "commit": "dddc7e3e5c60cb0179c77a23fa1166995c66ea63",
+  "module": "pagecursor",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "5352fa0f5664d65723d6ef76ad992ec3abe7ff6647d5e901bc2d73d163c0ed85",
+  "size": 27226
+}

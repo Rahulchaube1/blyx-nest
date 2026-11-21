@@ -1,0 +1,13 @@
+{
+  "slug": "ibis",
+  "title": "Ibis",
+  "description": "Reconcile an invoice with split payments in integer minor units.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-ibis",
+  "commit": "e007a9495559a3cdfe086ac27b4b758874112094",
+  "module": "ibis",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "1fe36141192142a8ab644f693c774f4f4f5edc219894e559461419021290fd82",
+  "size": 32312
+}

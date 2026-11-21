@@ -1,0 +1,13 @@
+{
+  "slug": "pelican",
+  "title": "Pelican",
+  "description": "Compare per-request aligned I/O with coalesced unaligned reads for a sorted trace.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-pelican",
+  "commit": "0e96f76439d52d5e74ad2785879ac40d4cde32eb",
+  "module": "pelican",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "d6bb531921ba3d6d57a1d2211b8e231a869aef3614214f273be3abe45f2e3578",
+  "size": 23967
+}

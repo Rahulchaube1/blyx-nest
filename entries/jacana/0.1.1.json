@@ -1,0 +1,13 @@
+{
+  "slug": "jacana",
+  "title": "Jacana",
+  "description": "Compare a crude event rate with a directly standardized rate.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-jacana",
+  "commit": "81ac8283a5e938042905b583413bbb9609889c05",
+  "module": "jacana",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "37000f36b2d443c7c4047d119439d1bb4b2d67db2c102764dc53bbfbd430e521",
+  "size": 27729
+}

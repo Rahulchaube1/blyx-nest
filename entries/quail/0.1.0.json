@@ -1,0 +1,13 @@
+{
+  "slug": "quail",
+  "title": "Quail",
+  "description": "Simulate a short real-amplitude single-qubit circuit and compare shot counts.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-quail",
+  "commit": "9581131fd8b756845514466746e209d790396011",
+  "module": "quail",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "ef9304aae76f6e2caeeeadd4bfce34654b5d91e1cb748b81cd6bb5858d4893c9",
+  "size": 33161
+}

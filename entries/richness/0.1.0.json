@@ -1,0 +1,13 @@
+{
+  "slug": "richness",
+  "title": "Richness",
+  "description": "Count observed taxa and singletons from an abundance vector.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-richness",
+  "commit": "f1d16767e465aae63c40342c3eaa3ef4c998628b",
+  "module": "richness",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "4cfe1f7df979a8b459e58702e382b503a0fece35e0db8d212338b211280b82c3",
+  "size": 27758
+}

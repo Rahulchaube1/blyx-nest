@@ -1,0 +1,13 @@
+{
+  "slug": "querydepth",
+  "title": "QueryDepth",
+  "description": "Validate a preorder field-depth trace from an expanded query plan.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-querydepth",
+  "commit": "2caf0cebba85bc62c674d793ff903574940bd0fd",
+  "module": "querydepth",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "a18a8d3efca3cc371d7ce018ff3b7371001b6329aea267fc265dd13733a3b1ff",
+  "size": 27989
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "cueoverlap",
+  "title": "CueOverlap",
+  "description": "Audit a sorted list of half-open subtitle cue intervals.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-cueoverlap",
+  "commit": "5f3f67784579d71f96eba4028816e2377a3f3103",
+  "module": "cueoverlap",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "673c3956084b10b7dfa02bff820d63bdf754ac7d2f2cbb212a35a8143732d49a",
+  "size": 27286
+}

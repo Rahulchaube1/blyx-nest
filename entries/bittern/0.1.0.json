@@ -1,0 +1,13 @@
+{
+  "slug": "bittern",
+  "title": "Bittern",
+  "description": "Plan the next migration only after history, fingerprints and dirty state agree.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-bittern",
+  "commit": "8e77374a87f41d5e27f68e7461d453989b9394d7",
+  "module": "bittern",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "598843ea1ee4a4e5f9cbf33bf2b34dbd34a66222cd09f26660663e23aea74747",
+  "size": 28328
+}

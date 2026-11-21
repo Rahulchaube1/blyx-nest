@@ -1,0 +1,13 @@
+{
+  "slug": "waxwing",
+  "title": "Waxwing",
+  "description": "Check the depth and weighted resolver cost of an expanded GraphQL field plan.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-waxwing",
+  "commit": "151d0acc73edd71e2ce170fd4bf5292bf3e456ca",
+  "module": "waxwing",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "41fc8536299b03a655bb8d81acdd0d28f8861dea7ee243014f9fdab2140a7519",
+  "size": 28885
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "sloburn",
+  "title": "SloBurn",
+  "description": "Normalize observed failures by an allowed error fraction.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-sloburn",
+  "commit": "7d73e76345fd2ce650f585e93e65a8c1cf1e1e19",
+  "module": "sloburn",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "4179220a242a040ef740e174d5ea5066736c97e1e4af5c588c8677d24761acf6",
+  "size": 27262
+}

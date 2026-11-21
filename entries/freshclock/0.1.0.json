@@ -1,0 +1,13 @@
+{
+  "slug": "freshclock",
+  "title": "FreshClock",
+  "description": "Advance an already calculated HTTP cache age on a monotonic clock.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-freshclock",
+  "commit": "61e782da4eb0e0deef5676485a577da3813d1d6a",
+  "module": "freshclock",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "fff93c74ba84be28b5fd33d36fc10bb799ab9e6eef2110a0eec6db73c7858693",
+  "size": 27604
+}

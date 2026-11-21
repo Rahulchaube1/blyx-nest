@@ -1,0 +1,13 @@
+{
+  "slug": "leaseclock",
+  "title": "LeaseClock",
+  "description": "Classify a message lease against a single monotonic clock.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-leaseclock",
+  "commit": "81b473a7fa20d54feeb1488833a63e6ca1ef7121",
+  "module": "leaseclock",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "2cc8cd37cb85aa80e2870b802a0934719ef79248d037b983d9dddd9d936a3a37",
+  "size": 27216
+}

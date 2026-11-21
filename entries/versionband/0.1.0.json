@@ -1,0 +1,13 @@
+{
+  "slug": "versionband",
+  "title": "VersionBand",
+  "description": "Check membership of a numeric-version core in a half-open dependency interval.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-versionband",
+  "commit": "df6b90227e4fc248ae46e208e9e3c5ef6b0bdc2c",
+  "module": "versionband",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "58162d705b154740eeacc6ebb075daabc664d1d5eed4b6321bd91ec2cf8eeb88",
+  "size": 26904
+}

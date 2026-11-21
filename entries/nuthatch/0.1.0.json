@@ -1,0 +1,13 @@
+{
+  "slug": "nuthatch",
+  "title": "Nuthatch",
+  "description": "Wrap a message and preserve a valid scroll position after resizing a terminal.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-nuthatch",
+  "commit": "7ac9b7118e56f8c9f0d5e6905e3c833986a36e79",
+  "module": "nuthatch",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "63607372ac1460613172f21204eaee97eeb7489d6666af9452fe470060db636e",
+  "size": 23074
+}

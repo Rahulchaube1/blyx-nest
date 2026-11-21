@@ -1,0 +1,13 @@
+{
+  "slug": "stalewindow",
+  "title": "StaleWindow",
+  "description": "Classify a cache entry under an explicit stale-serving policy.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-stalewindow",
+  "commit": "1d649b9186976862aec3c7ba23e4bb11d1f76f65",
+  "module": "stalewindow",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "759a9ca5dcfddf987510054e297902664d0050467fe35b32dfcc74b9ee5f1071",
+  "size": 28193
+}

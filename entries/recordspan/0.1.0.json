@@ -1,0 +1,13 @@
+{
+  "slug": "recordspan",
+  "title": "RecordSpan",
+  "description": "Locate the nonempty length-prefixed record containing a byte offset.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-recordspan",
+  "commit": "c6749ae524987e2537d1f7ef2d62f58021a7c4f3",
+  "module": "recordspan",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "7f33e98bb64ea6c3b1037b02d260eb7948ff1c6f72c9efb4223c6e3c5e249bb6",
+  "size": 26795
+}

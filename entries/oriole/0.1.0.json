@@ -1,0 +1,13 @@
+{
+  "slug": "oriole",
+  "title": "Oriole",
+  "description": "Decide whether a scheduled revision can go live after independent review.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-oriole",
+  "commit": "358f4490d88c51b75b6a0736b8d139b4bc52a4b7",
+  "module": "oriole",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "947e15714abad28367aecacfe9c88ded3099b25b8fd90ac08f3d472509caf080",
+  "size": 28937
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "barnowl",
+  "title": "Barnowl",
+  "description": "Inspect a supplied audit export for sequence gaps, replays and clock reversals.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-barnowl",
+  "commit": "ed12bda58e6e43b696763d33fced700d6758cc3a",
+  "module": "barnowl",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "1e504c2b8ecada65ad0b55959e9e8ef421e34d84f26b25697d40ac9094ccee41",
+  "size": 28292
+}

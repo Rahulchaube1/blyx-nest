@@ -1,0 +1,13 @@
+{
+  "slug": "tokenbucket",
+  "title": "TokenBucket",
+  "description": "Refill a rate bucket up to its burst capacity.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-tokenbucket",
+  "commit": "ad097329fd23035a41388373e2c2614a6453226a",
+  "module": "tokenbucket",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "3b461da56c2c406dff7da06f35230a39af4dcfba21dd9892117f2eb0a323297e",
+  "size": 27282
+}

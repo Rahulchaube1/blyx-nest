@@ -1,0 +1,13 @@
+{
+  "slug": "hoopoe",
+  "title": "Hoopoe",
+  "description": "Plan a thumbnail and check the decoded pixel buffer against a byte budget.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-hoopoe",
+  "commit": "977d385cadc36c8f3ccabbc8cde1bf108cc30af4",
+  "module": "hoopoe",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "8454d6797f2a50d73bfa29a72287e3a0911f79b90155fed6adc265f3e3fee3bd",
+  "size": 28335
+}

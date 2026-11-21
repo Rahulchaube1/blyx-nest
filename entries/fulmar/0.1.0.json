@@ -1,0 +1,13 @@
+{
+  "slug": "fulmar",
+  "title": "Fulmar",
+  "description": "Choose a contiguous commit offset from an out-of-order delivery trace.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-fulmar",
+  "commit": "6007ac115d4a97cdc162be8876a4633502c0e61b",
+  "module": "fulmar",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "acfdd8cad033df7080448802518f8211a5b8abe81d723d185795e37839e5c973",
+  "size": 32497
+}

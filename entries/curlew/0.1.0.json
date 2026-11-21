@@ -1,0 +1,13 @@
+{
+  "slug": "curlew",
+  "title": "Curlew",
+  "description": "Plan grid tiles covering every observation in a projected point survey.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-curlew",
+  "commit": "90951d8f102e134f34c68d82d8c6b0de9927fbb8",
+  "module": "curlew",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "21399ca3610952bff00a5240109c61c2d7601f90926928a6f2b7f6498444ced7",
+  "size": 27964
+}

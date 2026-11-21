@@ -1,0 +1,81 @@
+name: Verify and publish Blyx Nest
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      endpoint:
+        description: Registry to verify
+        type: choice
+        options: [checkout, website, subdomain]
+        default: checkout
+permissions:
+  contents: read
+jobs:
+  registry:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.25.x'
+          cache: false
+      - name: Keep published releases immutable
+        if: github.event_name == 'pull_request'
+        env:
+          BASE: ${{ github.event.pull_request.base.sha }}
+        run: |
+          changes=$(git diff --name-status --no-renames "$BASE"...HEAD -- archives entries)
+          if printf '%s\n' "$changes" | grep -E '^[^A[:space:]]'; then
+            echo 'Publish a new version to update a released package.'
+            exit 1
+          fi
+          python3 registry/review_source.py "$BASE"
+      - run: go test ./...
+      - run: go build -trimpath -o "$RUNNER_TEMP/nest" ./cmd/nest
+      - name: Validate Blyx packages and build the public API
+        run: python3 registry/site.py
+      - name: Verify the released compiler
+        run: |
+          cd "$RUNNER_TEMP"
+          curl -fsSL --retry 3 https://github.com/Rahulchaube1/blyxxxx/releases/download/v0.2.1/blyx-v0.2.1-x86_64-unknown-linux-gnu.tar.gz -o compiler.tar.gz
+          echo '792d5310bed715b2f6a2b7249606428f9ab2e8a57bdbd9abaff85d8aca2c1bdc  compiler.tar.gz' | sha256sum -c -
+          tar -xzf compiler.tar.gz blyxc
+      - name: Parse submitted Blyx modules and entry points
+        run: python3 registry/check_syntax.py "$RUNNER_TEMP/blyxc"
+      - name: Install and run every reviewed Blyx project
+        if: github.event_name != 'pull_request'
+        env:
+          CHOICE: ${{ inputs.endpoint }}
+        run: |
+          options=()
+          case "$CHOICE" in
+            website) options=(--url https://www.blyx-lang.space/nest);;
+            subdomain) options=(--url https://nest.blyx-lang.space);;
+          esac
+          python3 registry/verify_examples.py --nest "$RUNNER_TEMP/nest" --compiler "$RUNNER_TEMP/blyxc" "${options[@]}"
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        with:
+          path: public
+  pages:
+    needs: registry
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: nest-pages
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publish the reviewed registry
+        id: deployment
+        uses: actions/deploy-pages@v4

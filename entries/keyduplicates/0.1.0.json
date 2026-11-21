@@ -1,0 +1,13 @@
+{
+  "slug": "keyduplicates",
+  "title": "KeyDuplicates",
+  "description": "Find repeated primary-key occurrences in an offline table export.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-keyduplicates",
+  "commit": "70a9b12345fa7b2e6bbba3313cfd1f3401840c2b",
+  "module": "keyduplicates",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "ba1b98c569f17b42b321e9394e54778be0934a1af73dbfcf329db9fe24c7c819",
+  "size": 26824
+}

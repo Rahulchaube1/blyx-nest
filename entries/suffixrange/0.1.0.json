@@ -1,0 +1,13 @@
+{
+  "slug": "suffixrange",
+  "title": "SuffixRange",
+  "description": "Resolve an HTTP suffix-byte specification without negative offsets.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-suffixrange",
+  "commit": "46c2e393339320a9adf392ef5f8fc617526389e7",
+  "module": "suffixrange",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "541fb934d93dd13f4e424debe10e187d3888c8b467eef134e16afb3b89d86f9a",
+  "size": 26809
+}

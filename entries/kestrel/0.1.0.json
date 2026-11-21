@@ -1,0 +1,13 @@
+{
+  "slug": "kestrel",
+  "title": "Kestrel",
+  "description": "Run a bounded number of simulation ticks per rendered frame, carry fractional frame time and interpolate a moving object between updates.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-kestrel",
+  "commit": "10469a81c17a5cf4f0b9d02cc1dcd071e1e45648",
+  "module": "kestrel",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "2599bcdb8c90c86d5e3fa4cee59f6ee96e906e744bd379e7d24e841e6cf393c9",
+  "size": 107804
+}

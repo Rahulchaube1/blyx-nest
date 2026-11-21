@@ -1,0 +1,13 @@
+{
+  "slug": "optionlayer",
+  "title": "OptionLayer",
+  "description": "Resolve a numeric setting across ordered configuration layers.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-optionlayer",
+  "commit": "716932ac5f74d70bca93655bce8ab0feac19c300",
+  "module": "optionlayer",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "feff5c3f44c90987e1520ceac36b0e878e18e6d691ad8d4f1cfdc1855d0a8fa5",
+  "size": 27962
+}

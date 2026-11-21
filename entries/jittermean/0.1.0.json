@@ -1,0 +1,13 @@
+{
+  "slug": "jittermean",
+  "title": "JitterMean",
+  "description": "Estimate interarrival jitter with the RFC 3550 one-sixteenth update.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-jittermean",
+  "commit": "0fb1ac72e6faf46fea90da89589ec4c6860a72b1",
+  "module": "jittermean",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "d7a946d5b0d6d9104d65c0c114add7a18cb917d44f737f949dea5e51f86722b7",
+  "size": 26584
+}

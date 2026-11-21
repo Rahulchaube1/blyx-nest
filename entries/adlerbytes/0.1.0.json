@@ -1,0 +1,13 @@
+{
+  "slug": "adlerbytes",
+  "title": "AdlerBytes",
+  "description": "Compute the RFC 1950 Adler-32 checksum over a sequence of bytes.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-adlerbytes",
+  "commit": "1b98f7edd41a7df4516cdc800962efe4577fcc98",
+  "module": "adlerbytes",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "aaf9372dd8116ab408d0da1c12202654739fb64135ef4e49c2c222375b2f2d43",
+  "size": 28079
+}

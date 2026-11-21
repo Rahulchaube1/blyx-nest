@@ -1,0 +1,13 @@
+{
+  "slug": "fieldcost",
+  "title": "FieldCost",
+  "description": "Estimate expanded resolver work using per-field costs and visit counts.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-fieldcost",
+  "commit": "e87b0cb35c57c2c12007a7a8cac880ad4c33550c",
+  "module": "fieldcost",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "db63cabd0e73c4b8df734349f5adcf5bc15023c90433b33733080e951fa99209",
+  "size": 26629
+}

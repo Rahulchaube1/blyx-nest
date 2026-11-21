@@ -1,0 +1,13 @@
+{
+  "slug": "framesignal",
+  "title": "FrameSignal",
+  "description": "Measure peak amplitude and mean-square energy of a signal frame.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-framesignal",
+  "commit": "edd6019161e441d46bc148d95e3d52e92ec8e1e1",
+  "module": "framesignal",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "0af146d9477698b2ec13a28e610b6f8e4dd2483abe3eeea87f954a2e76b500c4",
+  "size": 27453
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "reviewquorum",
+  "title": "ReviewQuorum",
+  "description": "Count independent reviewers and calculate outstanding approvals.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-reviewquorum",
+  "commit": "54a4facca85d1598dc135ed75931cb140bbc3b60",
+  "module": "reviewquorum",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "2c87bfe3761d14ff6601150008fcf08beadc629a0c47f5ace0038f8632258923",
+  "size": 27798
+}

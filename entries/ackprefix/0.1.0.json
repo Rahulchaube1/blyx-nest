@@ -1,0 +1,13 @@
+{
+  "slug": "ackprefix",
+  "title": "AckPrefix",
+  "description": "Find the longest contiguous acknowledgement prefix in unordered deliveries.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-ackprefix",
+  "commit": "4137bdac1d6f882a721770dfc5a5e279c53e4123",
+  "module": "ackprefix",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "16e7f5622bd87ffd478a26315b8e749b135ab512e179c802853ecadd26b4d7d0",
+  "size": 26104
+}

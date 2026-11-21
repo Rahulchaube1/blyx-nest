@@ -1,0 +1,13 @@
+{
+  "slug": "batchquota",
+  "title": "BatchQuota",
+  "description": "Bound the next batch of an interrupted command.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-batchquota",
+  "commit": "1470b1547764b0bc89b893e37429aef08385555f",
+  "module": "batchquota",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "2bda7dce0aafc904193afc075100762fe4cffdabe745553917719e0e4eb8986d",
+  "size": 26300
+}

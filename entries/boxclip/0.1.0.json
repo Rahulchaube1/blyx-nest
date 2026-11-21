@@ -1,0 +1,13 @@
+{
+  "slug": "boxclip",
+  "title": "BoxClip",
+  "description": "Clip a detection rectangle to the visible image.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-boxclip",
+  "commit": "a203befb1e91a9de24cc95bf84eb527d8ee4a380",
+  "module": "boxclip",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "2e05fcc112932c0dc699b91c652bd1453c95ea55439fea42a759c94fdfe8ae14",
+  "size": 26426
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "underwater",
+  "title": "UnderWater",
+  "description": "Measure how long an equity series stayed below its running peak.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-underwater",
+  "commit": "d725d1d82883a9c26a0f35bcf45e1632c5514f54",
+  "module": "underwater",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "fe7220258f8aea1f18af6ff21a896d33dba5f575d87ebc696fdadc670536552d",
+  "size": 26710
+}

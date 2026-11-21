@@ -1,0 +1,13 @@
+{
+  "slug": "lapwing",
+  "title": "Lapwing",
+  "description": "Preflight fixed-line document pagination with indivisible paragraphs.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-lapwing",
+  "commit": "86a0f09bae948e735e29e0ff913b54f9b185293f",
+  "module": "lapwing",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "b1bc3467a1fe5500bbd2835c1b45761a7e3b7dba9e38e5aff28677ab96a03301",
+  "size": 32692
+}

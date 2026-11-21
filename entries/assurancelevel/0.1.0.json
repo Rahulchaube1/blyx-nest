@@ -1,0 +1,13 @@
+{
+  "slug": "assurancelevel",
+  "title": "AssuranceLevel",
+  "description": "Check session freshness and an application-defined ordered assurance level.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-assurancelevel",
+  "commit": "d19e9add2d02aa7687d41a5ec46aed26345b6b99",
+  "module": "assurancelevel",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "a59f3d6c02a1c8a0f05eb97e1ee2c325f13563f6fed8531456cb1ad80e6b4955",
+  "size": 27649
+}

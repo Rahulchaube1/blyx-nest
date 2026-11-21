@@ -1,0 +1,13 @@
+{
+  "slug": "kinglet",
+  "title": "Kinglet",
+  "description": "Plan a full or single-range HTTP response against a known representation size.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-kinglet",
+  "commit": "3425d588518e80673bab51e21bc1adee6d2a0962",
+  "module": "kinglet",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "82071d06bc671890392ce81abe20e4b0f8ec4ae54d4897a5a1f22955607fd9f3",
+  "size": 32999
+}

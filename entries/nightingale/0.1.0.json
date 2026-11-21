@@ -1,0 +1,13 @@
+{
+  "slug": "nightingale",
+  "title": "Nightingale",
+  "description": "Bound a percentile from histogram counts without inventing a within-bin value.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-nightingale",
+  "commit": "5219544513c9fea11f7a9026b0210a0799ced8dd",
+  "module": "nightingale",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "c530aaa35a81a2a17c294c55a08cb035ee3f03c7f8df5acc627d86128e4d0e5d",
+  "size": 33236
+}

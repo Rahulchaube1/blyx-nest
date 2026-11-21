@@ -1,0 +1,13 @@
+{
+  "slug": "cashladder",
+  "title": "CashLadder",
+  "description": "Find closing and lowest balances along an ordered cash-flow schedule.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-cashladder",
+  "commit": "523332fa19169aeb8a0497ae7f5ceb261256a30a",
+  "module": "cashladder",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "9b4f5aaa47e231b6e725eab3b3108d9bad0121b112fa95b5e031dd417cae86e7",
+  "size": 27397
+}

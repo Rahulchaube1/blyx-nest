@@ -1,0 +1,13 @@
+{
+  "slug": "cusum",
+  "title": "CUSUM",
+  "description": "Detect persistent shifts in a sequence of standardized observations with a two-sided cumulative sum.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-cusum",
+  "commit": "4e99a0509d16fafb7574b0a85222fc37a340c709",
+  "module": "cusum",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "00b7667c058123f62b3b6dce774d834a210a059f57b412a74821ba10ba291847",
+  "size": 21074
+}

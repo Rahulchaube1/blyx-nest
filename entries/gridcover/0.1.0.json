@@ -1,0 +1,13 @@
+{
+  "slug": "gridcover",
+  "title": "GridCover",
+  "description": "Find grid indices containing both extrema of a closed planar extent.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-gridcover",
+  "commit": "73b5a34971d431eb6b70ece223dfdf4b56a77bdb",
+  "module": "gridcover",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "ebe882a8e77e6a8cf56d547fa20deb0dd5519bbeab847b33a1180e8c4bf4c423",
+  "size": 27118
+}

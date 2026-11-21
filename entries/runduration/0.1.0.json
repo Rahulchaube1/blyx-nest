@@ -1,0 +1,13 @@
+{
+  "slug": "runduration",
+  "title": "RunDuration",
+  "description": "Find the critical-path time in a forest of dependent tasks.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-runduration",
+  "commit": "104c82789e73077af77d018fe8f90b57c9ae9c53",
+  "module": "runduration",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "7a83c8d42d2e8b36cbc39a075153a5ec38aa05722638c9b40fa96a3e5a0eb006",
+  "size": 27835
+}

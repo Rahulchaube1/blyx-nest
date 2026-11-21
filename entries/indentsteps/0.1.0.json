@@ -1,0 +1,13 @@
+{
+  "slug": "indentsteps",
+  "title": "IndentSteps",
+  "description": "Audit fixed-step indentation measured on nonblank source lines.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-indentsteps",
+  "commit": "b5e64159a89d096e6974770b63b90858373a78b3",
+  "module": "indentsteps",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "f718568b25306a584113fc19bd38912f2cabb1d7f54968aedd85dd532bb67fee",
+  "size": 26518
+}

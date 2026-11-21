@@ -1,0 +1,13 @@
+{
+  "slug": "siskin",
+  "title": "Siskin",
+  "description": "Inspect a cash-flow schedule for shortfalls that disappear by the closing date.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-siskin",
+  "commit": "7fc556c3bf957b90e454937444f8373459b14907",
+  "module": "siskin",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "d86cd38f73eb137cd50abe8a1c11d886666fa853f6489e07d3455c8b2897a890",
+  "size": 32486
+}

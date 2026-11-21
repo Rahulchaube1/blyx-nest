@@ -1,0 +1,13 @@
+{
+  "slug": "raven",
+  "title": "Raven",
+  "description": "Budget a bounded log buffer while preserving higher-severity events first.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-raven",
+  "commit": "05d73386d29e1d799c458ba47afdfadaa9288b61",
+  "module": "raven",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "b38954a6630c2d02fdcfc50b73b3ff0fa15119285fe985052780ec069608b491",
+  "size": 32603
+}

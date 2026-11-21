@@ -1,0 +1,13 @@
+{
+  "slug": "rankband",
+  "title": "RankBand",
+  "description": "Look up the finite interval represented by a histogram bin.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-rankband",
+  "commit": "f68c5b65335236c4f8e50b84421e83c1ed5a89e7",
+  "module": "rankband",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "f7786c2608334e6e8210a03cd3f0be296c68dea7cb0b21179ee0c6afe1b3e1c9",
+  "size": 27280
+}

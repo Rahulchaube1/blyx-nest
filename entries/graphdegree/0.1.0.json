@@ -1,0 +1,13 @@
+{
+  "slug": "graphdegree",
+  "title": "GraphDegree",
+  "description": "Count incoming and outgoing edges at a named numeric vertex.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-graphdegree",
+  "commit": "88abf00d26d97c12e841bbbca2dcfa309a0f8548",
+  "module": "graphdegree",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "a1b26044d88614fd6582bbf58eac08794bbf542fe9a77a3d3598c7484aabd54c",
+  "size": 27073
+}

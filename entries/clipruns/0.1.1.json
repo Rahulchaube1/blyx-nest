@@ -1,0 +1,13 @@
+{
+  "slug": "clipruns",
+  "title": "ClipRuns",
+  "description": "Count overloaded samples and the longest continuous run.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-clipruns",
+  "commit": "83f3aac7999937c5635c56f8d7b9cb4808f83b8e",
+  "module": "clipruns",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "6525374e44d82ea9da991d4ec26cdf4e4435e82c9f31224a112d5b1129434955",
+  "size": 27254
+}

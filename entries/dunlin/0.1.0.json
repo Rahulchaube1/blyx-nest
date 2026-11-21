@@ -1,0 +1,13 @@
+{
+  "slug": "dunlin",
+  "title": "Dunlin",
+  "description": "Audit a table export for duplicate parents and orphaned child rows.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-dunlin",
+  "commit": "19220f4076dab1f086a2252d862869843a8bbdc2",
+  "module": "dunlin",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "8316337ff21eff57612264d38b22190d99348e3b93a8c3635a0e441b800ef9c3",
+  "size": 32837
+}

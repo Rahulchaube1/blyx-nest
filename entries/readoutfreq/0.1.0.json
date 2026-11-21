@@ -1,0 +1,13 @@
+{
+  "slug": "readoutfreq",
+  "title": "ReadoutFreq",
+  "description": "Compare computational-basis shot frequencies to a real qubit's probabilities.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-readoutfreq",
+  "commit": "5a8e95a0fb3d3398f66590d2068a0ff85374651f",
+  "module": "readoutfreq",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "54545cfe5afde388fc5b260ad4fb833a9677fb4688fea05326f49e51d2499a75",
+  "size": 27387
+}

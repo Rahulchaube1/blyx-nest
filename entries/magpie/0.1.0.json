@@ -1,0 +1,13 @@
+{
+  "slug": "magpie",
+  "title": "Magpie",
+  "description": "Integrate an increasing sample grid and flag under-sampled sections.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-magpie",
+  "commit": "aa811e8dc8d9ea9ce421741e6a5ce8f519c931a0",
+  "module": "magpie",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "f12991b4c8493cd948ec856e2151c7508de3653dd5d833bf648f2f0f0844d959",
+  "size": 23151
+}

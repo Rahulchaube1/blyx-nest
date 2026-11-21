@@ -1,0 +1,13 @@
+{
+  "slug": "cormorant",
+  "title": "Cormorant",
+  "description": "Separate variation in packet delivery from a constant difference between clocks.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-cormorant",
+  "commit": "637e3ebbb24d74f3d45119eccb224666104a9fda",
+  "module": "cormorant",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "f3b87069492ac78af0c74606bf74064b1a2c5e3087b05cf11de77288f926dc4f",
+  "size": 24249
+}

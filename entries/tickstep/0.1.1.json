@@ -1,0 +1,13 @@
+{
+  "slug": "tickstep",
+  "title": "TickStep",
+  "description": "Choose a covering linear tick lattice using steps 1, 2, 5 or 10 times a power of ten.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-tickstep",
+  "commit": "5e0c78e89b7dcd330c213ae54dc40b0939edc0f9",
+  "module": "tickstep",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "b1f7edb0efa1cfb1d38b7cb30a8d667cc3531160870318896f963427146f9e98",
+  "size": 27981
+}

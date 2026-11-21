@@ -1,0 +1,13 @@
+{
+  "slug": "flamingo",
+  "title": "Flamingo",
+  "description": "Produce chart-ready axis limits and labeled tick spacing from raw data.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-flamingo",
+  "commit": "29d3cb8277307954e528f3d60c8f6c0aee6a3439",
+  "module": "flamingo",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "9992d9d13df88cf29495197be5e8fb142ebd0eaa32256b94108ce64afaa05082",
+  "size": 32545
+}

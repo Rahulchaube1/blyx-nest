@@ -1,0 +1,13 @@
+{
+  "slug": "betaupdate",
+  "title": "BetaUpdate",
+  "description": "Update a Beta prior with Bernoulli counts.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-betaupdate",
+  "commit": "a0ed98a55c4f227d775f9aaab60113adec6addd8",
+  "module": "betaupdate",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "422b4500a4eb928491a3eeee06be2f043dd442ab5a3bb19751a51f716fa95d0d",
+  "size": 26288
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "avocet",
+  "title": "Avocet",
+  "description": "Plan replenishment after existing reservations and supplier lot sizes.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-avocet",
+  "commit": "ca7637637f4620bf2e17b9c6a11af09125ff893e",
+  "module": "avocet",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "a93327777e9666123a85be391adb23701912fb7527d78ec5eb3d6a12af5d0915",
+  "size": 23861
+}

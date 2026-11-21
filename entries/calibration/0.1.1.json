@@ -1,0 +1,13 @@
+{
+  "slug": "calibration",
+  "title": "Calibration",
+  "description": "Check agreement between predicted probabilities and observed outcomes.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-calibration",
+  "commit": "f978f7f43e54d068c186cb4b467c737b121d0489",
+  "module": "calibration",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "27ef2ad41d82db5073911c7df982cfba74faaa3ba337e33672dc3d5eecfa1fa3",
+  "size": 18935
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "warbler",
+  "title": "Warbler",
+  "description": "Flag sustained clipping while reporting the energy of an audio frame.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-warbler",
+  "commit": "b9876760077cf7fad4cdb28abe1868ff84905ead",
+  "module": "warbler",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "36ce6480635da39f2d260a591936c37ad7fed31f4f1293ff019cc9eb4a1c7dfb",
+  "size": 23287
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "peakslots",
+  "title": "PeakSlots",
+  "description": "Find peak simultaneous occupancy of half-open intervals.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-peakslots",
+  "commit": "414cd9e1a1ddbb10c7689b8fac62f6b3d6829c51",
+  "module": "peakslots",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "1d5dccdda2c1a4fad2830ab447b7c18ce5671c3db4abf4f15ef3c19e26447ae8",
+  "size": 26307
+}

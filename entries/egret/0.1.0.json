@@ -1,0 +1,13 @@
+{
+  "slug": "egret",
+  "title": "Egret",
+  "description": "Summarize richness, singletons and dominance in an ecological field survey.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-egret",
+  "commit": "28be52010c166155c3b24fc3ade5009adef6fba6",
+  "module": "egret",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "4c858a01762d83407c13fc13fec1d8ae2437833c24df6d260c5edcd2e4f7e638",
+  "size": 23319
+}

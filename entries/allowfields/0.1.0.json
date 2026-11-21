@@ -1,0 +1,13 @@
+{
+  "slug": "allowfields",
+  "title": "AllowFields",
+  "description": "Find unrecognized fields after mapping schema keys to stable IDs.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-allowfields",
+  "commit": "889759d62073a50be5df34e929b2ed16cca54e7d",
+  "module": "allowfields",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "0f10a6efb4586df1d98620cf74797bbc53a2c481456f2b0d16616601f6cd7af5",
+  "size": 26230
+}

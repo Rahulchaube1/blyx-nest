@@ -1,0 +1,13 @@
+{
+  "slug": "stratamean",
+  "title": "StrataMean",
+  "description": "Pool event counts and expose the crude observed rate.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-stratamean",
+  "commit": "f234c6e54799995c5b930ed13b259db060d12fa6",
+  "module": "stratamean",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "6f6faeb15b255a533e2d3da654b98f7ca5fb63a04e3adf2cb32ae886af076f53",
+  "size": 26772
+}

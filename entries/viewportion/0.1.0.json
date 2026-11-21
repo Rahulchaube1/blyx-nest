@@ -1,0 +1,13 @@
+{
+  "slug": "viewportion",
+  "title": "ViewPortion",
+  "description": "Clamp a terminal scroll offset to a filled viewport.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-viewportion",
+  "commit": "06be6b2b954710504cf69dedc48f5969b9a93ff4",
+  "module": "viewportion",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "d4447c0cf1c3ee41fce6f09bb8d45a345f458975128f1622a9987c6d9292bcdd",
+  "size": 26097
+}

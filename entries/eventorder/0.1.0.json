@@ -1,0 +1,13 @@
+{
+  "slug": "eventorder",
+  "title": "EventOrder",
+  "description": "Locate time-order anomalies in a log stream in receipt order.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-eventorder",
+  "commit": "8742996a0fb9ff572426cd03d2f24e3bf9e57eff",
+  "module": "eventorder",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "45dd7cc162b3955d84cfb61c9fe45a4b9ad5b271d5ad1cd0fa7049cb453117f1",
+  "size": 27185
+}

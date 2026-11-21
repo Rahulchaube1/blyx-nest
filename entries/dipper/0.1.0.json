@@ -1,0 +1,13 @@
+{
+  "slug": "dipper",
+  "title": "Dipper",
+  "description": "Parse quoted CSV records, preserve embedded line breaks, and validate a row width before consuming a file.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-dipper",
+  "commit": "bd945ed8a3151e302073a37ac3b3c64aa1c1b8f5",
+  "module": "dipper",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "e0e6179384ec7873e1831db698bb31a8d4a190a082f3681b10eea863b4827cf1",
+  "size": 78310
+}

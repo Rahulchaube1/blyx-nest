@@ -1,0 +1,13 @@
+{
+  "slug": "versionchain",
+  "title": "VersionChain",
+  "description": "Validate an applied migration log against a strictly increasing release manifest.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-versionchain",
+  "commit": "1a03979840027527de11a25f7ef93d5d102ecbf2",
+  "module": "versionchain",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "02f55a8c2ee4416bd8b557df46ce05f57cc7c77af63692fa03a2a06a5b1c6603",
+  "size": 26975
+}

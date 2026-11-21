@@ -1,0 +1,13 @@
+{
+  "slug": "intervalunion",
+  "title": "IntervalUnion",
+  "description": "Measure union length and coverage components of sorted half-open intervals.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-intervalunion",
+  "commit": "a3607ec8595ed90551a68166d3c9d199ce3be1d9",
+  "module": "intervalunion",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "1d15031aa3efb52ba33e5003ac1429dece6f6371b6f7b329466a9dc22e7cd095",
+  "size": 26803
+}

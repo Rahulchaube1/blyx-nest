@@ -1,0 +1,13 @@
+{
+  "slug": "auditgaps",
+  "title": "AuditGaps",
+  "description": "Count forward gaps and nonadvancing IDs in an audit export.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-auditgaps",
+  "commit": "f1aee5fc6f293ab68c1c7fbeeb15adff810bf7ae",
+  "module": "auditgaps",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "503ada208a877c4d4b7507ca9d8af86bb193c37f7134597473f7319134ef6e24",
+  "size": 26967
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "bowerbird",
+  "title": "Bowerbird",
+  "description": "Decide whether a proposed numeric-core dependency upgrade fits a declared version range.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-bowerbird",
+  "commit": "34b596d9b86ad95870ea1bd493d5f6f9820fc89e",
+  "module": "bowerbird",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "b98fa8cb75b3e51bf8e0c7cb41ca9eae99ce86388e85c80f8c7445a571513b7d",
+  "size": 24260
+}

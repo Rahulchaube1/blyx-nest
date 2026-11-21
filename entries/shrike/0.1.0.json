@@ -1,0 +1,13 @@
+{
+  "slug": "shrike",
+  "title": "Shrike",
+  "description": "Combine lexical and semantic search results by rank, then walk the merged list in a deterministic order.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-shrike",
+  "commit": "facb71a12c9ad3b44e239f8527bcb314e8aa4f25",
+  "module": "shrike",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "e628f776f8faf493ed7dabe3191cb5f3cb9428bb948766c4c6661737253f1329",
+  "size": 87831
+}

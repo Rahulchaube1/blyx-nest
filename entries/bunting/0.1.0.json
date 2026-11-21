@@ -1,0 +1,13 @@
+{
+  "slug": "bunting",
+  "title": "Bunting",
+  "description": "Publish a distribution as a standalone HTML table with interval labels, counts and meters. Reuse the same bin definitions in reports and tests.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-bunting",
+  "commit": "381a5fbefcf92e3520abe924c20da41d0dffc7fb",
+  "module": "bunting",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "47d7b9ddd97507c529336c300607904d8f22f4e08232f0f3fc5d27f3ae9f7d64",
+  "size": 88949
+}

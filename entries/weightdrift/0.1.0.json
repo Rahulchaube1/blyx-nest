@@ -1,0 +1,13 @@
+{
+  "slug": "weightdrift",
+  "title": "WeightDrift",
+  "description": "Find the largest per-asset deviation between two weight vectors.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-weightdrift",
+  "commit": "8ab90355b4b0ef3e49c4e9216aa7fd61b5445cce",
+  "module": "weightdrift",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "9ec2061d3a8aa5f8a99a3c8d99109f257af2e3fd99b5a61782a60543906fc405",
+  "size": 26506
+}

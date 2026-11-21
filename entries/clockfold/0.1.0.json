@@ -1,0 +1,13 @@
+{
+  "slug": "clockfold",
+  "title": "ClockFold",
+  "description": "Classify a local time around one supplied offset transition.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-clockfold",
+  "commit": "dc677cc5a791a1d19629d33d624ffe4f5f24f648",
+  "module": "clockfold",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "4881ce1fe1a2c24350a93fb3fd8e450014c63daa3c1b8f19de2322695f143c6a",
+  "size": 27887
+}

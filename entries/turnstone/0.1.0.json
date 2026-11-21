@@ -1,0 +1,13 @@
+{
+  "slug": "turnstone",
+  "title": "Turnstone",
+  "description": "Resume a chunked file job from acknowledged checkpoints.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-turnstone",
+  "commit": "bb5e14660a3e17c10fc10565d39aa0976154adf7",
+  "module": "turnstone",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "42b45a438ea5bd53cced130468ac38564310ca71e57df5323a64eb08a7daea9f",
+  "size": 33073
+}

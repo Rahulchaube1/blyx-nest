@@ -1,0 +1,13 @@
+{
+  "slug": "byterange",
+  "title": "ByteRange",
+  "description": "Resolve a single inclusive HTTP byte range to an offset and length.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-byterange",
+  "commit": "7714f56956cb552d46b1e4b9cef595e22f5da508",
+  "module": "byterange",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "6d54e6dd8e88915a48bbd04326405caecfb11815feff99562f4d030183c1be5d",
+  "size": 26289
+}

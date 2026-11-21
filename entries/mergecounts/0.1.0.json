@@ -1,0 +1,13 @@
+{
+  "slug": "mergecounts",
+  "title": "MergeCounts",
+  "description": "Count unique keys shared or exclusive to two sorted streams.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-mergecounts",
+  "commit": "3bf25828b0c78889340a4172f4056b15c1756b8c",
+  "module": "mergecounts",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "866cc570594e4f21d56882539064d50de50b999e83a91dbc469e063bcc0af56b",
+  "size": 27286
+}

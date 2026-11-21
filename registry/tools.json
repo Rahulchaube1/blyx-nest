@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "blyxc",
+    "title": "Blyx Compiler",
+    "version": "0.2.1",
+    "description": "Check and run Blyx programs or compile a native executable.",
+    "repository": "https://github.com/Rahulchaube1/blyxxxx",
+    "release": "https://github.com/Rahulchaube1/blyxxxx/releases/tag/v0.2.1",
+    "guide": "https://www.blyx-lang.space/download"
+  },
+  {
+    "slug": "nest",
+    "title": "Nest CLI",
+    "version": "0.1.0",
+    "description": "Search Blyx packages, add a pinned release to a project and restore locked dependencies.",
+    "repository": "https://github.com/Rahulchaube1/blyx-nest",
+    "release": "https://github.com/Rahulchaube1/blyx-nest/releases/tag/v0.1.0",
+    "guide": "install.html"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "slug": "swallow",
+  "title": "Swallow",
+  "description": "Validate an exported payload's declared spans and checksum, then locate a byte.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-swallow",
+  "commit": "74d9702c0e820be16279fece9b3738fd7b6b4988",
+  "module": "swallow",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "1e36a0de333f62a331074e3ee5154f5a240a46d119a59419f54f6b3b12a54cba",
+  "size": 23487
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "starling",
+  "title": "Starling",
+  "description": "Estimate resource capacity and actual occupied time from a booking schedule.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-starling",
+  "commit": "c0385686f229dac3cd0b78400006688811b3f138",
+  "module": "starling",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "e1c2451524c133d1d1edc35a9e67d57e0357a115b53e0aa890a61cecea890f5c",
+  "size": 24017
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "bitparity",
+  "title": "BitParity",
+  "description": "Measure even/odd parity from a two-bit measurement histogram.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-bitparity",
+  "commit": "29d937131c54b3c25cac7473cc2614796e1f59b3",
+  "module": "bitparity",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "adfcfe35604f6fd187f66c94953933f64eddb7cd5337b5a6c8ac3b382059b5aa",
+  "size": 26923
+}

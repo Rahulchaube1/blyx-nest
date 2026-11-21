@@ -1,0 +1,13 @@
+{
+  "slug": "heron",
+  "title": "Heron",
+  "description": "Track one sensor feed’s accepted messages, duplicate sequence numbers, out-of-order arrivals and missed deadlines.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-heron",
+  "commit": "945ce68dbeb541d760351f359a71252694b2db06",
+  "module": "heron",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "5f5ec92849ef37298cab195f869e11904a467b9643d940bf5f36f89679ef22db",
+  "size": 109162
+}

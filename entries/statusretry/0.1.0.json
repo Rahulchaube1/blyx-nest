@@ -1,0 +1,13 @@
+{
+  "slug": "statusretry",
+  "title": "StatusRetry",
+  "description": "Check a conservative retry policy for selected gRPC status codes.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-statusretry",
+  "commit": "3236a4811f1984bac12effbd7f96dd7bd03f8343",
+  "module": "statusretry",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "fd4744c4ca9dc0929b16c45d9c64ae6be362c6b566dcf5233f609d8d0f828ffb",
+  "size": 27527
+}

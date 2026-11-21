@@ -1,0 +1,13 @@
+{
+  "slug": "dominance",
+  "title": "Dominance",
+  "description": "Compute Simpson dominance and its complement from abundance counts.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-dominance",
+  "commit": "c3e8c3531e06d84d5154182703a8fc15359ec619",
+  "module": "dominance",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "9c91029360180d1d4e646f3749b11e052e1dd5fa21ff6a9063abfbb1b29d1dcf",
+  "size": 27744
+}

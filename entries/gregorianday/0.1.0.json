@@ -1,0 +1,13 @@
+{
+  "slug": "gregorianday",
+  "title": "GregorianDay",
+  "description": "Validate a proleptic Gregorian date and calculate its day-of-year.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-gregorianday",
+  "commit": "ff2663da662bd0a545d04336e660e404ab568348",
+  "module": "gregorianday",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "a1996819f31c8f44c78f4794d40c55eedd0786f31fc41d98f78901730ca3149b",
+  "size": 26654
+}

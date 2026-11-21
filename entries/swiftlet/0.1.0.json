@@ -1,0 +1,13 @@
+{
+  "slug": "swiftlet",
+  "title": "Swiftlet",
+  "description": "Dispatch a method and request path against a table of literal and parameterized routes. Return a matched template and the methods a client can use.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-swiftlet",
+  "commit": "3019450b9aa1174909e3772025c2c2deca127842",
+  "module": "swiftlet",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "d030bc56250e3913db8c337230afec45e5c7c714230f5ccb31a696f5ea1652c8",
+  "size": 96110
+}

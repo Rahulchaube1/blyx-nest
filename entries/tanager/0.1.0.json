@@ -1,0 +1,13 @@
+{
+  "slug": "tanager",
+  "title": "Tanager",
+  "description": "Audit a directed edge list before interpreting a vertex's degree.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-tanager",
+  "commit": "1d2a585d2b2e595d77b52ae22a8c6d57fbf1bcda",
+  "module": "tanager",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "76e7885b4c199b2a4ee34086f4743b23fd2df0734bf497d08041bb9e38e77bfe",
+  "size": 32899
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "coalesceio",
+  "title": "CoalesceIO",
+  "description": "Count merged reads and extra gap bytes for sorted byte requests.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-coalesceio",
+  "commit": "66cfd6c94222458644e2279974e0fa2a9a99e69e",
+  "module": "coalesceio",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "90b0336505469934aebc4e6a118f60486193ce47615e7ff9ae5dfea478e8b1dc",
+  "size": 27434
+}

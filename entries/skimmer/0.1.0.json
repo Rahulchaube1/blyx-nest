@@ -1,0 +1,13 @@
+{
+  "slug": "skimmer",
+  "title": "Skimmer",
+  "description": "Compare parity and marginal balance in two-bit shot data.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-skimmer",
+  "commit": "0eef3f57c44013ca6c7a0f44f587866ff0ef2e04",
+  "module": "skimmer",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "b4c8d5f852fe489e5a5334007d21c137511f574f73219c2444bbbe500539ee64",
+  "size": 28701
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "linnet",
+  "title": "Linnet",
+  "description": "Summarize speech-activity intervals from a precomputed frame-level envelope.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-linnet",
+  "commit": "94e468ce8ca37d16e698c0154963ccdc0e316259",
+  "module": "linnet",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "563632768caf4574b9273a93bf74827ba49ccacbc65b24e94386353b02513748",
+  "size": 32684
+}

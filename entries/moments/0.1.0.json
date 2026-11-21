@@ -1,0 +1,13 @@
+{
+  "slug": "moments",
+  "title": "Moments",
+  "description": "Summarize paired observations as they arrive and merge statistics from independent batches.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-moments",
+  "commit": "15ab010ca2aa4573ca685055108c7eb9cad29d9c",
+  "module": "moments",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "43359540a51956b88f2c6ebb67204e9846e6b33675f198b9eba49ca13fe8d7d2",
+  "size": 19514
+}

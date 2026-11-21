@@ -1,0 +1,13 @@
+{
+  "slug": "budgetleft",
+  "title": "BudgetLeft",
+  "description": "Account for whole allowed failures in an observed window.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-budgetleft",
+  "commit": "74001c0ba1b126f0d8e1249ad8873fdfc44e5f3b",
+  "module": "budgetleft",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "8e704ef35a56b5bfe0c815a9c8781db04d9506314c6d04fb0f13e2ccad4be423",
+  "size": 27098
+}

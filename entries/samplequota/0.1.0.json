@@ -1,0 +1,13 @@
+{
+  "slug": "samplequota",
+  "title": "SampleQuota",
+  "description": "Allocate a bounded log buffer with higher priority for important records.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-samplequota",
+  "commit": "56cf88913427a9d99a0fcbe1cb7147416d9b46d1",
+  "module": "samplequota",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "4bdfb5255aea67e5bc5aa5eb0c68d0bf8e50e2187837909d336b75b43f725e03",
+  "size": 26727
+}

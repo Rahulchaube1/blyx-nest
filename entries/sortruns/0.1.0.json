@@ -1,0 +1,13 @@
+{
+  "slug": "sortruns",
+  "title": "SortRuns",
+  "description": "Summarize equal-value runs in a nondecreasing integer stream.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-sortruns",
+  "commit": "31ff43c96ec634c4389b1103316b85b9070ec659",
+  "module": "sortruns",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "3076414f737e300b9d3009e151cbc538af459b391475e22647f750532e85a933",
+  "size": 26648
+}

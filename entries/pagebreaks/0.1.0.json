@@ -1,0 +1,13 @@
+{
+  "slug": "pagebreaks",
+  "title": "PageBreaks",
+  "description": "Place unsplittable document blocks on successive pages in input order.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-pagebreaks",
+  "commit": "73b7b6c9da98b1ddd0aee9b5b7a2dadc38bc53ea",
+  "module": "pagebreaks",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "a1d585f9d9821c1ef414e03cb4ec3707b7503d44ab04cc0c6ed0525900fc731a",
+  "size": 27395
+}

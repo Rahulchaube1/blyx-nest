@@ -1,0 +1,13 @@
+{
+  "slug": "drawdepth",
+  "title": "DrawDepth",
+  "description": "Measure the deepest historical peak-to-trough equity decline.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-drawdepth",
+  "commit": "4cdb0f55e7d37f63973158c2d5df68f7d508749d",
+  "module": "drawdepth",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "536d0d99643348ca31ea165b4b89e02fbb18b108325dfde7c2422e8fae83dc60",
+  "size": 26162
+}

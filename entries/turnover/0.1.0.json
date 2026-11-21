@@ -1,0 +1,13 @@
+{
+  "slug": "turnover",
+  "title": "Turnover",
+  "description": "Calculate one-way turnover for two fully allocated long-only weight vectors.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-turnover",
+  "commit": "c00f0e03242ec455593d92e4a3d357499d974888",
+  "module": "turnover",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "2e2b255cbdde2f2a54639ea4c186b3dc1bb0dd42270455e087be4737a6042a19",
+  "size": 26559
+}

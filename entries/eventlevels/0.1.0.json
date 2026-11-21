@@ -1,0 +1,13 @@
+{
+  "slug": "eventlevels",
+  "title": "EventLevels",
+  "description": "Count log records at or above an OpenTelemetry severity number.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-eventlevels",
+  "commit": "6f006b48a80351f7d4056b67cff0a52c002982f8",
+  "module": "eventlevels",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "ec393830fae6f99eb1f7edfb50e8f2e6d6c8315591af90b8a1867d0d26d1eae2",
+  "size": 26239
+}

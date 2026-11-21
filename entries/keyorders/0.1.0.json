@@ -1,0 +1,13 @@
+{
+  "slug": "keyorders",
+  "title": "KeyOrders",
+  "description": "Check a cursor key sequence for repeated and descending adjacent values.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-keyorders",
+  "commit": "bd4a61e7115b17cb6a1848242ec48b65d0c28d93",
+  "module": "keyorders",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "bec8d9b2d36415fa873073365f269454e13d4fb012c3c60c3f2d55b7944d95c7",
+  "size": 26803
+}

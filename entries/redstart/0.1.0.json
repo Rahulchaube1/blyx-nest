@@ -1,0 +1,13 @@
+{
+  "slug": "redstart",
+  "title": "Redstart",
+  "description": "Update a binary-event model and report uncertainty in its probability.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-redstart",
+  "commit": "4298bb79a12491172685dc8d33de25c979201941",
+  "module": "redstart",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "ecc4ac8c32bcb3417cb73062bb0a37e385c4add5e3ed5cca5123f46d33a401e0",
+  "size": 23433
+}

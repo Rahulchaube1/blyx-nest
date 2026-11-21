@@ -1,0 +1,13 @@
+{
+  "slug": "spoonbill",
+  "title": "Spoonbill",
+  "description": "Preflight caption cue timings against an explicit overlap policy.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-spoonbill",
+  "commit": "b9d650e7ec6a346d1060f7f15e54bcfa370f89e3",
+  "module": "spoonbill",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "6ea4fe027520f20e61ae5660a31ea164e0bfff08e908ff0c0e8c148665f4247e",
+  "size": 23967
+}

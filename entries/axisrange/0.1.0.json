@@ -1,0 +1,13 @@
+{
+  "slug": "axisrange",
+  "title": "AxisRange",
+  "description": "Compute a chart domain and expand a constant-valued series.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-axisrange",
+  "commit": "a8aa8c8280f09ba39aae45e7a3b5860b77ca726a",
+  "module": "axisrange",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "9040731a343c43b439598e87af6b0a49549ddd2c4bb1497ad4d5381ee8467c07",
+  "size": 26585
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "stockledger",
+  "title": "StockLedger",
+  "description": "Reconcile on-hand inventory with individual outstanding reservations.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-stockledger",
+  "commit": "1aabeffc9c728297bcab5b044243ed3d01261258",
+  "module": "stockledger",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "4a99a9a321b6c8afe1ad2fa47ca599dcb4f551cc9569e2068e162968f6ad3829",
+  "size": 26758
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "petrel",
+  "title": "Petrel",
+  "description": "Admit an immediate charge or report the wait a request can afford.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-petrel",
+  "commit": "8207bcf64241ec9e11673d5baa951b91014a1e92",
+  "module": "petrel",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "38e4898207d6495e924047deb16405706bec93fb029d6c8d4b14ebcb79c9fad6",
+  "size": 23983
+}

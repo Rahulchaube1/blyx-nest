@@ -1,0 +1,13 @@
+{
+  "slug": "linearfit",
+  "title": "LinearFit",
+  "description": "Train, merge and deploy a single-feature least-squares or ridge regression with an unpenalized intercept.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-linearfit",
+  "commit": "6a937457b27d8adf5601025e6244474a1be273e5",
+  "module": "linearfit",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "0a6024b95d04f97de66cab776bef3c2180e166e74b00d9a64bbde9a362732c19",
+  "size": 27471
+}

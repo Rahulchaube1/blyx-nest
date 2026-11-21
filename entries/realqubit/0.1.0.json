@@ -1,0 +1,13 @@
+{
+  "slug": "realqubit",
+  "title": "RealQubit",
+  "description": "Apply I, X, Z or Hadamard to a normalized real-amplitude qubit.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-realqubit",
+  "commit": "0510f5c38682f47c32ce74d8f0ea0f72b02c3bfd",
+  "module": "realqubit",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "647c87aec212eec1d9c1b2ded6b5c87c9bed7225d10186712f4273a267d1dc4a",
+  "size": 26801
+}

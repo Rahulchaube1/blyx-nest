@@ -1,0 +1,13 @@
+{
+  "slug": "pintail",
+  "title": "Pintail",
+  "description": "Compare long-only portfolio snapshots under a one-way turnover budget.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-pintail",
+  "commit": "380c8a3a434e3c688ca8aebfbbbbb1eaeed6b988",
+  "module": "pintail",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "3dda1405af8f119f8e77e9c98de2c763628829834f2ff1c43b242eae95981556",
+  "size": 24333
+}

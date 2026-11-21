@@ -1,0 +1,13 @@
+{
+  "slug": "sandpiper",
+  "title": "Sandpiper",
+  "description": "Schedule a deterministic redelivery after both lease expiry and retry backoff.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-sandpiper",
+  "commit": "f5b6ff784571e7dde8ed0a27259eaa35b332c3a5",
+  "module": "sandpiper",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "eb4250e091ce0f64aa0bb34e2bafb60d06f5b1d564872dad66cce7c6648c70d3",
+  "size": 28487
+}

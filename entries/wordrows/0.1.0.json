@@ -1,0 +1,13 @@
+{
+  "slug": "wordrows",
+  "title": "WordRows",
+  "description": "Count greedy terminal lines from premeasured word widths.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-wordrows",
+  "commit": "178fe08affe30b0e5685b88314fcedfdf185ce2d",
+  "module": "wordrows",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "055abe726af64c8c35765f0bee962082051531acd5ea35ffb98c4137c40035f3",
+  "size": 26525
+}

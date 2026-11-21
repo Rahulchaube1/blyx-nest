@@ -1,0 +1,13 @@
+{
+  "slug": "linefit",
+  "title": "LineFit",
+  "description": "Compute the usable print area and whole lines per page.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-linefit",
+  "commit": "afa8b9907f33e6ff9335b4123cde06ab28f2dff9",
+  "module": "linefit",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "26c63543214dd4907c0d32043f5030c9daeb24a6465001c550adb91ad7974733",
+  "size": 26390
+}

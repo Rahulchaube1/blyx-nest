@@ -1,0 +1,13 @@
+{
+  "slug": "deadlinepath",
+  "title": "DeadlinePath",
+  "description": "Propagate a parent time budget across elapsed RPC stages.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-deadlinepath",
+  "commit": "550861e76e2db7461ef015d16a07b02c5fc1afea",
+  "module": "deadlinepath",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "56838afef97a5a3022980ef3d10906120ee6c588b947c18e977203d34f4cb21f",
+  "size": 28067
+}

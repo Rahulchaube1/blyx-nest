@@ -1,0 +1,13 @@
+{
+  "slug": "retrieval",
+  "title": "Retrieval",
+  "description": "Score ranked search or RAG results without giving repeated document IDs extra credit.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-retrieval",
+  "commit": "3e8be65262314fb823771a09e0947ccf1e5cf8f8",
+  "module": "retrieval",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "a294f0c38e44fa665fec872463f9084e17ae6a38a5fc65448c33ea80397c383e",
+  "size": 15745
+}

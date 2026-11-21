@@ -1,0 +1,13 @@
+{
+  "slug": "retrydelay",
+  "title": "RetryDelay",
+  "description": "Compute saturating exponential retry delays without unbounded exponentiation.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-retrydelay",
+  "commit": "1464560b8c81ae3f8895cd9d734ae19daaf54760",
+  "module": "retrydelay",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "2613e0f3c82f82e13de9ccc711077040440c4413afc2bcdaf06f7d531d0e6ad5",
+  "size": 27068
+}

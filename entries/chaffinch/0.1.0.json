@@ -1,0 +1,13 @@
+{
+  "slug": "chaffinch",
+  "title": "Chaffinch",
+  "description": "Reconcile sorted collection snapshots without materializing their union.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-chaffinch",
+  "commit": "76d2d9cdad9812cedce6e5ef474a097c5d31dc71",
+  "module": "chaffinch",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "734792943b5c9a4fbd09031cd55ecd33dad30b2c66d0385d6f65e9c1ddde5af5",
+  "size": 28640
+}

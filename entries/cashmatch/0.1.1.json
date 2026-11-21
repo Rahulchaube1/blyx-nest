@@ -1,0 +1,13 @@
+{
+  "slug": "cashmatch",
+  "title": "CashMatch",
+  "description": "Apply posted payments and preserve customer credit separately.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-cashmatch",
+  "commit": "64f8c0ab67c2a8786a89f530214db7517dc59b0d",
+  "module": "cashmatch",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "86e8db5dcfd53da34f9aed3d3f74ecb75b0be5893bf0d88f2c80a5f5c43bb6d4",
+  "size": 26367
+}

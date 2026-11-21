@@ -1,0 +1,13 @@
+{
+  "slug": "exitpolicy",
+  "title": "ExitPolicy",
+  "description": "Summarize portable process exit codes without losing the first failure.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-exitpolicy",
+  "commit": "a3e784dc404ca7e766e0d332adb704abd17b8b52",
+  "module": "exitpolicy",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "83226b65efa8fdcf09d67f5ef04f0275e9172b6b49908c7be0bc9b7fe747001a",
+  "size": 26992
+}

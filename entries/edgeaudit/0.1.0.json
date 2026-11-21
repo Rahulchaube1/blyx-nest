@@ -1,0 +1,13 @@
+{
+  "slug": "edgeaudit",
+  "title": "EdgeAudit",
+  "description": "Audit exact repeated directed edges and self-loops.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-edgeaudit",
+  "commit": "d200330580129b9465c73d3c73125bd47351a283",
+  "module": "edgeaudit",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "37ff38dd7a8a2fc99933a2e2eae1b7437c52d7d849c16165b0692ee4ec014bdd",
+  "size": 27107
+}

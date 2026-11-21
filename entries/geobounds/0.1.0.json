@@ -1,0 +1,13 @@
+{
+  "slug": "geobounds",
+  "title": "GeoBounds",
+  "description": "Find a projected planar extent from paired point coordinates.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-geobounds",
+  "commit": "cbb96386d2ae7943e9e928b0fa24e870bfbe74eb",
+  "module": "geobounds",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "0b4534daeeebd64d4a959c9e123bda61d3a8339a81276f42f7ca47048bb60708",
+  "size": 28269
+}

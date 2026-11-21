@@ -1,0 +1,13 @@
+{
+  "slug": "albatross",
+  "title": "Albatross",
+  "description": "Estimate a build forest's scheduling lower bound from dependencies and worker capacity.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-albatross",
+  "commit": "b2387f24eed18a45ba049ce68f27b62aaa34b491",
+  "module": "albatross",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "ad85b7c7b0f9622a2eeb07f2e80bad43196ecb609a5dcc17b2c169a49be58ecb",
+  "size": 33034
+}

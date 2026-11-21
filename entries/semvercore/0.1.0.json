@@ -1,0 +1,13 @@
+{
+  "slug": "semvercore",
+  "title": "SemVerCore",
+  "description": "Compare two numeric semantic-version cores lexicographically.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-semvercore",
+  "commit": "248827e9b3e1fa5c52b36ad63d3b9cd37c7ec5a1",
+  "module": "semvercore",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "c7b425a78ad87c782d962ee352977f1a2d5b455fa448ba180e671c8a28fb1d9f",
+  "size": 27600
+}

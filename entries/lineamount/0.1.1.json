@@ -1,0 +1,13 @@
+{
+  "slug": "lineamount",
+  "title": "LineAmount",
+  "description": "Extend paired invoice quantities and prices in integer minor units.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-lineamount",
+  "commit": "f9d4b2962c7778ab5840e0579c36c175523086f9",
+  "module": "lineamount",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "c9524ba1ae71330613b41beb3432365282edab76e8f945271f3d11d81779ac18",
+  "size": 26665
+}

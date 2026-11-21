@@ -1,0 +1,13 @@
+{
+  "slug": "activityspan",
+  "title": "ActivitySpan",
+  "description": "Locate active frames in a sequence of nonnegative signal levels.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-activityspan",
+  "commit": "5868f268f4f7d443e80919c9ca7ff8d67f929452",
+  "module": "activityspan",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "2846d1b93d27fe942bad828b0370d811322dce9ea8d4b78886c06bf80771430c",
+  "size": 26746
+}

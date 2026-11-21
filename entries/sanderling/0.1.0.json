@@ -1,0 +1,13 @@
+{
+  "slug": "sanderling",
+  "title": "Sanderling",
+  "description": "Choose a cache serving mode from stored age, local elapsed time and grace policy.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-sanderling",
+  "commit": "44b22f8bed88b555c358af8133476c1e05f6ef17",
+  "module": "sanderling",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "fa5ebc5b8901c8909d53a9a0af2d05d32340ce80cca66dc62c73d54f65e80624",
+  "size": 28819
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "linewidth",
+  "title": "LineWidth",
+  "description": "Find overlong source lines from measured display columns.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-linewidth",
+  "commit": "ef8bf6e6e104f8fb17b8a010b2f38d314940c317",
+  "module": "linewidth",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "89f886538c36864332241c2d248cf808e6b210ffb8b625d6b298fa454ee53b5c",
+  "size": 27386
+}

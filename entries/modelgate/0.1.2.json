@@ -1,0 +1,13 @@
+{
+  "slug": "modelgate",
+  "title": "ModelGate",
+  "description": "Compare two binary classifiers on the same observations and stop a release when mistake costs or Brier score regress.",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-modelgate",
+  "commit": "0aa7b9dd067eaf74f9d3b07ca9ea4a51a9e0d181",
+  "module": "gate",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "bfba9486761f8a1badc3b33336ada08c7a722d2970abbd7a373bb4d56a6d6435",
+  "size": 29184
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "blockspan",
+  "title": "BlockSpan",
+  "description": "Expand a byte request to whole storage blocks.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-blockspan",
+  "commit": "713d0a9be1de771edfe95039432f63eac69ba66a",
+  "module": "blockspan",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "0067955276c44709c497544bfec41caa1d5566edf3f977168a2e7d88313fcbcf",
+  "size": 26491
+}

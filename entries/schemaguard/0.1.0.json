@@ -1,0 +1,13 @@
+{
+  "slug": "schemaguard",
+  "title": "SchemaGuard",
+  "description": "Detect changed fingerprints for previously applied migrations.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-schemaguard",
+  "commit": "4699238fb863311cd07259818e54fb00361c9fbc",
+  "module": "schemaguard",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "a63a8c1b4b00a69c4b511c76f0e9d239ed20a590eb461f4cf82f6ed4167e919e",
+  "size": 27291
+}

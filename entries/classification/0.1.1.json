@@ -1,0 +1,13 @@
+{
+  "slug": "classification",
+  "title": "Classification",
+  "description": "Measure threshold decisions, false alarms, missed positives and their costs.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-classification",
+  "commit": "d22aecbe930c3b48a3e157b75f5276d4c52037e8",
+  "module": "classification",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "0b643521db95b3a6584aeee26e6612c8010d84b3ad58f29857037fb5a4a27874",
+  "size": 23981
+}

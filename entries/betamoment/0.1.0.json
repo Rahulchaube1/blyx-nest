@@ -1,0 +1,13 @@
+{
+  "slug": "betamoment",
+  "title": "BetaMoment",
+  "description": "Calculate the mean and variance of a Beta distribution.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-betamoment",
+  "commit": "7d173028642562a56cd506c703972694522ace69",
+  "module": "betamoment",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "5045ba0ca0634b4c7794221927d4117925f24d96a41b285d9913c05e9869abc4",
+  "size": 26917
+}

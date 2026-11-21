@@ -1,0 +1,13 @@
+{
+  "slug": "conformal",
+  "title": "Conformal",
+  "description": "Calibrate a regression interval from held-out errors and measure coverage on a separate test set.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-conformal",
+  "commit": "2e26e32a67000c06ff0f794c6f8cdcab1efb6734",
+  "module": "conformal",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "f75e181c4a18e10ab5126f789e027db15aeda431793935587b43d091c898c146",
+  "size": 22047
+}

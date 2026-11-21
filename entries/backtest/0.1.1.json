@@ -1,0 +1,13 @@
+{
+  "slug": "backtest",
+  "title": "Backtest",
+  "description": "Evaluate forecasts in time order with a gap for delayed observations and disjoint test windows.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-backtest",
+  "commit": "2371260a23c140652d58fcec38a81a6e756a3282",
+  "module": "backtest",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "ee54576ebe38bed9b9202f40e839196a7244e09c2cd15bc875f35c350c4aea9c",
+  "size": 21990
+}

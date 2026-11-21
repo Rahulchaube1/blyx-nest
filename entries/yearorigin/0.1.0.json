@@ -1,0 +1,13 @@
+{
+  "slug": "yearorigin",
+  "title": "YearOrigin",
+  "description": "Count Gregorian days before January 1 of a year.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-yearorigin",
+  "commit": "7ebf5895863b1977e5001b6046edb457e6ec69e4",
+  "module": "yearorigin",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "a4cd2a75fe2e70cca8d873a21d831c0750096b16fb32f87c0c08c2af0e7b3099",
+  "size": 27743
+}

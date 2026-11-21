@@ -1,0 +1,13 @@
+{
+  "slug": "foreignmiss",
+  "title": "ForeignMiss",
+  "description": "Count child rows referencing absent numeric parent keys.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-foreignmiss",
+  "commit": "fb3ce916641d75782f581203a01085c5ae88be9f",
+  "module": "foreignmiss",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "f84910f1ddf761496c218d25e5103df00f56bf94d25841fd9639bf5204158a47",
+  "size": 27085
+}

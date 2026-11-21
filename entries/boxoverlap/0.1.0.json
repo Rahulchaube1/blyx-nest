@@ -1,0 +1,13 @@
+{
+  "slug": "boxoverlap",
+  "title": "BoxOverlap",
+  "description": "Measure intersection and union of two axis-aligned image boxes.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-boxoverlap",
+  "commit": "8f968a367ab84f6ccc917a313a574ddeef929968",
+  "module": "boxoverlap",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "4c803905a3b7c28a49555db86b116e262cd04e3fd319a300e963bdc28a6a180e",
+  "size": 27546
+}

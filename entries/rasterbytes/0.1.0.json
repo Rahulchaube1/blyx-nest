@@ -1,0 +1,13 @@
+{
+  "slug": "rasterbytes",
+  "title": "RasterBytes",
+  "description": "Estimate uncompressed raster storage with aligned scanlines.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-rasterbytes",
+  "commit": "46033923ce1c0344ae80b5c2933a2830e25d0f1a",
+  "module": "rasterbytes",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "c01e3b37dce596d49dfb6d91e220dabe555bb29980d4f6f6ad0e5d1b97e40715",
+  "size": 27243
+}

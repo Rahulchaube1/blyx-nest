@@ -1,0 +1,13 @@
+{
+  "slug": "transitspan",
+  "title": "TransitSpan",
+  "description": "Summarize observed packet transit differences and arrival reorderings.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-transitspan",
+  "commit": "aeb061b8ae894988a13e951deed41f09e9f87b08",
+  "module": "transitspan",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "ce3dab73ecc25acf84d1ede6e9272f56e1988c01e9f554f6d172dfc99740c595",
+  "size": 26811
+}

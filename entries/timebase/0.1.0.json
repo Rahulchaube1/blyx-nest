@@ -1,0 +1,13 @@
+{
+  "slug": "timebase",
+  "title": "TimeBase",
+  "description": "Convert a nonnegative frame tick to seconds using a rational time base.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-timebase",
+  "commit": "6617f6b0d76d2baf2ca1bc1813f42e217a1c4d90",
+  "module": "timebase",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "6f72667c47cc21d7e9ecbff7e2e66e78ca008fcc53dd0e3eb72d70c2527ebad8",
+  "size": 26029
+}

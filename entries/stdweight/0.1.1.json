@@ -1,0 +1,13 @@
+{
+  "slug": "stdweight",
+  "title": "StdWeight",
+  "description": "Directly standardize stratum-specific rates to a reference population.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-stdweight",
+  "commit": "7b71c765a8741f357331fc70b30068d060e68602",
+  "module": "stdweight",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "ad57c34d20a2ff5b02d30e571556c21bb3d8313086a82ae1a67c1d6438b5a04e",
+  "size": 27686
+}

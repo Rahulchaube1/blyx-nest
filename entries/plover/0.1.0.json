@@ -1,0 +1,13 @@
+{
+  "slug": "plover",
+  "title": "Plover",
+  "description": "Gate alerts on error-budget burn in both a short and a long window.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-plover",
+  "commit": "603e6eca4500d34af035e4b77648d06495e40a50",
+  "module": "plover",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "e8686f2c1e208947771c52bc1a8e341e850e0c03746da5b124df0b08161c535a",
+  "size": 33607
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "requiredset",
+  "title": "RequiredSet",
+  "description": "Find missing unique required keys in an object shape.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-requiredset",
+  "commit": "18e56d72874d671ae95ddf0b23f8e39caed05da8",
+  "module": "requiredset",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "1dad5c7c2e3f50357a81d4d9f9908310ea7c762a46dca405cd79d1ac143c809e",
+  "size": 25935
+}

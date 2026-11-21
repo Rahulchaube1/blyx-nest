@@ -1,0 +1,13 @@
+{
+  "slug": "waitbudget",
+  "title": "WaitBudget",
+  "description": "Compute the wait required for a token charge within a relative deadline.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-waitbudget",
+  "commit": "f5a4098b71dd93f46edebd67a97f6362ed9125c1",
+  "module": "waitbudget",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "cac32b19fa0f0367d2f17f99fd6113c4cf858812bbdeeef3507ce9fa2d0d4b92",
+  "size": 26993
+}

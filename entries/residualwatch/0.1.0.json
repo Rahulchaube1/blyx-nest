@@ -1,0 +1,13 @@
+{
+  "slug": "residualwatch",
+  "title": "ResidualWatch",
+  "description": "Monitor prediction drift by detecting sustained upward or downward changes in errors against a frozen reference period.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-residualwatch",
+  "commit": "30b5901f566db191b3fc3a31fa7b06fedbba4f38",
+  "module": "residualwatch",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "b06cea9839c9cfde0aeef263892125764790726dd9cbf2bffcf611c55a8e5eb9",
+  "size": 22063
+}

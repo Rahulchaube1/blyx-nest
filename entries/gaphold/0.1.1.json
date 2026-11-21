@@ -1,0 +1,13 @@
+{
+  "slug": "gaphold",
+  "title": "GapHold",
+  "description": "Count activity segments while bridging short internal silences.",
+  "version": "0.1.1",
+  "repository": "https://github.com/Rahulchaube1/blyx-gaphold",
+  "commit": "65d7a6c85c9ad15df1bae8da15d3dc6bc5343f0e",
+  "module": "gaphold",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "49154accfe09f37715d9943c61f926bfe5f4305f41c5b46e71eca30fbccb19dc",
+  "size": 26947
+}

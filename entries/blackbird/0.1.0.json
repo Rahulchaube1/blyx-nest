@@ -1,0 +1,13 @@
+{
+  "slug": "blackbird",
+  "title": "Blackbird",
+  "description": "Resolve a wall-clock timestamp at a known gap or fold without guessing its offset.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-blackbird",
+  "commit": "30dc8057641e7f2b2d2715cdb5a666304f50571e",
+  "module": "blackbird",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "809349c5490e9f90c42cbbf4bd508462772559ee92cea9bd0a3e26aa0893a41e",
+  "size": 33052
+}

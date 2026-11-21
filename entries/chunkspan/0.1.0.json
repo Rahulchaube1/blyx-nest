@@ -1,0 +1,13 @@
+{
+  "slug": "chunkspan",
+  "title": "ChunkSpan",
+  "description": "Locate a fixed-width chunk including the final partial chunk.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-chunkspan",
+  "commit": "5be66afce56794ed8690afdc6395878cfd8e851f",
+  "module": "chunkspan",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "ddc887c6c97f18e406d8ed2ecb8e5e1f7f9703a0b951e2913aaaccfbb6bdc36d",
+  "size": 27369
+}

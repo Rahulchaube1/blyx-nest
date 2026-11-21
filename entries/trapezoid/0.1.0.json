@@ -1,0 +1,13 @@
+{
+  "slug": "trapezoid",
+  "title": "Trapezoid",
+  "description": "Integrate sampled values by the composite trapezoidal rule in input order.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-trapezoid",
+  "commit": "c2f33639f90d218e5127b6952879a252e844f97d",
+  "module": "trapezoid",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "60c8f6f2f1ec0079777873f2a3417bcc7e6b4e1cf9925ac0e1dfa5e663aeaf08",
+  "size": 27138
+}

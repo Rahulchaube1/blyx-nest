@@ -1,0 +1,29 @@
+name: Propose a Blyx developer tool
+description: Submit a tool built specifically for the Blyx ecosystem.
+title: "Tool submission — "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name and version
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source repository and license
+    validations:
+      required: true
+  - type: input
+    id: downloads
+    attributes:
+      label: Release downloads and checksums
+    validations:
+      required: true
+  - type: textarea
+    id: integration
+    attributes:
+      label: Blyx integration
+      description: Give the installation instructions and a command that operates on a Blyx program or project.
+    validations:
+      required: true

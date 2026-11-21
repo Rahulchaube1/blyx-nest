@@ -1,0 +1,13 @@
+{
+  "slug": "pipit",
+  "title": "Pipit",
+  "description": "Plan the next CLI batch from child exit codes and a failure allowance.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-pipit",
+  "commit": "7cbc6b99fa003842082d2b6d6a7e82b8513fe562",
+  "module": "pipit",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "7594408d8881d1306ba591276cb31454fa56c4fe5be05efbf6d7cc58c8a98e85",
+  "size": 28055
+}

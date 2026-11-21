@@ -1,0 +1,13 @@
+{
+  "slug": "releasewindow",
+  "title": "ReleaseWindow",
+  "description": "Locate a clock tick within a scheduled publication window.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-releasewindow",
+  "commit": "a16228bfc5774e5d89a3f2b8e6385fe7267a0259",
+  "module": "releasewindow",
+  "kind": "library",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "1435f9aea926c0b3812f44f127e7b47be06f64c21215aad369afa87fbd57c266",
+  "size": 27536
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "merganser",
+  "title": "Merganser",
+  "description": "Report drawdown depth and time below the running peak for a historical series.",
+  "version": "0.1.0",
+  "repository": "https://github.com/Rahulchaube1/blyx-merganser",
+  "commit": "c4085cb3aa2f26a0a9c84fb4244cf6921d1ab5d6",
+  "module": "merganser",
+  "kind": "framework",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "597a626881ae35da46aea6a9b6aa54f11fde393b982966a8f07da63e8fc94ff7",
+  "size": 28073
+}

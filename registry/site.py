@@ -174,6 +174,11 @@ def build():
     write_json(OUT/'api/v1/index.json',{'schema':1,'packages':index,'tools':tools})
     index_page(index,tools)
     docs_pages()
+    locations = ['/', '/install.html', '/publish.html']
+    locations.extend('/packages/'+p['slug']+'.html' for p in index)
+    locations.extend('/tools/'+t['slug']+'.html' for t in tools)
+    write('sitemap.xml', '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+PRIMARY+loc+'</loc></url>' for loc in locations)+'</urlset>\n')
+    write('robots.txt','User-agent: *\nAllow: /\nSitemap: '+PRIMARY+'/sitemap.xml\n')
     print('Built',len(index),'Blyx packages and',len(tools),'developer tools')
 
 

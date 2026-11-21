@@ -1,16 +1,16 @@
 """Build the public HTML registry, JSON API and downloadable source projects."""
+import argparse
 from collections import defaultdict
-import hashlib
 from html import escape as esc
 import json
 from pathlib import Path
 import shutil
-import sys
+from artwork import BLYX_SITE, read_catalog_artwork, write_icon
 from package import ROOT, SLUG, check_metadata, decode_archive, require, write_json
 
 PRIMARY = 'https://nest.blyx-lang.space'
 PROJECT = 'https://github.com/Rahulchaube1/blyx-nest'
-LANG = 'https://www.blyx-lang.space'
+LANG = BLYX_SITE
 OUT = ROOT/'public'
 CLI_RELEASE = PROJECT+'/releases/tag/v0.1.0'
 LICENSES = ('MIT','Apache-2.0')
@@ -123,7 +123,8 @@ def docs_pages():
     write('publish.html',page('publish.html','Publish a package · Blyx Nest','Submit a native Blyx package or a tool for the Blyx ecosystem.',text))
 
 
-def build():
+def build(artwork_dir=None):
+    artwork = read_catalog_artwork(artwork_dir)
     OUT.mkdir(exist_ok=True)
     for file in ('style.css','nest.js','blyx.png'):
         shutil.copyfile(ROOT/'web'/file,OUT/file)
@@ -152,11 +153,7 @@ def build():
         latest,files=versions[0]
         require(len({r['repository'].casefold() for r in rows})==1, 'A package owner change needs a reviewed migration')
         light={k:latest[k] for k in ('slug','title','kind','description','module')}
-        light.update(latest=latest['version'], icon='blyx.png')
-        picture=next((value for name,value in files.items() if name.startswith('vendor/'+slug+'/') and name.endswith('/logo.png') and value.startswith(b'\x89PNG\r\n\x1a\n')),None)
-        if picture:
-            icon='images/'+slug+'.png'; (OUT/'images').mkdir(exist_ok=True); (OUT/icon).write_bytes(picture)
-            light['icon']=icon
+        light.update(latest=latest['version'], icon=write_icon(latest, files, artwork, OUT))
         index.append(light)
         data={**light, 'versions':[{**r,'archive':'files/'+slug+'/'+r['version']+'.zip'} for r in rows]}
         write_json(OUT/'api/v1/packages'/(slug+'.json'),data)
@@ -183,4 +180,7 @@ def build():
 
 
 if __name__=='__main__':
-    build()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--artwork-dir', type=Path,
+                        help='Read packages.json and blyx-package-logos.zip from a local copy of the Blyx website')
+    build(parser.parse_args().artwork_dir)

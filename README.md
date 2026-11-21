@@ -35,6 +35,8 @@ The module and source manifest must be committed together. For the ID `mypackage
 
 ## Build and verify
 
+Nest takes framework and library logos from the official Blyx galleries at build time. It matches each package by ID and source repository, checks the artwork digest and serves a local copy. Community packages can supply their own `assets/logo.png`. For an offline build, save the catalog and logo bundle in one directory and pass it to `python registry/site.py --artwork-dir DIRECTORY`. [Package catalog](https://www.blyx-lang.space/packages.json) · [Logo bundle](https://www.blyx-lang.space/blyx-package-logos.zip)
+
 The native Nest client is written in Go and uses the standard library. The package payloads contain Blyx source, licenses, documentation and data. CI checks the metadata, package digests, Blyx manifests and syntax. On the reviewed main branch it installs and runs the examples with the released Blyx compiler before deploying the HTML registry, searchable index and API to GitHub Pages. [Read the API index](https://www.blyx-lang.space/nest/api/v1/index.json)
 
 ```sh

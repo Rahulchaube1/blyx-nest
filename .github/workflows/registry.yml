@@ -37,6 +37,7 @@ jobs:
           python3 registry/review_source.py "$BASE"
       - run: go test ./...
       - run: python3 registry/test_submission.py
+      - run: python3 registry/test_artwork.py
       - run: go build -trimpath -o "$RUNNER_TEMP/nest" ./cmd/nest
       - name: Validate Blyx packages and build the public API
         run: python3 registry/site.py

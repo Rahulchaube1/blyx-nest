@@ -36,6 +36,7 @@ jobs:
           fi
           python3 registry/review_source.py "$BASE"
       - run: go test ./...
+      - run: python3 registry/test_submission.py
       - run: go build -trimpath -o "$RUNNER_TEMP/nest" ./cmd/nest
       - name: Validate Blyx packages and build the public API
         run: python3 registry/site.py
@@ -58,6 +59,12 @@ jobs:
             subdomain) options=(--url https://nest.blyx-lang.space);;
           esac
           python3 registry/verify_examples.py --nest "$RUNNER_TEMP/nest" --compiler "$RUNNER_TEMP/blyxc" "${options[@]}"
+      - name: Test the live registry in Chrome
+        if: github.event_name == 'workflow_dispatch' && inputs.endpoint == 'subdomain'
+        run: |
+          python3 -m venv "$RUNNER_TEMP/browser-test"
+          "$RUNNER_TEMP/browser-test/bin/pip" install --quiet selenium==4.29.0
+          "$RUNNER_TEMP/browser-test/bin/python" registry/check_browser.py https://nest.blyx-lang.space
       - uses: actions/upload-pages-artifact@v3
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         with:

@@ -1,0 +1,13 @@
+{
+  "slug": "blyxtorch",
+  "version": "0.3.0",
+  "module": "blyxtorch",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyxtorch",
+  "commit": "f4759797115781dba577f74c4a7048ede11c2adb",
+  "title": "BlyxTorch",
+  "description": "Train CPU convolutions, transformer blocks and sparse embedding rows in Blyx. The portable demo differentiates a scalar loss. Use the native compiler revision in LAYERS.md to train the included causal sensor example.",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "9114e44f72f5a3c966410414c5516b915a1861d0651a3237aa59e261e672c99a",
+  "size": 74457
+}

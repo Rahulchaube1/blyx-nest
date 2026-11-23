@@ -1,0 +1,13 @@
+{
+  "slug": "blyxtorch",
+  "version": "0.4.0",
+  "module": "blyxtorch",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyxtorch",
+  "commit": "74e9f09e390078a95f560bff3c173f1d35cbbde3",
+  "title": "BlyxTorch",
+  "description": "Train classifiers, multi-output regression and CPU neural layers in Blyx. Export StableHLO convolution and attention gradients, or use the native release to train on a Vulkan GPU.",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "f177d177afde48f0baa899f7f8e95a3e5a557e6b3f54606aad75801c612e840d",
+  "size": 86579
+}

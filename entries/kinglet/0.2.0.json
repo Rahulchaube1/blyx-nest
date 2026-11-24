@@ -1,0 +1,13 @@
+{
+  "slug": "kinglet",
+  "version": "0.2.0",
+  "module": "kinglet",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-kinglet",
+  "commit": "01bcffbec33c84119f9664eb2d40351bda5e31e9",
+  "title": "Kinglet",
+  "description": "Map a checkpoint tensor slice to exact, shard-local byte ranges for storage or HTTP range readers.",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "2d262a8269059e779c136882cfc0420f1184fd6a23a7c03c3367c24e253b2ea3",
+  "size": 110665
+}

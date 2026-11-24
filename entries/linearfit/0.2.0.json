@@ -1,0 +1,13 @@
+{
+  "slug": "linearfit",
+  "version": "0.2.0",
+  "module": "linearfit",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-linearfit",
+  "commit": "bf37a21028dc738b7953d82a7e9d32a3bebb6f84",
+  "title": "LinearFit",
+  "description": "Train a bilinear regression with factored examples, resume SGD, predict new pairs and query individual coefficients without allocating a dense weight matrix.",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "b5fe78a85c9caeb04a334c4c9d8cc60626b47dba939cd40c925cb50c6bd5e269",
+  "size": 82521
+}

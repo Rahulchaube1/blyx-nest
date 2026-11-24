@@ -1,0 +1,13 @@
+{
+  "slug": "blyxtorch",
+  "version": "0.5.0",
+  "module": "blyxtorch",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyxtorch",
+  "commit": "04c2e047c14315e52573ff054770fe5adaa7c1ba",
+  "title": "BlyxTorch",
+  "description": "Simulate trainable Ry/CNOT circuits, differentiate every angle with an adjoint sweep, and export OpenQASM 3 alongside existing CPU and Vulkan workflows.",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "6a76f1f23a874d9a4e13ce3f0ba26fe563525594a3d398b9bf03ee6febb51546",
+  "size": 93546
+}

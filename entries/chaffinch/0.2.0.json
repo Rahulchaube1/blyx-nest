@@ -1,0 +1,13 @@
+{
+  "slug": "chaffinch",
+  "version": "0.2.0",
+  "module": "chaffinch",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-chaffinch",
+  "commit": "fb83b7dbd6be1c180d4a335c3c1d319cf9162103",
+  "title": "Chaffinch",
+  "description": "Merge sorted sparse gradient sums from two workers, coalesce duplicate coordinates and normalize by the global example count.",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "d7a96390768af5b02540f455c15440e5fbf4286bbe6c7a28806939afef6b369a",
+  "size": 91967
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "albatross",
+  "version": "0.2.0",
+  "module": "albatross",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-albatross",
+  "commit": "c3f9f57832a089744ffa5cce383b5876232f4385",
+  "title": "Albatross",
+  "description": "Size balanced model-state shards across workers and find the fewest ranks that meet a device memory budget.",
+  "license": "MIT OR Apache-2.0",
+  "sha256": "5ecb88de5d5b77625695bd73bc3e1371e9707aa9935a65625223904740be55b5",
+  "size": 83140
+}

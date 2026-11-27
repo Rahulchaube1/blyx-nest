@@ -1,0 +1,14 @@
+{
+  "slug": "fd_swiglu_backward",
+  "version": "0.1.0",
+  "module": "swiglu_backward",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck swiglu-backward",
+  "description": "Run a SwiGLU gate and return gradients to both halves of a transformer feed-forward projection.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_swiglu_backward",
+  "sha256": "f2fde61b73189f16d7e7e8af38899a6f926447e93d15d041f1aed35e2051aa17",
+  "size": 18980
+}

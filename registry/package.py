@@ -46,6 +46,9 @@ def allowed(name):
 def check_metadata(record):
     slug = record['slug']
     check_id(slug)
+    if 'sourceDir' in record:
+        directory = record['sourceDir']
+        require(isinstance(directory, str) and good_path(directory), 'Invalid upstream package directory')
     require(VERSION.fullmatch(record['version']), 'Expected X.Y.Z version')
     require(SLUG.fullmatch(record['module']) and record['module'] not in RESERVED, 'Invalid Blyx module')
     require(record['kind'] in ('framework', 'library'), 'Expected a Blyx framework or library')

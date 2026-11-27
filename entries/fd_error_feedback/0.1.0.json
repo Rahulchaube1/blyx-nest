@@ -1,0 +1,14 @@
+{
+  "slug": "fd_error_feedback",
+  "version": "0.1.0",
+  "module": "error_feedback",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck error-feedback",
+  "description": "Compress a gradient to one sign and one row scale and carry the untransmitted residual to the next step.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_error_feedback",
+  "sha256": "1c7d2d0d36a12bb5051f759d3494a5a586311078ce89384d349751ad09b7b08c",
+  "size": 19698
+}

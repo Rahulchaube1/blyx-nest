@@ -1,0 +1,14 @@
+{
+  "slug": "fd_log_cosh",
+  "version": "0.1.0",
+  "module": "log_cosh",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck log-cosh",
+  "description": "Measure robust regression error in log space and compute its bounded tanh derivative.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_log_cosh",
+  "sha256": "93b792c9f215c933f6331900639a8e757d06d31c3deec7120f397ae2392a8b78",
+  "size": 19081
+}

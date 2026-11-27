@@ -1,0 +1,14 @@
+{
+  "slug": "fd_squared_hinge",
+  "version": "0.1.0",
+  "module": "squared_hinge",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck squared-hinge",
+  "description": "Train a margin classifier with labels minus one or plus one and a squared margin deficit.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_squared_hinge",
+  "sha256": "33ee49c22506157fb82e9f8345b316d7198efaa779e1ef7bfb7461083a6f1eec",
+  "size": 18985
+}

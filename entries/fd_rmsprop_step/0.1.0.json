@@ -1,0 +1,14 @@
+{
+  "slug": "fd_rmsprop_step",
+  "version": "0.1.0",
+  "module": "rmsprop_step",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck rmsprop-step",
+  "description": "Smooth squared gradients with decay 0.99 and update parameters with a scale-adjusted step.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_rmsprop_step",
+  "sha256": "681edf3da28337b3f305d6fd9cfa19d36580a67557e58794d7eb58acd498704d",
+  "size": 18841
+}

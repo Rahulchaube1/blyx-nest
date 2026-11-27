@@ -1,0 +1,14 @@
+{
+  "slug": "fd_listwise_fit",
+  "version": "0.1.0",
+  "module": "listwise_fit",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck listwise-fit",
+  "description": "Train a row of logits against a normalized nonnegative target distribution. Return row cross entropy and its logit gradient.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_listwise_fit",
+  "sha256": "27221082a318589c93bc79b1425d9ecc3895010983defc5a0294b24643664fd3",
+  "size": 19254
+}

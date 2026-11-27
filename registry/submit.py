@@ -15,8 +15,13 @@ def prepare(args):
     commit = git(source, 'rev-parse', '--verify', args.ref+'^{commit}').decode().strip()
     tracked = git(source, 'ls-tree', '-r', '-z', commit).decode().split('\0')
     source_files = {}
+    subdir = getattr(args, 'source_dir', None)
+    selected = subdir+'/' if subdir else ''
     for line in filter(None, tracked):
         details, name = line.split('\t',1)
+        if not name.startswith(selected):
+            continue
+        name = name[len(selected):]
         mode, kind, oid = details.split()
         if mode == '160000':
             raise ValueError('Vendor dependencies as committed Blyx source before submitting')
@@ -28,6 +33,8 @@ def prepare(args):
     record = {'slug':slug, 'version':manifest['version'], 'module':args.module, 'kind':args.kind,
               'repository':args.repository, 'commit':commit, 'title':args.title,
               'description':args.description, 'license':args.license}
+    if subdir:
+        record['sourceDir'] = subdir
     files = {'vendor/'+slug+'/'+k:v for k,v in source_files.items()}
     files['main.blyx'] = args.example.read_bytes()
     files['expected.txt'] = args.expected.read_bytes()
@@ -40,6 +47,7 @@ if __name__=='__main__':
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('source',type=Path)
     parser.add_argument('--ref',default='HEAD')
+    parser.add_argument('--source-dir', help='Git-relative package root within a monorepo')
     for field in ('repository','title','description','module','license'):
         parser.add_argument('--'+field,required=True)
     parser.add_argument('--kind',choices=('library','framework'),required=True)

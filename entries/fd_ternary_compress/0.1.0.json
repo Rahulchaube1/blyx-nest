@@ -1,0 +1,14 @@
+{
+  "slug": "fd_ternary_compress",
+  "version": "0.1.0",
+  "module": "ternary_compress",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck ternary-compress",
+  "description": "Threshold small gradient coordinates and reconstruct retained signs with their mean absolute magnitude. Supply a nonnegative per-row threshold.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_ternary_compress",
+  "sha256": "36c9cd3b547e8c548083080e3a1d659fc47a6bfe74a6eb0f0829180a09de5c00",
+  "size": 19311
+}

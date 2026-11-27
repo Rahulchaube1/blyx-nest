@@ -1,0 +1,14 @@
+{
+  "slug": "fd_huber_fit",
+  "version": "0.1.0",
+  "module": "huber_fit",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck huber-fit",
+  "description": "Fit continuous targets with unit-transition Huber loss. Clip the residual influence of large errors.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_huber_fit",
+  "sha256": "8a14676c04930bb63367e73048686a2bd169673d35d26319200c482b1bb8a9b6",
+  "size": 19163
+}

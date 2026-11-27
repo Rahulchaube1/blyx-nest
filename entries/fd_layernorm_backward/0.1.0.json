@@ -1,0 +1,14 @@
+{
+  "slug": "fd_layernorm_backward",
+  "version": "0.1.0",
+  "module": "layernorm_backward",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck layernorm-backward",
+  "description": "Normalize each embedding row, add affine gain and bias, and propagate an upstream derivative. Sum gain contributions across rows externally.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_layernorm_backward",
+  "sha256": "22b51b758c6f2f9e81241cf9daf7d71dabf3c08e93ba2a4a54934f40bccc9587",
+  "size": 19366
+}

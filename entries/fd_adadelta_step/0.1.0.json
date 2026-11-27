@@ -1,0 +1,14 @@
+{
+  "slug": "fd_adadelta_step",
+  "version": "0.1.0",
+  "module": "adadelta_step",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck adadelta-step",
+  "description": "Track gradient and update energies for AdaDelta with decay 0.95. Return both histories for the next batch.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_adadelta_step",
+  "sha256": "a58ca68b6e9cfffe83f2c2436bf57b1613f5331afd1e81fddd964419e9c17828",
+  "size": 19689
+}

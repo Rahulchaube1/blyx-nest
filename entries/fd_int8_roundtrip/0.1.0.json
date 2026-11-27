@@ -1,0 +1,14 @@
+{
+  "slug": "fd_int8_roundtrip",
+  "version": "0.1.0",
+  "module": "int8_roundtrip",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck int8-roundtrip",
+  "description": "Simulate symmetric per-row INT8 weight quantization with nearest-even rounding. Return FP32 codes, reconstruction and scale for error analysis.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_int8_roundtrip",
+  "sha256": "7c2cbe82776f0d7cc3e5512f69ee7687f78e20a3f504ca3d16e1eb35bdfd17f4",
+  "size": 19603
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "fd_momentum_step",
+  "version": "0.1.0",
+  "module": "momentum_step",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck momentum-step",
+  "description": "Advance weights and their velocity with classical momentum 0.9. Supply the learning rate as an input.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_momentum_step",
+  "sha256": "e849b72b8a6d9c907208841265d06da2868d343b11972ca363f39bcffe71302a",
+  "size": 18619
+}

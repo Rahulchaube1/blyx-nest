@@ -1,0 +1,14 @@
+{
+  "slug": "fd_unit_embeddings",
+  "version": "0.1.0",
+  "module": "unit_embeddings",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck unit-embeddings",
+  "description": "Normalize retrieval embeddings to near-unit length and differentiate a row objective through the normalization.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_unit_embeddings",
+  "sha256": "3e90109ec9c3313716944ad59b4be7c7939f33eb10a3492da8917bf1fbc20668",
+  "size": 19335
+}

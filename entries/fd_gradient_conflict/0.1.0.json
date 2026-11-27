@@ -1,0 +1,14 @@
+{
+  "slug": "fd_gradient_conflict",
+  "version": "0.1.0",
+  "module": "gradient_conflict",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck gradient-conflict",
+  "description": "Project one task gradient away from a conflicting task gradient. Output the projected gradient and original row dot product.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_gradient_conflict",
+  "sha256": "00b115b5e4e962a389b15e1d7eedeb73fe90d0cbc60bb476a1741d8909397b72",
+  "size": 19615
+}

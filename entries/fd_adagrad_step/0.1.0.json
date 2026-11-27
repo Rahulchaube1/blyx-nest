@@ -1,0 +1,14 @@
+{
+  "slug": "fd_adagrad_step",
+  "version": "0.1.0",
+  "module": "adagrad_step",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck adagrad-step",
+  "description": "Accumulate squared gradients and normalize each parameter update by its own history.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_adagrad_step",
+  "sha256": "deab2ce2f02ad13b41f8b4b5408567a0a954efe5ef2e5f93e5016fef98e5b11e",
+  "size": 18651
+}

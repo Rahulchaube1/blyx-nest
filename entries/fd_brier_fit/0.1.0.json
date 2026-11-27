@@ -1,0 +1,14 @@
+{
+  "slug": "fd_brier_fit",
+  "version": "0.1.0",
+  "module": "brier_fit",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck brier-fit",
+  "description": "Score binary probability calibration from logits with the Brier loss and its chain-rule gradient.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_brier_fit",
+  "sha256": "f5092842768f4c109a8b7c050c0616a3f633d8b038537036f81fac564eff74be",
+  "size": 19317
+}

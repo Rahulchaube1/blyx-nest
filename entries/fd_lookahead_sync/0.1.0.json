@@ -1,0 +1,14 @@
+{
+  "slug": "fd_lookahead_sync",
+  "version": "0.1.0",
+  "module": "lookahead_sync",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck lookahead-sync",
+  "description": "Synchronize fast and slow weights at a caller-selected Lookahead boundary and measure the correction.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_lookahead_sync",
+  "sha256": "bcb819a300be72cd19277b4b55f66b148fa4042a5ee0b9b02696cfd829818694",
+  "size": 19420
+}

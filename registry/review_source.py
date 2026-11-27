@@ -21,12 +21,17 @@ for filename in changed:
     require(len(blob)<=MAX_SIZE,'Upstream source archive exceeds supported size')
     prefix=full.rsplit('/',1)[-1]+'-'+rec['commit']+'/'
     source={}
+    subdir=rec.get('sourceDir', '')
+    selected=subdir+'/' if subdir else ''
     with zipfile.ZipFile(io.BytesIO(blob)) as upstream:
         members=upstream.infolist()
         require(len(members)<=4000 and sum(m.file_size for m in members)<=MAX_CONTENT,'Upstream source exceeds supported size')
         for m in members:
             require(m.filename.startswith(prefix),'Unexpected source root')
             name=m.filename[len(prefix):]
+            if not name.startswith(selected):
+                continue
+            name=name[len(selected):]
             if m.is_dir() or stat.S_ISLNK(m.external_attr>>16) or not allowed(name):
                 continue
             source[name]=upstream.read(m)

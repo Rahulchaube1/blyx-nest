@@ -1,0 +1,14 @@
+{
+  "slug": "fd_adaptive_clip",
+  "version": "0.1.0",
+  "module": "adaptive_clip",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck adaptive-clip",
+  "description": "Clip a gradient relative to the parameter-row norm. Supply a positive clipping factor fixed within the row.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_adaptive_clip",
+  "sha256": "2278ec81e6752cb6e8626c087d49a914e976db3ca6f18495fa6365c63e1b8701",
+  "size": 19457
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "fd_cosine_fit",
+  "version": "0.1.0",
+  "module": "cosine_fit",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck cosine-fit",
+  "description": "Train an embedding direction against a target row. A squared-norm epsilon stabilizes empty signal.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_cosine_fit",
+  "sha256": "37075a18b86fd43802cd764c0b34e6ad6a97f68abdd15d837a64a6bc2855e155",
+  "size": 19616
+}

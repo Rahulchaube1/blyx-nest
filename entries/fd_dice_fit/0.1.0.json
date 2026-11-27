@@ -1,0 +1,14 @@
+{
+  "slug": "fd_dice_fit",
+  "version": "0.1.0",
+  "module": "dice_fit",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck dice-fit",
+  "description": "Compute smoothed soft Dice loss over a row and its probability-space gradient. Use targets and predictions in [0,1].",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_dice_fit",
+  "sha256": "75721a44c6a7a923dbbb3dd56659e2f7446fe32cada2c190add64aa92e511521",
+  "size": 19119
+}

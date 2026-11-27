@@ -1,0 +1,14 @@
+{
+  "slug": "fd_policy_ratio",
+  "version": "0.1.0",
+  "module": "policy_ratio",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck policy-ratio",
+  "description": "Compute the clipped PPO surrogate and clipping fraction using sampled-token log probabilities. Supply a fixed positive clip radius in each row.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_policy_ratio",
+  "sha256": "bc1f1f753a431c8a75b29996a835f811d31e85b55342c093c7ac4bbd6e76be16",
+  "size": 19838
+}

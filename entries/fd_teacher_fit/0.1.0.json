@@ -1,0 +1,14 @@
+{
+  "slug": "fd_teacher_fit",
+  "version": "0.1.0",
+  "module": "teacher_fit",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "commit": "d5835c5109a1ea9e1e9f4a8ce360c69959067f55",
+  "title": "Flightdeck teacher-fit",
+  "description": "Distil a teacher into student logits with temperature two and the temperature-squared loss convention.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_teacher_fit",
+  "sha256": "28737d73906e5cd6bdfe68edbfbea91c2a9b877bf1ea7c8fbc35092b4e6e1b7a",
+  "size": 19895
+}

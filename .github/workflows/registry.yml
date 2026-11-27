@@ -44,8 +44,8 @@ jobs:
       - name: Verify the released compiler
         run: |
           cd "$RUNNER_TEMP"
-          curl -fsSL --retry 3 https://github.com/Rahulchaube1/blyxxxx/releases/download/v0.2.1/blyx-v0.2.1-x86_64-unknown-linux-gnu.tar.gz -o compiler.tar.gz
-          echo '792d5310bed715b2f6a2b7249606428f9ab2e8a57bdbd9abaff85d8aca2c1bdc  compiler.tar.gz' | sha256sum -c -
+          curl -fsSL --retry 3 https://github.com/Rahulchaube1/blyxxxx/releases/download/v0.2.2/blyx-v0.2.2-x86_64-unknown-linux-gnu.tar.gz -o compiler.tar.gz
+          echo 'bcbd5fe88a9f8bee4151f00e451e2a5e1047ea9f22b37337861bf0cf1774c482  compiler.tar.gz' | sha256sum -c -
           tar -xzf compiler.tar.gz blyxc
       - name: Parse submitted Blyx modules and entry points
         run: python3 registry/check_syntax.py "$RUNNER_TEMP/blyxc"

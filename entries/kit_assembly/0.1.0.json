@@ -1,0 +1,14 @@
+{
+  "slug": "kit_assembly",
+  "title": "Kit Assembly",
+  "description": "Prevent packaging an incomplete kit and permit discovery of additional required components.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "kit_assembly",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/kit_assembly",
+  "license": "MIT",
+  "sha256": "e5823160bcf280a1e986bfef5e03c4d7661f3bb5ff18d9c212bb09a1b18376a7",
+  "size": 25298
+}

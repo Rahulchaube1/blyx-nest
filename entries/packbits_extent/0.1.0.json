@@ -1,0 +1,14 @@
+{
+  "slug": "packbits_extent",
+  "title": "Packbits Extent",
+  "description": "Measure decoded length of a PackBits byte stream, checking run and literal boundaries. Header 128 is a no-op.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "packbits_extent",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/packbits_extent",
+  "license": "MIT",
+  "sha256": "ef7dc421c9abfa57452a959f236b229bb904e25e295521145182990c390516d6",
+  "size": 20936
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "assert_close_count",
+  "title": "Assert Close Count",
+  "description": "Count coordinate deviations exceeding an absolute plus relative reference tolerance. Reject unequal vectors or negative tolerances.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "assert_close_count",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/assert_close_count",
+  "license": "MIT",
+  "sha256": "18062ea6ba743fdad6687fcfb3d876d1921b4cce0580da32d6718404a608c7e0",
+  "size": 21230
+}

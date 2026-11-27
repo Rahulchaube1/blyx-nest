@@ -1,0 +1,14 @@
+{
+  "slug": "first_free_gap",
+  "title": "First Free Gap",
+  "description": "Find the first start time that fits a duration past sorted, possibly overlapping reservations. Ignore empty reservations.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "first_free_gap",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/first_free_gap",
+  "license": "MIT",
+  "sha256": "b792d39c706676e3c82964f65920cc614bb5a9c67846a45db566f7339f0ddd1a",
+  "size": 21934
+}

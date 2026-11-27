@@ -1,0 +1,14 @@
+{
+  "slug": "nearest_site",
+  "title": "Nearest Site",
+  "description": "Find the first closest planar site by squared Euclidean distance. Return minus one for empty or mismatched coordinate arrays.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "nearest_site",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/nearest_site",
+  "license": "MIT",
+  "sha256": "7eaaa27d4cb6306de12c16f4676901490d3f3ac62bdec6ef027ed2b17f645b1b",
+  "size": 20498
+}

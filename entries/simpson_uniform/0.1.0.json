@@ -1,0 +1,14 @@
+{
+  "slug": "simpson_uniform",
+  "title": "Simpson Uniform",
+  "description": "Integrate an odd number of at least three equally spaced samples with composite Simpson weights. Invalid grids return zero.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "simpson_uniform",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/simpson_uniform",
+  "license": "MIT",
+  "sha256": "10c3ef2dda7fe2ac05db0bc4f1d4734dee0de81a539e66777fe4e9f96ab6243b",
+  "size": 21067
+}

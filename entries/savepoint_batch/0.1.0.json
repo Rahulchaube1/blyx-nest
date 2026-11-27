@@ -1,0 +1,14 @@
+{
+  "slug": "savepoint_batch",
+  "title": "Savepoint Batch",
+  "description": "Control a nested transaction using a savepoint depth and reject outer commit before nested scopes close.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "savepoint_batch",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/savepoint_batch",
+  "license": "MIT",
+  "sha256": "baa53c33f7425c3bb7358a255fb7ed45bcb1bb73e6b1e8571990612dad95543f",
+  "size": 24969
+}

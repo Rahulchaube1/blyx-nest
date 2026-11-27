@@ -1,0 +1,14 @@
+{
+  "slug": "auction_close",
+  "title": "Auction Close",
+  "description": "Drive a single-item ascending auction with a reserve, strictly increasing bids and a settlement handoff.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "auction_close",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/auction_close",
+  "license": "MIT",
+  "sha256": "bda581ace79425c85e054cf50ac606b4d41ce139b37bbcc67c1128af5b239c99",
+  "size": 19163
+}

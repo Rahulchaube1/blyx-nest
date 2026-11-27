@@ -1,0 +1,14 @@
+{
+  "slug": "horner_eval",
+  "title": "Horner Eval",
+  "description": "Evaluate polynomial coefficients supplied from highest to lowest degree. An empty polynomial evaluates to zero.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "horner_eval",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/horner_eval",
+  "license": "MIT",
+  "sha256": "86757721243321d042d32dea01308f5e687e211d3220a7fce282b5ab27d0e8c0",
+  "size": 20980
+}

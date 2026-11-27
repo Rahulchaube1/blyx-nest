@@ -1,0 +1,14 @@
+{
+  "slug": "point_in_ring",
+  "title": "Point In Ring",
+  "description": "Apply an even-odd ray crossing test to an open or closed polygon ring. Supply a query off the boundary.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "point_in_ring",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/point_in_ring",
+  "license": "MIT",
+  "sha256": "f4132ae8fafd562ba721045e979c60ee872bfa937146c198dabf3df90242dc9a",
+  "size": 20740
+}

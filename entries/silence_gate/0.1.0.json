@@ -1,0 +1,14 @@
+{
+  "slug": "silence_gate",
+  "title": "Silence Gate",
+  "description": "Use separate open and close amplitude thresholds to prevent chatter in an audio gate.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "silence_gate",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/silence_gate",
+  "license": "MIT",
+  "sha256": "4b65ded03cf2d0835060c95a47d74429ff7a664bf1c1691dda49b0358b14e139",
+  "size": 23888
+}

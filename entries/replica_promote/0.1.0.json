@@ -1,0 +1,14 @@
+{
+  "slug": "replica_promote",
+  "title": "Replica Promote",
+  "description": "Fence a replica promotion against its required log offset before announcing a new primary.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "replica_promote",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/replica_promote",
+  "license": "MIT",
+  "sha256": "ae6c2d0d812fb7fcddda53a2c06b92da0beccb4d2fb097b30f074b276baa69c7",
+  "size": 24675
+}

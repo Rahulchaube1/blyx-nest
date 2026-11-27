@@ -1,0 +1,14 @@
+{
+  "slug": "instrument_zero",
+  "title": "Instrument Zero",
+  "description": "Apply a zero-offset correction only after repeated reference measurements agree within one count.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "instrument_zero",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/instrument_zero",
+  "license": "MIT",
+  "sha256": "9f976023080982613fee11840a904de5e00d1e3284e4a2439b1b43b7087a6dd3",
+  "size": 22405
+}

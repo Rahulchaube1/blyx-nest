@@ -1,0 +1,14 @@
+{
+  "slug": "stream_watermark",
+  "title": "Stream Watermark",
+  "description": "Advance an event-time watermark monotonically and route late arrivals for correction.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "stream_watermark",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/stream_watermark",
+  "license": "MIT",
+  "sha256": "4416930035690e3f7e44e883c15b8202dfd9059acf6920692377cbc3b45bdd1d",
+  "size": 24907
+}

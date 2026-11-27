@@ -1,0 +1,14 @@
+{
+  "slug": "meter_consumption",
+  "title": "Meter Consumption",
+  "description": "Compute consumption between two readings on a wrapping meter, assuming at most one wrap. Modulus is one beyond the largest reading.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "meter_consumption",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/meter_consumption",
+  "license": "MIT",
+  "sha256": "8fe210cbad22d0562b3439d4e5045a65e1a7ffa8b0cebf4f2bddcd2edf5215b1",
+  "size": 21129
+}

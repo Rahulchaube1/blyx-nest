@@ -1,0 +1,14 @@
+{
+  "slug": "polyline_taxicab",
+  "title": "Polyline Taxicab",
+  "description": "Measure total Manhattan travel along a rectilinear path. Mismatched coordinate arrays return minus one.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "polyline_taxicab",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/polyline_taxicab",
+  "license": "MIT",
+  "sha256": "c1b48cfc2709eff1a9987125b894cf463e327f7739ec68ce72db5ca9133582f5",
+  "size": 21382
+}

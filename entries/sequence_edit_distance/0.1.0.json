@@ -1,0 +1,14 @@
+{
+  "slug": "sequence_edit_distance",
+  "title": "Sequence Edit Distance",
+  "description": "Compute unit-cost Levenshtein distance between two token ID sequences using one dynamic programming row.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "sequence_edit_distance",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/sequence_edit_distance",
+  "license": "MIT",
+  "sha256": "d951e6b0d73d6fefbcc18b180e55ace1fb6c71f48c0a8faf33c099fb7d38718f",
+  "size": 21421
+}

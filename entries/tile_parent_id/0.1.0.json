@@ -1,0 +1,14 @@
+{
+  "slug": "tile_parent_id",
+  "title": "Tile Parent Id",
+  "description": "Map a row-major square tile ID into its parent in an even-width tile level. Reject invalid IDs and odd widths.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "tile_parent_id",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/tile_parent_id",
+  "license": "MIT",
+  "sha256": "0aad46e7357b91fe4365725fa131ff87a0611ebfb8b04f5e967685b233cf0d34",
+  "size": 21539
+}

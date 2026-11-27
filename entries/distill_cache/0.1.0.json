@@ -1,0 +1,14 @@
+{
+  "slug": "distill_cache",
+  "title": "Distill Cache",
+  "description": "Seal teacher predictions at a pinned teacher revision and invalidate stale targets when it changes.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "distill_cache",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/distill_cache",
+  "license": "MIT",
+  "sha256": "254641378df9950d11927790941a9122ce3a8a06d42152a0ddcc77baa5f8b060",
+  "size": 20870
+}

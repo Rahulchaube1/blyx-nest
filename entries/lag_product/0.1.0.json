@@ -1,0 +1,14 @@
+{
+  "slug": "lag_product",
+  "title": "Lag Product",
+  "description": "Compute the unnormalized autocorrelation sum at a nonnegative integer lag. A missing overlap contributes zero.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "lag_product",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/lag_product",
+  "license": "MIT",
+  "sha256": "77fd4991583b52855703b101fe7cb43e875835a889288b0b5148f8fd9a78c25a",
+  "size": 21718
+}

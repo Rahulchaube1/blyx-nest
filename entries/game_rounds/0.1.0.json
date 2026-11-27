@@ -1,0 +1,14 @@
+{
+  "slug": "game_rounds",
+  "title": "Game Rounds",
+  "description": "Advance a fixed-length round counter through scoring, disputes and finalization.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "game_rounds",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/game_rounds",
+  "license": "MIT",
+  "sha256": "50d8b7fc06b836b78fcdd9856b2e2edb4907e1ae9c04021b37d09ebb100ef64d",
+  "size": 22728
+}

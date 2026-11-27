@@ -1,0 +1,14 @@
+{
+  "slug": "isotonic_breaks",
+  "title": "Isotonic Breaks",
+  "description": "Count adjacent violations of a nondecreasing response curve before monotonic calibration.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "isotonic_breaks",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/isotonic_breaks",
+  "license": "MIT",
+  "sha256": "47c979763d815b7874094293e9fe152559cb19754ab4c45c87afdc7166b2d481",
+  "size": 21852
+}

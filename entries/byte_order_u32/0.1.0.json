@@ -1,0 +1,14 @@
+{
+  "slug": "byte_order_u32",
+  "title": "Byte Order U32",
+  "description": "Decode four validated bytes beginning at an offset into an unsigned big-endian 32-bit value represented exactly in FP64.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "byte_order_u32",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/byte_order_u32",
+  "license": "MIT",
+  "sha256": "6dc4ee28f16ba0b664b5f83fa91f0f6fcea4e859b797d466d7bc340b22e7d32f",
+  "size": 20545
+}

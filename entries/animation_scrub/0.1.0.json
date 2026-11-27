@@ -1,0 +1,14 @@
+{
+  "slug": "animation_scrub",
+  "title": "Animation Scrub",
+  "description": "Fence asynchronous preview callbacks to the most recently selected animation frame.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "animation_scrub",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/animation_scrub",
+  "license": "MIT",
+  "sha256": "5ad04a884924f162a6bf9e162eda533ab75f223c2027966159bd275174f8e6d8",
+  "size": 22616
+}

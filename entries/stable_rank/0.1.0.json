@@ -1,0 +1,14 @@
+{
+  "slug": "stable_rank",
+  "title": "Stable Rank",
+  "description": "Return the zero-based ascending rank of one row, breaking ties by its original index. Invalid indices return minus one.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "stable_rank",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/stable_rank",
+  "license": "MIT",
+  "sha256": "175983b7c72ea4112f7f419d86d0eae77f4d82c3b48c6c081e572b152f2c7e8e",
+  "size": 20549
+}

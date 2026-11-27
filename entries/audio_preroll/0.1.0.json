@@ -1,0 +1,14 @@
+{
+  "slug": "audio_preroll",
+  "title": "Audio Preroll",
+  "description": "Prime a playback buffer and recover from underrun without emitting premature play commands.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "audio_preroll",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/audio_preroll",
+  "license": "MIT",
+  "sha256": "744c26793580342f69e1e7399e47358d01806876462ff36e20d6ae5bfe2bf676",
+  "size": 24541
+}

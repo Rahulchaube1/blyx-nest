@@ -1,0 +1,14 @@
+{
+  "slug": "cart_discount",
+  "title": "Cart Discount",
+  "description": "Calculate a minor-unit discount capped by both an offer maximum and the subtotal. Rates are whole basis points rounded down.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "cart_discount",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/cart_discount",
+  "license": "MIT",
+  "sha256": "b3c3017eb851ba1906b4756d74689adcacd78bf0b9090e92379df27fbeb40be8",
+  "size": 21834
+}

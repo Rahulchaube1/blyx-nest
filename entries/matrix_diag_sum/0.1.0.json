@@ -1,0 +1,14 @@
+{
+  "slug": "matrix_diag_sum",
+  "title": "Matrix Diag Sum",
+  "description": "Sum the principal diagonal of a rectangular row-major matrix after validating its flattened length.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "matrix_diag_sum",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/matrix_diag_sum",
+  "license": "MIT",
+  "sha256": "de7c224fc835091020f6b6d1b676f72a06aa409292711e25e5cf3c7c1a32ea77",
+  "size": 21211
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "artifact_promote",
+  "title": "Artifact Promote",
+  "description": "Promote exactly the artifact digest token that passed staging and block substituted build IDs.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "artifact_promote",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/artifact_promote",
+  "license": "MIT",
+  "sha256": "5e63fadc36c9f421a36879fe020645e9dbac5988203858106a8a243a83224ed7",
+  "size": 16904
+}

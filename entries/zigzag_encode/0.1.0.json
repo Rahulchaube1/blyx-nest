@@ -1,0 +1,14 @@
+{
+  "slug": "zigzag_encode",
+  "title": "Zigzag Encode",
+  "description": "Map signed integers to their unsigned ZigZag representation for compact varints. Inputs must fit in signed 32 bits.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "zigzag_encode",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/zigzag_encode",
+  "license": "MIT",
+  "sha256": "035b9bd073a2817f0b5d0a82aa6caa6f35c48ef7019b4bab665b1d716be1ecae",
+  "size": 20618
+}

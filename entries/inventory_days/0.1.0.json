@@ -1,0 +1,14 @@
+{
+  "slug": "inventory_days",
+  "title": "Inventory Days",
+  "description": "Find the first demand period that cannot be filled from current stock. Return the number of fully served periods.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "inventory_days",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/inventory_days",
+  "license": "MIT",
+  "sha256": "bd6b02466728d957a9e0040e0e604b41ae6e18e82ba564a20fe70ccbfc47df83",
+  "size": 21070
+}

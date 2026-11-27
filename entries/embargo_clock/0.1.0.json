@@ -1,0 +1,14 @@
+{
+  "slug": "embargo_clock",
+  "title": "Embargo Clock",
+  "description": "Release an embargoed story only after its scheduled timestamp and support postponement.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "embargo_clock",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/embargo_clock",
+  "license": "MIT",
+  "sha256": "c183c996736470cc2fcd61034db1d2ca720a8b0131c3422407ec14e00f5fa4aa",
+  "size": 24437
+}

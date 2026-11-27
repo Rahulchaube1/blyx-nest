@@ -1,0 +1,14 @@
+{
+  "slug": "archive_verify",
+  "title": "Archive Verify",
+  "description": "Compare uncompressed member counts and request integrity checks before accepting a document archive.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "archive_verify",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/archive_verify",
+  "license": "MIT",
+  "sha256": "361eca3399d1d2d6e82ae023398613a7e0ce8785185b9af0a98c017c848c1c1a",
+  "size": 21636
+}

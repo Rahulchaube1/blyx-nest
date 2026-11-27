@@ -1,0 +1,14 @@
+{
+  "slug": "max_slice_sum",
+  "title": "Max Slice Sum",
+  "description": "Find the largest contiguous sum in a numeric signal, allowing the empty slice with sum zero.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "max_slice_sum",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/max_slice_sum",
+  "license": "MIT",
+  "sha256": "11459ddad6a2bbc0f6b6650aa37ef563ccf1b036910739a79189914505ecd95d",
+  "size": 20915
+}

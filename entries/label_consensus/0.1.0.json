@@ -1,0 +1,14 @@
+{
+  "slug": "label_consensus",
+  "title": "Label Consensus",
+  "description": "Require a second independent host-provided label to agree or route the sample for adjudication.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "label_consensus",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/label_consensus",
+  "license": "MIT",
+  "sha256": "30e2b661c5ef081c94c87ac35574c5f9b16ae14d7c6dbc5efcb74c1fb84a8e89",
+  "size": 20657
+}

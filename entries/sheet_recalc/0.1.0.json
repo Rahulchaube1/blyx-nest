@@ -1,0 +1,14 @@
+{
+  "slug": "sheet_recalc",
+  "title": "Sheet Recalc",
+  "description": "Fence cached spreadsheet results to the revision that triggered recalculation.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "sheet_recalc",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/sheet_recalc",
+  "license": "MIT",
+  "sha256": "a5d6449e7d5fc41c9b3ded3fe36eb2420692aa5dd14ac9f0a7062b670454b71e",
+  "size": 21469
+}

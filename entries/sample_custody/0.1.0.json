@@ -1,0 +1,14 @@
+{
+  "slug": "sample_custody",
+  "title": "Sample Custody",
+  "description": "Track custody of a field sample across dispatch and receipt with a matching seal number.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "sample_custody",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/sample_custody",
+  "license": "MIT",
+  "sha256": "b5c3f5ae37b33bd8fdeb1d05fca93e20ac39ada80ee296c244507904f52d0b83",
+  "size": 22316
+}

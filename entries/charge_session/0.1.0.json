@@ -1,0 +1,14 @@
+{
+  "slug": "charge_session",
+  "title": "Charge Session",
+  "description": "Schedule a battery charging session to a target percentage with pause, resume and completion.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "charge_session",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/charge_session",
+  "license": "MIT",
+  "sha256": "f7b4e25fbe333d632ec675067710ca5ea3359490c69b84ff3b75d773da8e2f89",
+  "size": 24334
+}

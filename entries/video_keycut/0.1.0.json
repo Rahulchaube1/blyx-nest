@@ -1,0 +1,14 @@
+{
+  "slug": "video_keycut",
+  "title": "Video Keycut",
+  "description": "Snap a requested cut forward to the next eligible keyframe and preserve the resulting sample boundary.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "video_keycut",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/video_keycut",
+  "license": "MIT",
+  "sha256": "5fb33573cf3b374879967b5f2aae58ce49baebfb3a31dd081f4e18835e75c32f",
+  "size": 23959
+}

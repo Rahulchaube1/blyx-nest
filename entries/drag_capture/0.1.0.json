@@ -1,0 +1,14 @@
+{
+  "slug": "drag_capture",
+  "title": "Drag Capture",
+  "description": "Keep pointer capture with its originating pointer during drag, cancel and drop.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "drag_capture",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/drag_capture",
+  "license": "MIT",
+  "sha256": "046eda0b85590f106d61d8e2980e128eeee49ccb17afc5d04f4aaecc71ca1f45",
+  "size": 22532
+}

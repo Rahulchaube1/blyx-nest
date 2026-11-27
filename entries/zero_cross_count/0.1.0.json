@@ -1,0 +1,14 @@
+{
+  "slug": "zero_cross_count",
+  "title": "Zero Cross Count",
+  "description": "Count sign changes in sampled audio, ignoring zero-valued plateaus.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "zero_cross_count",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/zero_cross_count",
+  "license": "MIT",
+  "sha256": "3e6049ae49ab8fcf8ae884e18050a67249f756e248c7ad8917f0ec9c4633f34e",
+  "size": 20508
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "rle_encoded_pairs",
+  "title": "Rle Encoded Pairs",
+  "description": "Count count-value runs required for a bounded run-length encoding, splitting long repeated runs at the configured maximum.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "rle_encoded_pairs",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/rle_encoded_pairs",
+  "license": "MIT",
+  "sha256": "dad6b3bc5e3da41be10212d9f2de5d4d77e3015581fc222f5295b1c4f7873205",
+  "size": 21121
+}

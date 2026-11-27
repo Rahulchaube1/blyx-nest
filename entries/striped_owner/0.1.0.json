@@ -1,0 +1,14 @@
+{
+  "slug": "striped_owner",
+  "title": "Striped Owner",
+  "description": "Map a logical block address to a disk in a round-robin stripe layout with configurable blocks per stripe.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "striped_owner",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/striped_owner",
+  "license": "MIT",
+  "sha256": "963fb86f1c3dfbdbbec1c93570ff6c7b594a1b16da9860af66cbb6b38040a8b0",
+  "size": 21766
+}

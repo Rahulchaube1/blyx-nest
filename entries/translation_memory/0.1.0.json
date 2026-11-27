@@ -1,0 +1,14 @@
+{
+  "slug": "translation_memory",
+  "title": "Translation Memory",
+  "description": "Associate one segment revision with a translation candidate and reject stale approval after source edits.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "translation_memory",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/translation_memory",
+  "license": "MIT",
+  "sha256": "152b306c9aa71736fc87f0664d5c5452f8aba3fad386ea0e4a3ef0850aa8365a",
+  "size": 21808
+}

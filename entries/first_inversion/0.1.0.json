@@ -1,0 +1,14 @@
+{
+  "slug": "first_inversion",
+  "title": "First Inversion",
+  "description": "Return the zero-based index of the first row that breaks ascending order, or minus one when sorted.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "first_inversion",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/first_inversion",
+  "license": "MIT",
+  "sha256": "720fa555829f6c9f85853efb0d8a178294d626ecb1ad8e346a842f766fd6eed1",
+  "size": 20932
+}

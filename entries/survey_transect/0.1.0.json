@@ -1,0 +1,14 @@
+{
+  "slug": "survey_transect",
+  "title": "Survey Transect",
+  "description": "Visit field waypoints in order and distinguish revisits from the next required station.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "survey_transect",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/survey_transect",
+  "license": "MIT",
+  "sha256": "f184b3e2dc563b2c69b717e3b8222cfbb5c5208b6306dc6ed668e3483e7150d7",
+  "size": 21988
+}

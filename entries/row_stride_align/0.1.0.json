@@ -1,0 +1,14 @@
+{
+  "slug": "row_stride_align",
+  "title": "Row Stride Align",
+  "description": "Calculate padded scanline storage in bytes for a packed pixel format at a byte alignment.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "row_stride_align",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/row_stride_align",
+  "license": "MIT",
+  "sha256": "b8ba9ba8bf7639e2d9b974217f0d05cb4c113b2b95fd2885fdb0b7d3d7187cb5",
+  "size": 20324
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "panorama_stitch",
+  "title": "Panorama Stitch",
+  "description": "Track overlapping frame pairs and require a solved alignment before blending.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "panorama_stitch",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/panorama_stitch",
+  "license": "MIT",
+  "sha256": "2c1b8e22d99e61645bc2d10202f3809dc71f43065998802d7fdc2a705f866023",
+  "size": 24042
+}

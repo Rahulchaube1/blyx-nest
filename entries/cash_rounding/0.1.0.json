@@ -1,0 +1,14 @@
+{
+  "slug": "cash_rounding",
+  "title": "Cash Rounding",
+  "description": "Round a nonnegative amount to the nearest cash increment, resolving exact halves upwards.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "cash_rounding",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/cash_rounding",
+  "license": "MIT",
+  "sha256": "913546d11463f34644c9f0f25b4be39d9318fff43adffb56a47992c6317597b0",
+  "size": 21869
+}

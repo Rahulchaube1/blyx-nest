@@ -1,0 +1,14 @@
+{
+  "slug": "majority_index",
+  "title": "Majority Index",
+  "description": "Find an index containing a strict majority using cancellation and a verification pass. Return minus one if none exists.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "majority_index",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/majority_index",
+  "license": "MIT",
+  "sha256": "add1e26310a60d488789dae49ae5aa93dd5b12e9979b0ddd1cc02634f7b9512e",
+  "size": 21034
+}

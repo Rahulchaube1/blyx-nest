@@ -1,0 +1,14 @@
+{
+  "slug": "outline_depth",
+  "title": "Outline Depth",
+  "description": "Enforce one-level heading descent while allowing returns to outer levels when constructing an outline.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "outline_depth",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/outline_depth",
+  "license": "MIT",
+  "sha256": "8cec0e7170074d179ccaf3f58c41cf90ea99eff0998ef20f5be22a701af6e8d7",
+  "size": 21061
+}

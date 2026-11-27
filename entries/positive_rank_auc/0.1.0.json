@@ -1,0 +1,14 @@
+{
+  "slug": "positive_rank_auc",
+  "title": "Positive Rank Auc",
+  "description": "Compute binary ROC AUC by positive-negative score comparisons with half credit for ties. Undefined classes return minus one.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "positive_rank_auc",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/positive_rank_auc",
+  "license": "MIT",
+  "sha256": "bc945e59b9a9d7f5536b0eef5b6f08a91b4bedcda3683f53bfcc0825bf2ed93a",
+  "size": 21406
+}

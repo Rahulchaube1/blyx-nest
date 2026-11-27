@@ -1,0 +1,14 @@
+{
+  "slug": "utf8_width",
+  "title": "Utf8 Width",
+  "description": "Return the byte width of a Unicode scalar encoded as UTF-8. Reject surrogate code points and values beyond Unicode.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "utf8_width",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/utf8_width",
+  "license": "MIT",
+  "sha256": "166349c62a937c290f4b4f4ef97cfc0f1adf9e55b90d49c1bbd1c500c3cc13d1",
+  "size": 20250
+}

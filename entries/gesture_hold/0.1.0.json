@@ -1,0 +1,14 @@
+{
+  "slug": "gesture_hold",
+  "title": "Gesture Hold",
+  "description": "Recognize a long press on a logical clock and suppress it after sufficient movement or early release.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "gesture_hold",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/gesture_hold",
+  "license": "MIT",
+  "sha256": "3039791ca2e583cd3f6dd48f20e20ef545f5e8e165c667f2942de491fe6a8a82",
+  "size": 22837
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "quarter_index",
+  "title": "Quarter Index",
+  "description": "Map a calendar month to a one-based fiscal quarter for a configurable starting month.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "quarter_index",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/quarter_index",
+  "license": "MIT",
+  "sha256": "085f1c57f8dc44535a7f98fd25db7e879740f4cf0f0d451a21677bb76c0401e1",
+  "size": 21212
+}

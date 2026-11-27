@@ -1,0 +1,14 @@
+{
+  "slug": "signal_energy",
+  "title": "Signal Energy",
+  "description": "Sum squared amplitudes of a finite signal block for comparing energy across equal-length windows.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "signal_energy",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/signal_energy",
+  "license": "MIT",
+  "sha256": "79983c7aeb9a486169db1c50cd0ca5f8c1133cceb1ce6ce66de13964a26486e7",
+  "size": 20925
+}

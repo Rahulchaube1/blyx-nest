@@ -1,0 +1,14 @@
+{
+  "slug": "euclid_gcd",
+  "title": "Euclid Gcd",
+  "description": "Find the greatest common divisor of two nonnegative integral measurements using Euclid's remainder algorithm.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "euclid_gcd",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/euclid_gcd",
+  "license": "MIT",
+  "sha256": "846a0f91f08b5f99f4dfb3a93a44240a7916f589c52319223e53cfe446f04804",
+  "size": 21243
+}

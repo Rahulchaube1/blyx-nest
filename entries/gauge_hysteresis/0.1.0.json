@@ -1,0 +1,14 @@
+{
+  "slug": "gauge_hysteresis",
+  "title": "Gauge Hysteresis",
+  "description": "Raise and clear a flood-gauge advisory with a lower reset band using integer level units.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "gauge_hysteresis",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/gauge_hysteresis",
+  "license": "MIT",
+  "sha256": "b9c227f8988fb6ca6e0bb1fa99990c40d16066e588848391a4dcdcc157e4db90",
+  "size": 22054
+}

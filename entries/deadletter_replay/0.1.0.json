@@ -1,0 +1,14 @@
+{
+  "slug": "deadletter_replay",
+  "title": "Deadletter Replay",
+  "description": "Replay a dead-letter batch with an explicit per-message attempt budget and manual escalation.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "deadletter_replay",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/deadletter_replay",
+  "license": "MIT",
+  "sha256": "e72a39d1b3d6199f0a482b24908c89575dd7d1619b434a272ef53deb3a5d1758",
+  "size": 25071
+}

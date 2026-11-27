@@ -1,0 +1,14 @@
+{
+  "slug": "feature_freeze",
+  "title": "Feature Freeze",
+  "description": "Bind a model fit to one feature schema and request re-encoding when a serving schema differs.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "feature_freeze",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/feature_freeze",
+  "license": "MIT",
+  "sha256": "d86670c75f6a16e1f6355a95d28e95db8760fdcaedc64564fb722a20512eb2e0",
+  "size": 20241
+}

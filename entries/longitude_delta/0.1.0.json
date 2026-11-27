@@ -1,0 +1,14 @@
+{
+  "slug": "longitude_delta",
+  "title": "Longitude Delta",
+  "description": "Find the shortest signed longitude change in degrees in the half-open interval from minus 180 to 180.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "longitude_delta",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/longitude_delta",
+  "license": "MIT",
+  "sha256": "dc91a1bde668e6b9d85be7c8418360c503ea13f5d295722f8e7066d381012bee",
+  "size": 21770
+}

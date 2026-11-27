@@ -1,0 +1,14 @@
+{
+  "slug": "alias_cutover",
+  "title": "Alias Cutover",
+  "description": "Keep a canonical URL active until the replacement target passes a probe for the same revision.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "alias_cutover",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/alias_cutover",
+  "license": "MIT",
+  "sha256": "4d83b1b2afef517d6b429e32dadd98d8740790aecd789b6d3ec753dd676999d1",
+  "size": 24596
+}

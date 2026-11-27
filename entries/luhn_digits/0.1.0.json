@@ -1,0 +1,14 @@
+{
+  "slug": "luhn_digits",
+  "title": "Luhn Digits",
+  "description": "Validate a sequence of decimal digits against the Luhn check digit, including its final digit.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "luhn_digits",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/luhn_digits",
+  "license": "MIT",
+  "sha256": "3269ba17ef42afec164ad11120da33bc47128547b26ef507b41ff6f22edf70af",
+  "size": 20549
+}

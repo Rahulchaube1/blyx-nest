@@ -1,0 +1,14 @@
+{
+  "slug": "ocr_review",
+  "title": "Ocr Review",
+  "description": "Route pages below a caller-provided confidence cutoff to human correction before indexing.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "ocr_review",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/ocr_review",
+  "license": "MIT",
+  "sha256": "85630970285558c9176614c337f64150337ffb40ac45202df66d0518404c163a",
+  "size": 21470
+}

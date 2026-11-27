@@ -1,0 +1,14 @@
+{
+  "slug": "weekday_mask_count",
+  "title": "Weekday Mask Count",
+  "description": "Count allowed weekdays in a half-open span using a seven-value flag vector and the supplied starting weekday from zero to six.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "weekday_mask_count",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/weekday_mask_count",
+  "license": "MIT",
+  "sha256": "9702ba522ddfea31a0ae8e87f6f36cf3337dc2b8e3fa87187ef6795fbbcf56ab",
+  "size": 21252
+}

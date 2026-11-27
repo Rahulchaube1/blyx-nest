@@ -1,0 +1,14 @@
+{
+  "slug": "balance_index",
+  "title": "Balance Index",
+  "description": "Find the first index where the sum of earlier values equals the sum of later values. Return minus one if none exists.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "balance_index",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/balance_index",
+  "license": "MIT",
+  "sha256": "e9df1a5924ef175771fca6dd25b2508bb3e8c10bf8df06a77272fed8465f65be",
+  "size": 21017
+}

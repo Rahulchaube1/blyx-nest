@@ -1,0 +1,14 @@
+{
+  "slug": "clock_unwrap",
+  "title": "Clock Unwrap",
+  "description": "Convert a wrapped time-of-day to the earliest absolute minute at or after a reference minute, using a fixed 1440-minute day.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "clock_unwrap",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/clock_unwrap",
+  "license": "MIT",
+  "sha256": "510469c9a853336a3bfa8c0beee04cbc5ee873942a2252d630f47408c73ab37a",
+  "size": 21415
+}

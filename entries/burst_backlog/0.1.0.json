@@ -1,0 +1,14 @@
+{
+  "slug": "burst_backlog",
+  "title": "Burst Backlog",
+  "description": "Compute the peak queued work across synchronized arrivals followed by service at each time step. Return minus one for invalid counts.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "burst_backlog",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/burst_backlog",
+  "license": "MIT",
+  "sha256": "3e22a3bcb0a7ed9514695429d3dcca54dee5496b3275f0d4e8f80adc5295cd56",
+  "size": 20627
+}

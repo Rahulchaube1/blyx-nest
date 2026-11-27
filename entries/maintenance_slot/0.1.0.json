@@ -1,0 +1,14 @@
+{
+  "slug": "maintenance_slot",
+  "title": "Maintenance Slot",
+  "description": "Track the maintenance window deadline, prevent late starts and flag overrun on completion.",
+  "kind": "framework",
+  "version": "0.1.0",
+  "module": "maintenance_slot",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/maintenance_slot",
+  "license": "MIT",
+  "sha256": "e43fa8bdc39b0f7d454a0a3c40344cc8d595fd8f27411440ed459837cb775168",
+  "size": 17128
+}

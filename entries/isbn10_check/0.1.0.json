@@ -1,0 +1,14 @@
+{
+  "slug": "isbn10_check",
+  "title": "Isbn10 Check",
+  "description": "Validate ten ISBN-10 values in print order. Encode the final X as 10.",
+  "kind": "library",
+  "version": "0.1.0",
+  "module": "isbn10_check",
+  "repository": "https://github.com/Rahulchaube1/blyx-workbench",
+  "commit": "6349f23784edeb3d86bc1660b084b76ba9e65545",
+  "sourceDir": "packages/isbn10_check",
+  "license": "MIT",
+  "sha256": "9b47ddeaf203aa61d8e39bcc37b1bf2d5dd8c90b18972264bbcc548c704d753f",
+  "size": 20831
+}

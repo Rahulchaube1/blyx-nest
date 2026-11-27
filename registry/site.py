@@ -63,7 +63,16 @@ def copy_command(cmd):
     return '<div class="cmd"><code>'+esc(cmd)+'</code><button type="button" data-copy="'+esc(cmd,quote=True)+'" aria-label="Copy command" hidden>Copy</button></div>'
 
 
-def index_page(packages,tools):
+def activity_strip(stats):
+    metrics = [('packages', 'Package projects'), ('releases', 'Package releases'), ('members', 'Files across releases')]
+    cells = ''.join(f'<div><dt>{label}</dt><dd data-metric="{key}">{stats[key]:,}</dd></div>'
+                    for key, label in metrics)
+    return (f'<dl class="registry-strip" aria-label="Blyx registry and playground activity" data-release-stamp="{stats["publishedAt"]}">'
+            + cells + '<div><dt>Active playground browsers <small>Opt-in &middot; last 15 min</small></dt>'
+            '<dd id="active-browsers" aria-label="Awaiting activity count">&mdash;</dd></div></dl>')
+
+
+def index_page(packages,tools,stats):
     all_items=packages+tools
     total=len(all_items)
     featured=('blyxtorch','moments','nest','modelgate','retrieval','blyxc')
@@ -75,10 +84,15 @@ def index_page(packages,tools):
         filters+=f'<a class="filter" data-filter="{slug}" href="index.html?kind={slug}" aria-current="{"true" if slug=="all" else "false"}">{name} <span>{count}</span></a>'
     content='''<div class="hero"><div><h1>Packages for Blyx<span>.</span></h1><p>Find a framework, import a library, or get a tool for your next Blyx project.</p></div>
 <div class="try"><div class="try-title"><img src="blyx.png" width="28" height="28" alt=""> Try a library</div>'''+copy_command('nest add moments@0.1.0')+'''<a href="install.html">Install the Nest CLI <span aria-hidden="true">→</span></a></div></div>
+'''+activity_strip(stats)+'''
 <section aria-labelledby="browse"><div class="search-top"><h2 id="browse">Browse the registry</h2>
 <form role="search" action="index.html"><label class="sr" for="query">Search packages and tools</label><input id="query" type="search" name="q" placeholder="Search by name or task" autocomplete="off"></form></div>
 <div class="filters" aria-label="Filter by type">'''+filters+'</div><p class="sr" id="status" role="status" aria-live="polite"></p><div class="entries" id="entries">'+''.join(card(p) for p in rows[:18])+'''</div><p id="empty" hidden>No matches. Try a shorter term or choose another type.</p><p id="load-error" role="alert" hidden>Could not load search. <a href="directory.html">Browse the complete directory</a> or <button type="button" id="retry-search">retry</button>.</p><div class="pager"><button type="button" id="previous" disabled>Previous</button><span id="page-number">Page 1 of '''+str((total+17)//18)+'''</span><button type="button" id="next">Next</button></div><p><a href="directory.html">Complete alphabetical directory</a> · <a href="stats.html">Registry statistics</a></p></section>'''
     write('index.html',page('index.html','Blyx Nest · The Blyx package registry','Search and install Blyx frameworks, libraries and developer tools.',content))
+    write('activity.html', '<!doctype html><html lang="en"><head><meta charset="utf-8">'
+          '<meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex">'
+          '<title>Blyx registry and playground activity</title><link rel="stylesheet" href="style.css">'
+          '<script defer src="nest.js"></script></head><body class="embed">' + activity_strip(stats) + '</body></html>')
     write_json(OUT/'api/v1/discovery.json', [{k:r[k] for k in ('slug','title','kind','latest','description','icon')} for r in rows])
     listing=''.join('<li>'+anchor(('tools/' if r['kind']=='tool' else 'packages/')+r['slug']+'.html', r['title'])+'</li>' for r in sorted(rows,key=lambda r:r['title'].casefold()))
     write('directory.html',page('directory.html','Package directory · Blyx Nest','All published packages and tools.','<h1>Package directory</h1><ul class="alphabetical">'+listing+'</ul>'))
@@ -137,17 +151,16 @@ def statistics(index, tools, counts, file_types):
            'libraries':sum(p['kind']=='library' for p in index),'tools':len(tools),
            **counts,'fileTypes':dict(file_types.most_common())}
     write_json(OUT/'api/v1/stats.json',stats)
-    metrics=[('packages','Packages'),('releases','Package releases'),('members','Files across releases'),('tools','Developer tools')]
-    numbers=''.join(f'<div><dt>{label}</dt><dd data-metric="{k}">{stats[k]:,}</dd></div>' for k,label in metrics)
     bars=''.join(f'<li><span>{esc(ext)}</span><meter min="0" max="{max(file_types.values())}" value="{n}">{n}</meter><strong>{n:,}</strong></li>' for ext,n in file_types.most_common()) if file_types else ''
     text=f'''<h1>Registry statistics</h1><p class="lede">Counts from the latest published catalog. A file present in two releases counts twice.</p>
 <p id="snapshot" data-published="{stats['publishedAt']}">Published <time>{stats['publishedAt']}</time>. Checks for updates every minute while open. <a href="api/v1/stats.json">Read the data</a></p>
-<dl class="metrics">{numbers}</dl><section class="reading"><h2>Files by type</h2><ul class="file-bars">{bars}</ul></section>'''
+{activity_strip(stats)}<p>The registry also lists <strong data-metric="tools">{stats['tools']}</strong> developer tools. The activity count estimates browsers that reported a successful playground run in the last 15 minutes. <a href="{LANG}/adoption#method">Counting method</a></p><section class="reading"><h2>Files by type</h2><ul class="file-bars">{bars}</ul></section>'''
     timing=json.loads((ROOT/'web/packaging-benchmark.json').read_bytes())
     med=timing['medians']
     bars=''.join(f'<li><span>{label}</span><meter min="0" max="{max(med.values())}" value="{med[k]}"></meter><strong>{med[k]:.2f} s</strong></li>' for k,label in [('before','Before'),('after','After')])
     text+=f'''<section class="reading"><h2>Time to prepare BlyxTorch 0.5.0</h2><p>Median of five Windows x64 runs packaging the same 55-file release. Nest now reads pinned Git blobs in one process. Both versions produced the published archive SHA-256.</p><ul class="file-bars">{bars}</ul><p>{anchor('packaging-benchmark.json','Measurements and method')} · {anchor('releases/blyxtorch/0.5.0.html','Inspect the measured release')}</p></section>'''
     write('stats.html',page('stats.html','Registry statistics · Blyx Nest','Counts and file types for published Blyx releases.',text))
+    return stats
 
 
 def docs_pages():
@@ -250,8 +263,8 @@ def build(artwork_dir=None):
         content='<div class="crumb">'+anchor('index.html','Registry')+' / Developer tool</div><article class="guide"><div class="kicker">Blyx tool · v'+esc(t['version'])+'</div><h1>'+esc(t['title'])+'</h1><p class="lede">'+esc(t['description'])+'</p><div class="links">'+anchor(t['guide'],'Install '+t['title'],'button')+anchor(t['release'],'Versioned downloads')+anchor(t['repository'],'Source repository')+'</div></article>'
         write(loc,page(loc,t['title']+' · Blyx Nest',t['description'],content))
     write_json(OUT/'api/v1/index.json',{'schema':1,'packages':index,'tools':tools})
-    index_page(index,tools)
-    statistics(index,tools,counts,file_types)
+    stats = statistics(index,tools,counts,file_types)
+    index_page(index,tools,stats)
     docs_pages()
     locations = ['/', '/install.html', '/publish.html','/directory.html','/stats.html','/sdk.html','/ecosystem.html',*release_pages]
     locations.extend('/packages/'+p['slug']+'.html' for p in index)

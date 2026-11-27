@@ -118,14 +118,15 @@ if (form) {
 }
 
 const snapshot = document.getElementById("snapshot");
-if (snapshot) {
+const strip = document.querySelector("[data-release-stamp]");
+if (strip) {
     async function checkSnapshot() {
         if (document.hidden) return;
         try {
-            const response = await fetch("api/v1/stats.json", {cache:"no-cache"});
+            const response = await fetch("api/v1/stats.json", {cache:"no-cache", signal: AbortSignal.timeout(10000)});
             if (!response.ok) return;
             const data = await response.json();
-            if (data.schema === 1 && data.publishedAt > snapshot.dataset.published) {
+            if (data.schema === 1 && data.publishedAt > strip.dataset.releaseStamp) {
                 const counts = Object.entries(data.fileTypes).sort((a,b) => b[1] - a[1]);
                 const bars = counts.map(([type,count]) => {
                     const row = document.createElement("li");
@@ -139,15 +140,40 @@ if (snapshot) {
                     row.append(label,meter,value);
                     return row;
                 });
-                document.querySelector(".file-bars").replaceChildren(...bars);
+                document.querySelector(".file-bars")?.replaceChildren(...bars);
                 for (const el of document.querySelectorAll("[data-metric]")) {
                     el.textContent = data[el.dataset.metric].toLocaleString();
                 }
-                snapshot.querySelector("time").textContent = data.publishedAt;
-                snapshot.dataset.published = data.publishedAt;
+                strip.dataset.releaseStamp = data.publishedAt;
+                if (snapshot) snapshot.querySelector("time").textContent = data.publishedAt;
             }
         } catch { /* The published snapshot stays readable offline. */ }
     }
-    setInterval(checkSnapshot, 60000);
-    document.addEventListener("visibilitychange", checkSnapshot);
+    const active = document.getElementById("active-browsers");
+    async function checkActivity() {
+        try {
+            const r = await fetch("https://www.blyx-lang.space/api/playground/activity", {cache: "no-store", credentials: "omit", signal: AbortSignal.timeout(10000)});
+            if (!r.ok) throw new Error();
+            const {active: count, observed} = await r.json();
+            const age = Date.now() - Date.parse(observed);
+            if (!Number.isSafeInteger(count) || count < 0 || !(age >= -60000 && age < 180000)) throw new Error();
+            active.textContent = count.toLocaleString();
+            active.removeAttribute("aria-label");
+            active.title = "Observed " + observed;
+        } catch {
+            active.textContent = "Unavailable";
+            active.removeAttribute("aria-label");
+            active.title = "A recent playground sample could not be retrieved.";
+        }
+    }
+    let checking = false;
+    async function refresh() {
+        if (document.hidden || checking) return;
+        checking = true;
+        try { await Promise.all([checkSnapshot(), checkActivity()]); }
+        finally { checking = false; }
+    }
+    refresh();
+    setInterval(refresh, 60000);
+    document.addEventListener("visibilitychange", refresh);
 }

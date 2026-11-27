@@ -35,6 +35,12 @@ If several packages share a repository, pass a directory relative to the Git roo
 
 The module and source manifest must be committed together. For the ID `mypackage`, the manifest name can be `mypackage` or `blyx-mypackage`. Include a license, keep dependencies in the source tree, and submit a new X.Y.Z release for changes. A reviewer checks that the submitter maintains or is authorized by the source project, that the license permits redistribution, and that the example exercises the public module. Tools listed in the registry must demonstrate a direct Blyx integration. [Propose a tool](https://github.com/Rahulchaube1/blyx-nest/issues/new?template=tool.yml)
 
+## Inspect a published version
+
+Open **Browse files** on any package version to view its exact archive paths, byte sizes and SHA-256 digests. The release view compares files against the preceding version. The package JSON exposes each version’s `fileManifest` path. Identical files share a content address across releases. The [registry SDK](https://nest.blyx-lang.space/sdk.html) checks a selected file before returning its bytes.
+
+[Live registry statistics](https://nest.blyx-lang.space/stats.html) count projects, package releases, tools and archive members after each deployment. [Build and ship a Blyx project](https://nest.blyx-lang.space/ecosystem.html) covers runtimes, protocol integrations and the publishing workflow. Ask for help in the [Blyx Language Discord](https://discord.gg/ZPNWqNsvC).
+
 ## Build and verify
 
 Nest takes framework and library logos from the official Blyx galleries at build time. It matches each package by ID and source repository, checks the artwork digest and serves a local copy. Community packages can supply their own `assets/logo.png`. For an offline build, save the catalog and logo bundle in one directory and pass it to `python registry/site.py --artwork-dir DIRECTORY`. [Package catalog](https://www.blyx-lang.space/packages.json) · [Logo bundle](https://www.blyx-lang.space/blyx-package-logos.zip)

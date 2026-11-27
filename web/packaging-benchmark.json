@@ -1,0 +1,31 @@
+{
+  "benchmarkFiles": 55,
+  "timings": {
+    "before": [
+      3.130388999998104,
+      2.9489634999772534,
+      2.786714199988637,
+      2.532947499945294,
+      2.478964400012046
+    ],
+    "after": [
+      0.4989609000040218,
+      0.40389309998136014,
+      0.3842041000025347,
+      0.3765241000219248,
+      0.34704469999996945
+    ]
+  },
+  "medians": {
+    "before": 2.786714199988637,
+    "after": 0.3842041000025347
+  },
+  "archiveSha256": "6a76f1f23a874d9a4e13ce3f0ba26fe563525594a3d398b9bf03ee6febb51546",
+  "commit": "04c2e047c14315e52573ff054770fe5adaa7c1ba",
+  "package": "blyxtorch",
+  "version": "0.5.0",
+  "platform": "Windows x64",
+  "baseline": "d2b0782",
+  "unit": "seconds",
+  "method": "Five fresh Python 3.14 processes per implementation with alternating run order, using git cat-file on the same local checkout. Times include reading the pinned files, encoding and writing the archive and metadata."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "utf8_stream",
+  "version": "0.1.0",
+  "module": "utf8_stream",
+  "kind": "library",
+  "repository": "https://github.com/Rahulchaube1/blyx-utf8-stream",
+  "commit": "6431d2ac067f560a2c2249dca1c2bcf7d2d70e98",
+  "title": "UTF-8 Stream",
+  "description": "Validate UTF-8 incrementally across input buffers and detect truncated sequences at end of input.",
+  "license": "MIT",
+  "sourceDir": "vendor/utf8_stream",
+  "sha256": "852886e6ff09f9e825ad9a5019bee2d07bf1b5ee86134581dec0596de0658514",
+  "size": 2380
+}

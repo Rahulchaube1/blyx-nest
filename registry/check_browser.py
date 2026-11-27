@@ -31,7 +31,7 @@ with webdriver.Chrome(options=options) as driver:
     check_logo('[href="packages/blyxtorch.html"] img', 'blyxtorch')
     check_logo('[href="packages/moments.html"] img', 'moments')
     select('#next').click()
-    assert 'Page 2 of' in select('#page-number').text
+    wait.until(lambda _: 'Page 2 of' in select('#page-number').text)
     select('[data-filter="library"]').click()
     select('#query').send_keys('moments')
     wait.until(lambda d:results()==['Moments'])
@@ -43,8 +43,8 @@ with webdriver.Chrome(options=options) as driver:
     assert select('[data-copy]').get_attribute('data-copy')=='nest add moments@0.1.0'
     assert select('tbody a').get_attribute('href')==urljoin(base,'files/moments/0.1.0.zip')
     driver.get(base+'index.html?kind=tool')
-    wait.until(lambda d:len(results())==2)
-    assert set(results())=={'Nest CLI','Blyx Compiler'}
+    wait.until(lambda d:len(results())==3)
+    assert set(results())=={'Nest CLI','Blyx Compiler','Nest JavaScript SDK'}
     select('#query').send_keys('this-tool-does-not-exist')
     wait.until(lambda d:select('#empty').is_displayed())
     driver.set_window_size(375,850)

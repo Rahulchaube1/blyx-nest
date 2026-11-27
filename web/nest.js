@@ -18,34 +18,77 @@ for (const button of document.querySelectorAll("[data-copy]")) {
 const form = document.querySelector("form[role=search]");
 if (form) {
     const input = document.getElementById("query");
-    const entries = Array.from(document.querySelectorAll(".entry"));
-    const filters = Array.from(document.querySelectorAll("[data-filter]"));
-    const pager = document.querySelector(".pager");
+    const container = document.getElementById("entries");
+    const initial = [...container.children];
+    const filters = [...document.querySelectorAll("[data-filter]")];
     const previous = document.getElementById("previous");
     const next = document.getElementById("next");
+    const pageText = document.getElementById("page-number");
+    const firstPageText = pageText.textContent;
+    const kinds = new Set(filters.map(f => f.dataset.filter));
     const perPage = 18;
-    let kind = "all";
-    let number = 1;
-    function paint(sync) {
-        const tokens = input.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
-        const matches = entries.filter(entry => (kind === "all" || entry.dataset.kind === kind)
-            && tokens.every(word => entry.dataset.search.includes(word)));
-        const count = Math.ceil(matches.length / perPage);
-        number = Math.max(1, Math.min(number, count || 1));
-        const visible = new Set(matches.slice((number - 1) * perPage, number * perPage));
-        entries.forEach(entry => { entry.hidden = !visible.has(entry); });
-        for (const f of filters) f.setAttribute("aria-current", String(f.dataset.filter === kind));
-        document.getElementById("empty").hidden = matches.length > 0;
-        document.getElementById("status").textContent = matches.length + " matching entries";
-        document.getElementById("page-number").textContent = "Page " + number + " of " + count;
-        previous.disabled = number <= 1;
-        next.disabled = number >= count;
-        pager.hidden = count <= 1;
+    let request;
+    let generation = 0;
+    let kind, number;
+
+    function catalog() {
+        if (!request) {
+            request = import("./nest-sdk.mjs").then(async ({NestClient}) => {
+                const rows = await new NestClient(document.baseURI).catalog();
+                return rows.map(p => ({...p, search: [p.slug, p.title, p.description, p.kind].join(" ").toLowerCase()}));
+            }).catch(error => { request = undefined; throw error; });
+        }
+        return request;
+    }
+
+    function card(p) {
+        const article = initial[0].cloneNode(true);
+        article.removeAttribute("data-search");
+        article.dataset.kind = p.kind;
+        article.querySelector("a").href = (p.kind === "tool" ? "tools/" : "packages/") + p.slug + ".html";
+        article.querySelector("img").src = p.icon;
+        const meta = article.querySelector(".entry-meta");
+        meta.firstChild.textContent = p.kind[0].toUpperCase() + p.kind.slice(1);
+        meta.querySelector("span").textContent = "v" + p.latest;
+        article.querySelector("h3").textContent = p.title;
+        article.querySelector("p").textContent = p.description;
+        return article;
+    }
+
+    async function paint(sync) {
+        const revision = ++generation;
+        const q = input.value.trim().toLowerCase();
+        document.getElementById("load-error").hidden = true;
+        for (const item of filters) item.setAttribute("aria-current", String(item.dataset.filter === kind));
+        if (!q && kind === "all" && number === 1 && !request) {
+            container.replaceChildren(...initial);
+            pageText.textContent = firstPageText;
+            previous.disabled = true;
+        } else {
+            try {
+                const rows = await catalog();
+                if (revision !== generation) return;
+                const words = q.split(/\s+/).filter(Boolean);
+                const matches = rows.filter(p => (kind === "all" || kind === p.kind) && words.every(w => p.search.includes(w)));
+                const pages = Math.ceil(matches.length / perPage);
+                number = Math.min(number, pages || 1);
+                const visible = matches.slice((number - 1) * perPage, number * perPage);
+                container.replaceChildren(...visible.map(card));
+                document.getElementById("empty").hidden = !!matches.length;
+                document.getElementById("status").textContent = matches.length + " matching entries";
+                pageText.textContent = "Page " + number + " of " + pages;
+                previous.disabled = number <= 1;
+                next.disabled = number >= pages;
+                document.querySelector(".pager").hidden = pages <= 1;
+            } catch {
+                if (revision === generation) document.getElementById("load-error").hidden = false;
+                return;
+            }
+        }
         if (sync) {
             const url = new URL(location.href);
-            for (const [key, value] of Object.entries({q:input.value.trim(), kind:kind === "all" ? "" : kind, page:number > 1 ? String(number) : ""})) {
-                if (value) url.searchParams.set(key, value);
-                else url.searchParams.delete(key);
+            for (const [key,value] of Object.entries({q:input.value.trim(),kind:kind === "all" ? "" : kind,page:number > 1 ? String(number) : ""})) {
+                if (value) url.searchParams.set(key,value); else url.searchParams.delete(key);
             }
             history.replaceState(null, "", url);
         }
@@ -53,23 +96,58 @@ if (form) {
     function read() {
         const params = new URL(location.href).searchParams;
         input.value = params.get("q") || "";
-        const selected = params.get("kind");
-        kind = filters.some(f => f.dataset.filter === selected) ? selected : "all";
-        number = Number.parseInt(params.get("page") || "1", 10) || 1;
+        kind = kinds.has(params.get("kind")) ? params.get("kind") : "all";
+        number = Math.max(1, Number.parseInt(params.get("page"),10) || 1);
         paint(false);
     }
-    input.addEventListener("input", () => { number = 1; paint(true); });
-    form.addEventListener("submit", event => { event.preventDefault(); number=1; paint(true); });
+    input.addEventListener("input", () => {number=1; paint(true);});
+    form.addEventListener("submit", event => {event.preventDefault(); number=1; paint(true);});
     for (const filter of filters) filter.addEventListener("click", event => {
         if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
         event.preventDefault(); kind=filter.dataset.filter; number=1; paint(true);
     });
     function flip(delta) {
-        number += delta; paint(true);
+        number+=delta; paint(true);
         document.getElementById("browse").scrollIntoView({block:"start"});
     }
     previous.addEventListener("click", () => flip(-1));
     next.addEventListener("click", () => flip(1));
+    document.getElementById("retry-search").addEventListener("click", () => paint(true));
     window.addEventListener("popstate",read);
     read();
+}
+
+const snapshot = document.getElementById("snapshot");
+if (snapshot) {
+    async function checkSnapshot() {
+        if (document.hidden) return;
+        try {
+            const response = await fetch("api/v1/stats.json", {cache:"no-cache"});
+            if (!response.ok) return;
+            const data = await response.json();
+            if (data.schema === 1 && data.publishedAt > snapshot.dataset.published) {
+                const counts = Object.entries(data.fileTypes).sort((a,b) => b[1] - a[1]);
+                const bars = counts.map(([type,count]) => {
+                    const row = document.createElement("li");
+                    const label = document.createElement("span");
+                    label.textContent = type;
+                    const meter = document.createElement("meter");
+                    meter.max = counts[0][1];
+                    meter.value = count;
+                    const value = document.createElement("strong");
+                    value.textContent = count.toLocaleString();
+                    row.append(label,meter,value);
+                    return row;
+                });
+                document.querySelector(".file-bars").replaceChildren(...bars);
+                for (const el of document.querySelectorAll("[data-metric]")) {
+                    el.textContent = data[el.dataset.metric].toLocaleString();
+                }
+                snapshot.querySelector("time").textContent = data.publishedAt;
+                snapshot.dataset.published = data.publishedAt;
+            }
+        } catch { /* The published snapshot stays readable offline. */ }
+    }
+    setInterval(checkSnapshot, 60000);
+    document.addEventListener("visibilitychange", checkSnapshot);
 }

@@ -26,6 +26,8 @@ with tempfile.TemporaryDirectory() as scratch:
     argv=[sys.executable,str(tools/'submit.py'),str(upstream),'--repository','https://github.com/example/sample','--title','Sample',
           '--description','Return one integer.','--kind','library','--module','sample','--license','MIT',
           '--example',str(root/'main.blyx'),'--expected',str(root/'expected.txt')]
+    subprocess.run(argv+['--dry-run'],check=True)
+    assert not (root/'entries/sample').exists() and not (root/'archives/sample').exists()
     subprocess.run(argv,check=True)
     metadata=json.loads((root/'entries/sample/0.1.0.json').read_bytes())
     archive=root/'archives/sample/0.1.0.zip'

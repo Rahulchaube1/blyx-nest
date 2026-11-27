@@ -1,0 +1,14 @@
+{
+  "slug": "netstring_stream",
+  "version": "0.1.0",
+  "module": "netstring_stream",
+  "kind": "library",
+  "repository": "https://github.com/Rahulchaube1/blyx-netstring-stream",
+  "commit": "2dfff82a38c59b753b9e2d57e7c8732e8769847b",
+  "title": "Netstring Stream",
+  "description": "Read length-prefixed binary messages across arbitrary input boundaries with a caller-supplied payload limit.",
+  "license": "MIT",
+  "sourceDir": "vendor/netstring_stream",
+  "sha256": "090c9a6d4541db1a74771c9e2beb5295bab06c3c485ea636a6920cd54a7bcfb3",
+  "size": 2753
+}

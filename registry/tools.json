@@ -2,10 +2,10 @@
   {
     "slug": "blyxc",
     "title": "Blyx Compiler",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "description": "Check and run Blyx programs or compile a native executable.",
     "repository": "https://github.com/Rahulchaube1/blyxxxx",
-    "release": "https://github.com/Rahulchaube1/blyxxxx/releases/tag/v0.2.1",
+    "release": "https://github.com/Rahulchaube1/blyxxxx/releases/tag/v0.2.2",
     "guide": "https://www.blyx-lang.space/download"
   },
   {
@@ -16,5 +16,14 @@
     "repository": "https://github.com/Rahulchaube1/blyx-nest",
     "release": "https://github.com/Rahulchaube1/blyx-nest/releases/tag/v0.1.0",
     "guide": "install.html"
+  },
+  {
+    "slug": "nest_js",
+    "title": "Nest JavaScript SDK",
+    "version": "0.1.0",
+    "description": "Inspect Blyx release manifests and fetch individual SHA-256-verified files in browsers or Node.js.",
+    "repository": "https://github.com/Rahulchaube1/blyx-nest-js",
+    "release": "https://github.com/Rahulchaube1/blyx-nest-js/releases/tag/v0.1.0",
+    "guide": "sdk.html"
   }
 ]

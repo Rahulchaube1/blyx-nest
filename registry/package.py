@@ -15,7 +15,7 @@ RESERVED = {'con', 'prn', 'aux', 'nul', *(f'{prefix}{i}' for prefix in ('com','l
 MAX_SIZE = 16 * 1024 * 1024
 MAX_CONTENT = 48 * 1024 * 1024
 SUFFIXES = {'.blyx', '.toml', '.txt', '.md', '.csv', '.json', '.png', '.bt'}
-TOOL_IDS = {'blyxc', 'nest'}
+TOOL_IDS = {'blyxc', 'nest', 'nest_js'}
 
 
 def require(condition, message):

@@ -1,0 +1,14 @@
+{
+  "slug": "installment_piece",
+  "title": "Installment Piece",
+  "kind": "library",
+  "description": "Distribute minor units across equal installments, assigning one extra unit to each earliest installment until the remainder is exhausted.",
+  "repository": "https://github.com/Rahulchaube1/blyx-installment-piece",
+  "commit": "e6196d72ddac2f825630aff4ae625ade6cb27a1c",
+  "module": "installment_piece",
+  "sourceDir": "vendor/installment_piece",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "29d50fe2fbed770c254c1eb20e31fe6e36be1894ea7ed618ab249802d2c782b4",
+  "size": 20788
+}

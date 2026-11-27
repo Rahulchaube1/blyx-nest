@@ -1,0 +1,14 @@
+{
+  "slug": "mean_abs_step",
+  "title": "Mean Abs Step",
+  "kind": "library",
+  "description": "Measure average absolute change between successive readings, yielding zero for a series with fewer than two observations.",
+  "repository": "https://github.com/Rahulchaube1/blyx-mean-abs-step",
+  "commit": "384da00a82962a287a4f358f63c11bc1c2683474",
+  "module": "mean_abs_step",
+  "sourceDir": "vendor/mean_abs_step",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "c86e5a0c57ba8fb3384996b4307d6dbb748fbc1ca68021d154c6b52cd5648e40",
+  "size": 21353
+}

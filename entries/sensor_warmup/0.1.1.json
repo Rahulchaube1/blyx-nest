@@ -1,0 +1,14 @@
+{
+  "slug": "sensor_warmup",
+  "title": "Sensor Warmup",
+  "kind": "framework",
+  "description": "Hold measurements during a sensor warm-up countdown and restart calibration after a reset.",
+  "repository": "https://github.com/Rahulchaube1/blyx-sensor-warmup",
+  "commit": "c3840a8f137a6be527aa5bc6c3ceec6145c36ed8",
+  "module": "sensor_warmup",
+  "sourceDir": "vendor/sensor_warmup",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "3d25e1cf86184e58d5ed110fab7f5ebbd8ad5453fdd56e8846e7fc7034225472",
+  "size": 22334
+}

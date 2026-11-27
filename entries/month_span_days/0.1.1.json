@@ -1,0 +1,14 @@
+{
+  "slug": "month_span_days",
+  "title": "Month Span Days",
+  "kind": "library",
+  "description": "Return the Gregorian length of a named month for positive civil years. Invalid months and years return minus one.",
+  "repository": "https://github.com/Rahulchaube1/blyx-month-span-days",
+  "commit": "5d1c20618508db197ac476b265e55a20f43fdb21",
+  "module": "month_span_days",
+  "sourceDir": "vendor/month_span_days",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "e29d7da7530d08af5d939240e9bfbec6f4153a126929db6f72ebd1ee616f4e12",
+  "size": 21368
+}

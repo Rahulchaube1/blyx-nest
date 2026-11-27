@@ -1,0 +1,14 @@
+{
+  "slug": "shelf_life_pick",
+  "title": "Shelf Life Pick",
+  "kind": "library",
+  "description": "Choose the earliest nonexpired lot with sufficient stock for an unsplit order. Ties preserve input order.",
+  "repository": "https://github.com/Rahulchaube1/blyx-shelf-life-pick",
+  "commit": "39cde3817576c33739e76445a5fb7794049a3409",
+  "module": "shelf_life_pick",
+  "sourceDir": "vendor/shelf_life_pick",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "f79789ed1564af20a4f38aa45300fc9519c1e3978414587e7c24a5f78f4e6fde",
+  "size": 21209
+}

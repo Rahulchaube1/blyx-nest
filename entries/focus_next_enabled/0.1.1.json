@@ -1,0 +1,14 @@
+{
+  "slug": "focus_next_enabled",
+  "title": "Focus Next Enabled",
+  "kind": "library",
+  "description": "Return the next enabled control index in a circular tab order. Return minus one when every control is disabled or the starting index is invalid.",
+  "repository": "https://github.com/Rahulchaube1/blyx-focus-next-enabled",
+  "commit": "e37f000b3a94d2426617f692462eb0dc59ee7ca2",
+  "module": "focus_next_enabled",
+  "sourceDir": "vendor/focus_next_enabled",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "d1620ac749c780adf67593190e1d11a5db6a64a91a9584b8507ae7329dc51259",
+  "size": 21008
+}

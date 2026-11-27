@@ -1,0 +1,14 @@
+{
+  "slug": "newton_step",
+  "title": "Newton Step",
+  "kind": "library",
+  "description": "Apply one scalar Newton update to a root estimate with a caller-supplied derivative. Preserve the estimate for a zero derivative.",
+  "repository": "https://github.com/Rahulchaube1/blyx-newton-step",
+  "commit": "0c0a380759a5f68e9fc689ce13496f47a3a757b2",
+  "module": "newton_step",
+  "sourceDir": "vendor/newton_step",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "d5d22516cbfcae09ac049a43336e1fef0c8a59e37a288baa8f51fe9621463faf",
+  "size": 20604
+}

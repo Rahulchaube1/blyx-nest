@@ -1,0 +1,14 @@
+{
+  "slug": "grid_resample",
+  "title": "Grid Resample",
+  "kind": "framework",
+  "description": "Track remaining destination rows during raster reprojection and require an explicit nodata audit before release.",
+  "repository": "https://github.com/Rahulchaube1/blyx-grid-resample",
+  "commit": "1864448e2bb5d3894f045a22247afb96bd5d5a2c",
+  "module": "grid_resample",
+  "sourceDir": "vendor/grid_resample",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "542ec5d93a1646f2ad92015d2cea1c3e008662cdb6b7bf573411668110b5d771",
+  "size": 22063
+}

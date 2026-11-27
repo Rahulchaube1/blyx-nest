@@ -1,0 +1,14 @@
+{
+  "slug": "serial_newer",
+  "title": "Serial Newer",
+  "kind": "library",
+  "description": "Compare unsigned 32-bit serial numbers under half-range ordering. Equal and exactly half-range pairs return false.",
+  "repository": "https://github.com/Rahulchaube1/blyx-serial-newer",
+  "commit": "887d6081ce5b2b86b0b1aa99baf77fc6e72c40fa",
+  "module": "serial_newer",
+  "sourceDir": "vendor/serial_newer",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "76b0acd0c8ce99204e6d7153d8c3eca84ea9d604d52ec7222b3e8532b3bcb198",
+  "size": 21005
+}

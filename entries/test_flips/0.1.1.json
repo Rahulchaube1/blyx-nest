@@ -1,0 +1,14 @@
+{
+  "slug": "test_flips",
+  "title": "Test Flips",
+  "kind": "library",
+  "description": "Count observed pass-to-fail or fail-to-pass transitions across reruns of one test. Reject nonbinary results.",
+  "repository": "https://github.com/Rahulchaube1/blyx-test-flips",
+  "commit": "7e999fbda923eaa0260c63223020b2cbb94a5b79",
+  "module": "test_flips",
+  "sourceDir": "vendor/test_flips",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "8b48553a24f8863787bf6f3e3397a8ab0798c101c52404c562c121c209d1265c",
+  "size": 21570
+}

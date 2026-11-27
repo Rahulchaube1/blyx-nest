@@ -1,0 +1,14 @@
+{
+  "slug": "coverage_minutes",
+  "title": "Coverage Minutes",
+  "kind": "library",
+  "description": "Sum occupied minutes over sorted nonoverlapping activity intervals clipped to a reporting window.",
+  "repository": "https://github.com/Rahulchaube1/blyx-coverage-minutes",
+  "commit": "748751f1d48c0d315b45134be9c3b857bb4c5323",
+  "module": "coverage_minutes",
+  "sourceDir": "vendor/coverage_minutes",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "62946d1d2518987e008ec54e342e92b56beeaf86635b4b94871325595e41ca76",
+  "size": 20371
+}

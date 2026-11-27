@@ -1,0 +1,14 @@
+{
+  "slug": "dot_kahan",
+  "title": "Dot Kahan",
+  "kind": "library",
+  "description": "Accumulate a dot product with compensated summation for bounded finite inputs. Mismatched arrays return zero.",
+  "repository": "https://github.com/Rahulchaube1/blyx-dot-kahan",
+  "commit": "3fa9517a2d635364545fd25961192bbcc9a63948",
+  "module": "dot_kahan",
+  "sourceDir": "vendor/dot_kahan",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "336581e2e82e95604f05ea5ae56a08d9b83d52c29727532469b906048341ee73",
+  "size": 21347
+}

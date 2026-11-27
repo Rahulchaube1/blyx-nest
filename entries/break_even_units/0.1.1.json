@@ -1,0 +1,14 @@
+{
+  "slug": "break_even_units",
+  "title": "Break Even Units",
+  "kind": "library",
+  "description": "Calculate the first whole unit count whose positive contribution margin covers fixed overhead. Return minus one for a nonpositive margin.",
+  "repository": "https://github.com/Rahulchaube1/blyx-break-even-units",
+  "commit": "fedf69f378d852038c078ddd9db2bec48dc76e63",
+  "module": "break_even_units",
+  "sourceDir": "vendor/break_even_units",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "10a45aef9678c30f54c673a40e0b3ea6dc87f6f28a58348faca56afb63625ab1",
+  "size": 19811
+}

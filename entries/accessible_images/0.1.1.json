@@ -1,0 +1,14 @@
+{
+  "slug": "accessible_images",
+  "title": "Accessible Images",
+  "kind": "framework",
+  "description": "Track unresolved image alternatives and count explicitly decorative images as reviewed.",
+  "repository": "https://github.com/Rahulchaube1/blyx-accessible-images",
+  "commit": "bb7146b229be6c55a614a12b6185676a4e348e87",
+  "module": "accessible_images",
+  "sourceDir": "vendor/accessible_images",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "cf90e921b0414beb7f39dac055a8b203d11c95dd54c3df6604228ed1a716caa4",
+  "size": 22141
+}

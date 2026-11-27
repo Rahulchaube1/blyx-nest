@@ -1,0 +1,14 @@
+{
+  "slug": "missing_sequence",
+  "title": "Missing Sequence",
+  "kind": "library",
+  "description": "Find the first missing ID starting at an expected ID in an ascending stream that may contain duplicates.",
+  "repository": "https://github.com/Rahulchaube1/blyx-missing-sequence",
+  "commit": "49a0a57cd7c1ca6764f6604a8ec444b5dba135c0",
+  "module": "missing_sequence",
+  "sourceDir": "vendor/missing_sequence",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "eea96035a5763718931ff4552a19d84098b902b762afbb8a2412cb72ada8a638",
+  "size": 20733
+}

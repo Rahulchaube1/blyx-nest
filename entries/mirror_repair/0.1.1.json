@@ -1,0 +1,14 @@
+{
+  "slug": "mirror_repair",
+  "title": "Mirror Repair",
+  "kind": "framework",
+  "description": "Schedule missing mirror blocks and disclose availability only after a consistency probe.",
+  "repository": "https://github.com/Rahulchaube1/blyx-mirror-repair",
+  "commit": "d5e920bec6cf3bf3c0e0b643272fb93e81052a7a",
+  "module": "mirror_repair",
+  "sourceDir": "vendor/mirror_repair",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "54e858c455a87ef40a9bf2d9b9fcc0bd825af5bd8116b5df0423a8edfbfdd69d",
+  "size": 16610
+}

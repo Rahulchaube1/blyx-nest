@@ -1,0 +1,14 @@
+{
+  "slug": "next_cadence",
+  "title": "Next Cadence",
+  "kind": "library",
+  "description": "Find the first cadence tick at or after a time, anchored to an initial tick. Period must be positive.",
+  "repository": "https://github.com/Rahulchaube1/blyx-next-cadence",
+  "commit": "e52f29a0bc7e2ba87bd2145a471233266f392541",
+  "module": "next_cadence",
+  "sourceDir": "vendor/next_cadence",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "a31cb68d4caddefc320c4b949fe6c7a9d2209b6eba1374cde269ea3b4c99703b",
+  "size": 21571
+}

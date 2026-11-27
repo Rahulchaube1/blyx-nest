@@ -1,0 +1,14 @@
+{
+  "slug": "weighted_median_pos",
+  "title": "Weighted Median Pos",
+  "kind": "library",
+  "description": "Select the first sorted value index whose cumulative nonnegative weight reaches half the total. Zero total returns minus one.",
+  "repository": "https://github.com/Rahulchaube1/blyx-weighted-median-pos",
+  "commit": "3d483f95aebf6368ff1e08f15f756ee709808a15",
+  "module": "weighted_median_pos",
+  "sourceDir": "vendor/weighted_median_pos",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "32c868e2ce06f244cedeacdd167095570e29adf30a669feaf03b18934f95c210",
+  "size": 21052
+}

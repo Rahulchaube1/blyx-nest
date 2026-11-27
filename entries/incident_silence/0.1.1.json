@@ -1,0 +1,14 @@
+{
+  "slug": "incident_silence",
+  "title": "Incident Silence",
+  "kind": "framework",
+  "description": "Suppress repeated notifications until a quiet period expires while allowing severity escalation.",
+  "repository": "https://github.com/Rahulchaube1/blyx-incident-silence",
+  "commit": "a324921be608679bd833b6838838a3e81f3cf146",
+  "module": "incident_silence",
+  "sourceDir": "vendor/incident_silence",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "840f7bf29cdce8a7d77af98014bc4069c681f1825ca4e9a981e7e5d85eafb5b2",
+  "size": 17082
+}

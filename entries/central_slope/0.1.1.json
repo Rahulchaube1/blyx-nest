@@ -1,0 +1,14 @@
+{
+  "slug": "central_slope",
+  "title": "Central Slope",
+  "kind": "library",
+  "description": "Estimate a centered finite-difference slope at an interior sample of uniformly spaced data. Invalid positions or spacing return zero.",
+  "repository": "https://github.com/Rahulchaube1/blyx-central-slope",
+  "commit": "19b867c4138f188f99e1cbebd3611c30aa238ed1",
+  "module": "central_slope",
+  "sourceDir": "vendor/central_slope",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "df7f1b81ec739885e2dea8534721e58ba3530a10bd2b0d5b76e88e9e384bb605",
+  "size": 21571
+}

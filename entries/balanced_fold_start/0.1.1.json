@@ -1,0 +1,14 @@
+{
+  "slug": "balanced_fold_start",
+  "title": "Balanced Fold Start",
+  "kind": "library",
+  "description": "Locate the start row of a balanced contiguous validation fold, giving extra rows to earlier folds. Fold count itself returns the end sentinel.",
+  "repository": "https://github.com/Rahulchaube1/blyx-balanced-fold-start",
+  "commit": "8cdc9d013aadbd530b7645ab6590a2f7de3a3ffe",
+  "module": "balanced_fold_start",
+  "sourceDir": "vendor/balanced_fold_start",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "d9cf23de65ba2f4235a5d6a575cf0466c08ac966e0604bc508dd7679c2bfbeb6",
+  "size": 20990
+}

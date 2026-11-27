@@ -1,0 +1,14 @@
+{
+  "slug": "crs_handoff",
+  "title": "Crs Handoff",
+  "kind": "framework",
+  "description": "Require the expected coordinate-system identifier before allowing a vector-layer merge.",
+  "repository": "https://github.com/Rahulchaube1/blyx-crs-handoff",
+  "commit": "2f79b52f7f0976f9e6d361fb56737bebb776b2a5",
+  "module": "crs_handoff",
+  "sourceDir": "vendor/crs_handoff",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "6f7409eae5775fac081ba58e8d5f6a8ab78228760da3b28a55e39e69d3b24593",
+  "size": 22274
+}

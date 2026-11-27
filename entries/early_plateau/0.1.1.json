@@ -1,0 +1,14 @@
+{
+  "slug": "early_plateau",
+  "title": "Early Plateau",
+  "kind": "framework",
+  "description": "Track consecutive unimproved evaluations against a caller-selected patience budget.",
+  "repository": "https://github.com/Rahulchaube1/blyx-early-plateau",
+  "commit": "ae10ac7ab459df813d41a2dca186b3e5b3b51699",
+  "module": "early_plateau",
+  "sourceDir": "vendor/early_plateau",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "b7b67936cb61906a475b6afaa54bb09f92aba522ca0d97d24672fc8870c98590",
+  "size": 20219
+}

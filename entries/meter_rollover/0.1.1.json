@@ -1,0 +1,14 @@
+{
+  "slug": "meter_rollover",
+  "title": "Meter Rollover",
+  "kind": "framework",
+  "description": "Detect dial rollover and report monotonically increasing meter readings or rollover corrections.",
+  "repository": "https://github.com/Rahulchaube1/blyx-meter-rollover",
+  "commit": "872d328221d37bc8c6e9a7c534ae098735734833",
+  "module": "meter_rollover",
+  "sourceDir": "vendor/meter_rollover",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "29e9133137107cdc2f55361f911a1d91ffd92ed99c1a66f4567900253e401944",
+  "size": 24985
+}

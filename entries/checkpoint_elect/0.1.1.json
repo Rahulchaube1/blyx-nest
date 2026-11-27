@@ -1,0 +1,14 @@
+{
+  "slug": "checkpoint_elect",
+  "title": "Checkpoint Elect",
+  "kind": "framework",
+  "description": "Keep the best model checkpoint under integer loss minimization and restore it on a stop request.",
+  "repository": "https://github.com/Rahulchaube1/blyx-checkpoint-elect",
+  "commit": "ec9424316a897d14a3bc4d891bfe3a29162e6c89",
+  "module": "checkpoint_elect",
+  "sourceDir": "vendor/checkpoint_elect",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "94c8a57710ec65ed486c7f3e4a4bb4c19eaab292be48c40aed8c5233a0e4cd94",
+  "size": 20657
+}

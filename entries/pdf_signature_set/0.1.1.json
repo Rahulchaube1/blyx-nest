@@ -1,0 +1,14 @@
+{
+  "slug": "pdf_signature_set",
+  "title": "Pdf Signature Set",
+  "kind": "framework",
+  "description": "Collect signature fields for a PDF packet and prevent flattening while fields remain empty.",
+  "repository": "https://github.com/Rahulchaube1/blyx-pdf-signature-set",
+  "commit": "5c42583538354a6d312c63be54fed0c9e31f7acb",
+  "module": "pdf_signature_set",
+  "sourceDir": "vendor/pdf_signature_set",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "18567d96562388dacc457ed82d00c62d41fe35181c029a03410f3aacdb2b0a36",
+  "size": 21910
+}

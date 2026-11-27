@@ -1,0 +1,14 @@
+{
+  "slug": "quorum_overlap",
+  "title": "Quorum Overlap",
+  "kind": "library",
+  "description": "Calculate the minimum overlap between two successful quorum sets in a universe of distinct nodes.",
+  "repository": "https://github.com/Rahulchaube1/blyx-quorum-overlap",
+  "commit": "440944b927c81af23f3ef02f0aeaf47e3444dea0",
+  "module": "quorum_overlap",
+  "sourceDir": "vendor/quorum_overlap",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "7acee47952d929fa4433ec62eb0a2f8e908d01c01acc535a99a384102c22d355",
+  "size": 20610
+}

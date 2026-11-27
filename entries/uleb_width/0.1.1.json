@@ -1,0 +1,14 @@
+{
+  "slug": "uleb_width",
+  "title": "Uleb Width",
+  "kind": "library",
+  "description": "Determine the encoded byte length of a nonnegative integer in unsigned LEB128.",
+  "repository": "https://github.com/Rahulchaube1/blyx-uleb-width",
+  "commit": "3971fbdcd2c695f65dbd240ba604ba6867379598",
+  "module": "uleb_width",
+  "sourceDir": "vendor/uleb_width",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "6182a0e1001a0e2b24adc0699b450bbf75f1a5e64b78624c9ac92a6151aad7f7",
+  "size": 21154
+}

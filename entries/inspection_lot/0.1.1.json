@@ -1,0 +1,14 @@
+{
+  "slug": "inspection_lot",
+  "title": "Inspection Lot",
+  "kind": "framework",
+  "description": "Release, reject or rework a lot based on observed defects and its configured acceptance limit.",
+  "repository": "https://github.com/Rahulchaube1/blyx-inspection-lot",
+  "commit": "02525001382195ead19e4c2bf45eefefe1fb3548",
+  "module": "inspection_lot",
+  "sourceDir": "vendor/inspection_lot",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "c5cdbdf6d8ddc382785081037b8fa63861e8e1b538589fd1375762859e5ae281",
+  "size": 24694
+}

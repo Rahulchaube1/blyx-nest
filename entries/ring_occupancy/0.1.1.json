@@ -1,0 +1,14 @@
+{
+  "slug": "ring_occupancy",
+  "title": "Ring Occupancy",
+  "kind": "library",
+  "description": "Count occupied slots in a one-empty-slot circular queue with wrapped read and write cursors.",
+  "repository": "https://github.com/Rahulchaube1/blyx-ring-occupancy",
+  "commit": "f417ec28b850404f30a33a7546cd52d3cc7c6e55",
+  "module": "ring_occupancy",
+  "sourceDir": "vendor/ring_occupancy",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "a851a25713c43c9ddc782817d1c68331a4909f3b2fa329358198727537f964de",
+  "size": 21217
+}

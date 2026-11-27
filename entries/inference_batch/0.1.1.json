@@ -1,0 +1,14 @@
+{
+  "slug": "inference_batch",
+  "title": "Inference Batch",
+  "kind": "framework",
+  "description": "Seal variable-size inference requests by a token budget and carry the first oversized arrival to the next batch.",
+  "repository": "https://github.com/Rahulchaube1/blyx-inference-batch",
+  "commit": "67d88b966508863178f5afb38692096eb5f1eae9",
+  "module": "inference_batch",
+  "sourceDir": "vendor/inference_batch",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "538e5bebc865b82b71c20cf725959e2deb02550ff9ab4918811bf3042b5f8fdd",
+  "size": 20500
+}

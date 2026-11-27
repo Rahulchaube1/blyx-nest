@@ -1,0 +1,14 @@
+{
+  "slug": "widow_split",
+  "title": "Widow Split",
+  "kind": "library",
+  "description": "Choose the largest paragraph prefix that fits while leaving a minimum count on each side. Zero means defer the paragraph to the next page.",
+  "repository": "https://github.com/Rahulchaube1/blyx-widow-split",
+  "commit": "c8462120f44c22b0db265467c39419970f168c72",
+  "module": "widow_split",
+  "sourceDir": "vendor/widow_split",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "b15a03e95a0829792ad47bc3445be6f032688ae24b4d7b49444856adc884e561",
+  "size": 20253
+}

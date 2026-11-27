@@ -1,0 +1,14 @@
+{
+  "slug": "fletcher16_bytes",
+  "title": "Fletcher16 Bytes",
+  "kind": "library",
+  "description": "Compute Fletcher-16 on byte values modulo 255. Invalid byte input returns minus one.",
+  "repository": "https://github.com/Rahulchaube1/blyx-fletcher16-bytes",
+  "commit": "a6ecac47a956ccb83d9df67bb650a7d1728acca4",
+  "module": "fletcher16_bytes",
+  "sourceDir": "vendor/fletcher16_bytes",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "f6134b3ea8b0780a50a3a89224ba55864bb9c09d1865aa88a8221f3494612588",
+  "size": 20289
+}

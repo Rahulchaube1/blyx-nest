@@ -1,0 +1,14 @@
+{
+  "slug": "gini_impurity",
+  "title": "Gini Impurity",
+  "kind": "library",
+  "description": "Compute class impurity from nonnegative class counts. An empty or zero-mass histogram yields zero.",
+  "repository": "https://github.com/Rahulchaube1/blyx-gini-impurity",
+  "commit": "2712bc1b83e58eeb33481350417fa00dbd531a98",
+  "module": "gini_impurity",
+  "sourceDir": "vendor/gini_impurity",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "c8baacc93d433078bc5739464e67f5c3104e28bd2a307cd569009415f0f157d7",
+  "size": 21306
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "piecewise_interp",
+  "title": "Piecewise Interp",
+  "kind": "library",
+  "description": "Linearly interpolate between sorted strictly increasing knots, extending constant values past both ends. Supply matching nonempty arrays.",
+  "repository": "https://github.com/Rahulchaube1/blyx-piecewise-interp",
+  "commit": "cb4733e1c403c995bea0163b51c4a8da1c9d7b65",
+  "module": "piecewise_interp",
+  "sourceDir": "vendor/piecewise_interp",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "0d7daaed1d18394e24950d23bf8122bfd3abe92dddabdd29151eb273ca5d57ad",
+  "size": 21351
+}

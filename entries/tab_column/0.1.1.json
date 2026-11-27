@@ -1,0 +1,14 @@
+{
+  "slug": "tab_column",
+  "title": "Tab Column",
+  "kind": "library",
+  "description": "Advance a zero-based text column to the next tab stop for a positive tab width.",
+  "repository": "https://github.com/Rahulchaube1/blyx-tab-column",
+  "commit": "841681e6761a23d3789545a4b68dccca5a3e1516",
+  "module": "tab_column",
+  "sourceDir": "vendor/tab_column",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "83d1178bd5ed99b1533eebee1a3ec2175f8c3582d467d46bd7e313f1efc69cb3",
+  "size": 21230
+}

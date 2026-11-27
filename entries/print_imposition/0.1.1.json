@@ -1,0 +1,14 @@
+{
+  "slug": "print_imposition",
+  "title": "Print Imposition",
+  "kind": "framework",
+  "description": "Complete paired front and back impressions before counting a duplex sheet as finished.",
+  "repository": "https://github.com/Rahulchaube1/blyx-print-imposition",
+  "commit": "fcde5d764ab889374d7a54ede6a62d6016bee67d",
+  "module": "print_imposition",
+  "sourceDir": "vendor/print_imposition",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "ec940d158b9846b13f263d53126072ce069217cee381872117b3ff55b9d2eb60",
+  "size": 21447
+}

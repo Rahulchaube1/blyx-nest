@@ -1,0 +1,14 @@
+{
+  "slug": "unit_pack_waste",
+  "title": "Unit Pack Waste",
+  "kind": "library",
+  "description": "Compute spare slots in the final shipping case when a nonnegative order is packed into equal-size cases.",
+  "repository": "https://github.com/Rahulchaube1/blyx-unit-pack-waste",
+  "commit": "32c291a082c50af06920592808757e0f55902e2e",
+  "module": "unit_pack_waste",
+  "sourceDir": "vendor/unit_pack_waste",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "b1623d51ced970d42ffe236b4b34e22a4ff1901766087daa947ea2f3d3e7d2e5",
+  "size": 21580
+}

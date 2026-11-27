@@ -1,0 +1,14 @@
+{
+  "slug": "tier_units",
+  "title": "Tier Units",
+  "kind": "library",
+  "description": "Count units charged inside one progressive pricing tier with excluded lower and included upper cumulative boundaries.",
+  "repository": "https://github.com/Rahulchaube1/blyx-tier-units",
+  "commit": "9c4b50dfee66d5b6bab531a157cf61daba03b3e6",
+  "module": "tier_units",
+  "sourceDir": "vendor/tier_units",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "5182430d487ec0a4582a1ec3015f72290361d1dd718ae6afccd5a752c82e6c08",
+  "size": 21282
+}

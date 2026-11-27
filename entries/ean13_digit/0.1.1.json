@@ -1,0 +1,14 @@
+{
+  "slug": "ean13_digit",
+  "title": "Ean13 Digit",
+  "kind": "library",
+  "description": "Derive the EAN-13 check digit from exactly twelve decimal data digits. Invalid input returns minus one.",
+  "repository": "https://github.com/Rahulchaube1/blyx-ean13-digit",
+  "commit": "3768cd51883a2cac42b7ffdc5b112e15437ce682",
+  "module": "ean13_digit",
+  "sourceDir": "vendor/ean13_digit",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "c323b4ccefb9981e886c753d26e10bd4d0565b32a6391d343d6b7e36455f65b4",
+  "size": 21490
+}

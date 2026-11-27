@@ -1,0 +1,14 @@
+{
+  "slug": "slot_conflict_count",
+  "title": "Slot Conflict Count",
+  "kind": "library",
+  "description": "Count half-open reservations overlapping a proposed half-open time slot. Ignore empty reservations.",
+  "repository": "https://github.com/Rahulchaube1/blyx-slot-conflict-count",
+  "commit": "53580216f7358250b0c8842571d48f6fb79afe5b",
+  "module": "slot_conflict_count",
+  "sourceDir": "vendor/slot_conflict_count",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "d3fc209afea6e9ad8958610bf730d6686faf0eca6652ab6408799e8e7f523616",
+  "size": 21472
+}

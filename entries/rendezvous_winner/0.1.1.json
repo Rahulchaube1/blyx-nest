@@ -1,0 +1,14 @@
+{
+  "slug": "rendezvous_winner",
+  "title": "Rendezvous Winner",
+  "kind": "library",
+  "description": "Choose an available replica from precomputed rendezvous hash scores, resolving ties by lowest index. Positive flags indicate available replicas.",
+  "repository": "https://github.com/Rahulchaube1/blyx-rendezvous-winner",
+  "commit": "0a0bac804c84557b0e496a68e1cf1697f8078c43",
+  "module": "rendezvous_winner",
+  "sourceDir": "vendor/rendezvous_winner",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "60db962383f8e908c99f3af4cd5820b8b86b1a2328c39dca4c5267b5a61d1173",
+  "size": 21738
+}

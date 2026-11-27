@@ -1,0 +1,14 @@
+{
+  "slug": "restore_drill",
+  "title": "Restore Drill",
+  "kind": "framework",
+  "description": "Verify restored row counts and run a read probe before declaring a recovery drill successful.",
+  "repository": "https://github.com/Rahulchaube1/blyx-restore-drill",
+  "commit": "85a40ec223ba6ca25274cd9b2a0b30b2d596ac88",
+  "module": "restore_drill",
+  "sourceDir": "vendor/restore_drill",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "a46fd2167dd2cf43fb61d61cb08c37a66ae10061cb820889f91d6cca82dc1a6b",
+  "size": 16883
+}

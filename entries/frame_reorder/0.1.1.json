@@ -1,0 +1,14 @@
+{
+  "slug": "frame_reorder",
+  "title": "Frame Reorder",
+  "kind": "framework",
+  "description": "Deliver frames on the expected sequence number and signal missing ranges to the decoder.",
+  "repository": "https://github.com/Rahulchaube1/blyx-frame-reorder",
+  "commit": "dadf85ff01ded6e69374421bbc23545aeeea5ee9",
+  "module": "frame_reorder",
+  "sourceDir": "vendor/frame_reorder",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "6bb92262eb0a4a97bd042cb6ba904aacaf4e00b4135b9c590521e9c12d05e7d6",
+  "size": 24005
+}

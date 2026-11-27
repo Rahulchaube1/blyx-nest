@@ -1,0 +1,14 @@
+{
+  "slug": "mail_merge_batch",
+  "title": "Mail Merge Batch",
+  "kind": "framework",
+  "description": "Track unsent records through merge, exclusion and validated spooling of an output batch.",
+  "repository": "https://github.com/Rahulchaube1/blyx-mail-merge-batch",
+  "commit": "648070bb4955514f39760ec324277545d90ccc0b",
+  "module": "mail_merge_batch",
+  "sourceDir": "vendor/mail_merge_batch",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "82c719e49bdd396c10f52b15ec2384787cb781ef3a64bcd28a663794941621da",
+  "size": 21936
+}

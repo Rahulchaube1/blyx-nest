@@ -1,0 +1,14 @@
+{
+  "slug": "base64_size",
+  "title": "Base64 Size",
+  "kind": "library",
+  "description": "Calculate the number of padded Base64 characters required for a known payload byte count.",
+  "repository": "https://github.com/Rahulchaube1/blyx-base64-size",
+  "commit": "0300812d42c890bc193ebb0ed444680073c8cf0d",
+  "module": "base64_size",
+  "sourceDir": "vendor/base64_size",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "a0875797a0ba5fd7e48219d9e413d1e693fedc91c215d8c528f482b39d7a176e",
+  "size": 20893
+}

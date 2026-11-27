@@ -1,0 +1,14 @@
+{
+  "slug": "test_streak",
+  "title": "Test Streak",
+  "kind": "library",
+  "description": "Find the longest consecutive run of failures in test results encoded as zero for pass and one for failure.",
+  "repository": "https://github.com/Rahulchaube1/blyx-test-streak",
+  "commit": "1feaac277d8d6488b410ed97127dc4467249af92",
+  "module": "test_streak",
+  "sourceDir": "vendor/test_streak",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "d0b8466b799ba9dd2d9fbe52b937b49693230d8fd833cea45f555ff30986e03d",
+  "size": 21956
+}

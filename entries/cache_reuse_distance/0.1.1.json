@@ -1,0 +1,14 @@
+{
+  "slug": "cache_reuse_distance",
+  "title": "Cache Reuse Distance",
+  "kind": "library",
+  "description": "Count distinct addresses since the previous identical reference to estimate LRU stack distance. A cold reference returns minus one.",
+  "repository": "https://github.com/Rahulchaube1/blyx-cache-reuse-distance",
+  "commit": "e2012ab3ec65ce7c70e589e60356fabe71d63717",
+  "module": "cache_reuse_distance",
+  "sourceDir": "vendor/cache_reuse_distance",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "c40764a803ba5a5096195dd8efe9f1a4294a0479a21df1c7e60256df22c07b30",
+  "size": 21574
+}

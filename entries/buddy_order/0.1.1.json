@@ -1,0 +1,14 @@
+{
+  "slug": "buddy_order",
+  "title": "Buddy Order",
+  "kind": "library",
+  "description": "Find the least buddy allocator order that holds a request in positive equal base blocks. Order zero uses one block.",
+  "repository": "https://github.com/Rahulchaube1/blyx-buddy-order",
+  "commit": "3b34f360b4119078123525f753da76722b8bad32",
+  "module": "buddy_order",
+  "sourceDir": "vendor/buddy_order",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "23d836d22d1fe5a15e36e1bd772fcaa923abda4cff122aca14ae8dcf4c117a58",
+  "size": 21265
+}

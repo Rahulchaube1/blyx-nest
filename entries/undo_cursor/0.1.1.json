@@ -1,0 +1,14 @@
+{
+  "slug": "undo_cursor",
+  "title": "Undo Cursor",
+  "kind": "framework",
+  "description": "Bound undo traversal by the number of applied edits and clear history at a committed savepoint.",
+  "repository": "https://github.com/Rahulchaube1/blyx-undo-cursor",
+  "commit": "98176fc532c99b1a48efa9497672f3b9910116a3",
+  "module": "undo_cursor",
+  "sourceDir": "vendor/undo_cursor",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "fb904684db46ff6a19a67fcba581c3ec250d70b5c1bf9be1f62af2fb21fae532",
+  "size": 22462
+}

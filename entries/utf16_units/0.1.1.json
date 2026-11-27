@@ -1,0 +1,14 @@
+{
+  "slug": "utf16_units",
+  "title": "Utf16 Units",
+  "kind": "library",
+  "description": "Count UTF-16 code units for an array of Unicode scalar values and reject malformed scalar values.",
+  "repository": "https://github.com/Rahulchaube1/blyx-utf16-units",
+  "commit": "e8f44052227ecf68c6570b37090129ff696eb68a",
+  "module": "utf16_units",
+  "sourceDir": "vendor/utf16_units",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "0f7d74d736247bdf68d8bc8079c011d4ac7a3874e4955ea6c3a184a7701cc7e7",
+  "size": 21046
+}

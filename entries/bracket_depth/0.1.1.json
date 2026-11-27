@@ -1,0 +1,14 @@
+{
+  "slug": "bracket_depth",
+  "title": "Bracket Depth",
+  "kind": "library",
+  "description": "Check a stream encoded as plus one for open and minus one for close and return maximum balanced nesting. Reject premature closes and unfinished groups.",
+  "repository": "https://github.com/Rahulchaube1/blyx-bracket-depth",
+  "commit": "de43954290c77c350c33c468d0e578d224a67c24",
+  "module": "bracket_depth",
+  "sourceDir": "vendor/bracket_depth",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "a19e35561fbec3d691981130a1f25d82ecdfcb13f1b78b252afc7fc3a87410ae",
+  "size": 20972
+}

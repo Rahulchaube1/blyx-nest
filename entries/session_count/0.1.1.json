@@ -1,0 +1,14 @@
+{
+  "slug": "session_count",
+  "title": "Session Count",
+  "kind": "library",
+  "description": "Count activity sessions in a sorted event timeline. A gap strictly greater than the timeout starts a new session.",
+  "repository": "https://github.com/Rahulchaube1/blyx-session-count",
+  "commit": "1bd26b83480a4c5c11a84eaabfea90295569b173",
+  "module": "session_count",
+  "sourceDir": "vendor/session_count",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "83ad856a2584ba469314c9d3bd88646e0cc111c17ac14df682c265edf4aba6c0",
+  "size": 21185
+}

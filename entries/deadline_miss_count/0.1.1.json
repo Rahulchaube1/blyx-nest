@@ -1,0 +1,14 @@
+{
+  "slug": "deadline_miss_count",
+  "title": "Deadline Miss Count",
+  "kind": "library",
+  "description": "Count jobs missing absolute deadlines on one nonpreemptive worker in the supplied dispatch order.",
+  "repository": "https://github.com/Rahulchaube1/blyx-deadline-miss-count",
+  "commit": "e85e6138722e56f9a240b0cf74b2a8f5a0c2ee95",
+  "module": "deadline_miss_count",
+  "sourceDir": "vendor/deadline_miss_count",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "b6f9b0e911cd01c0f9ee60d8a0109e5fd51155af61512b64ff60265e98d7cb90",
+  "size": 21698
+}

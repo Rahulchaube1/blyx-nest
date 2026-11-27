@@ -1,0 +1,14 @@
+{
+  "slug": "periodic_overlap",
+  "title": "Periodic Overlap",
+  "kind": "library",
+  "description": "Measure minutes in a recurring daily window, including windows that cross midnight, within one specified minute-of-day interval. Equal daily endpoints mean an empty window.",
+  "repository": "https://github.com/Rahulchaube1/blyx-periodic-overlap",
+  "commit": "6b09b6f602399b531f3b69dcbd1431c6099e6176",
+  "module": "periodic_overlap",
+  "sourceDir": "vendor/periodic_overlap",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "cbb75b5f599488195ba7a0035d81bd6a630b71ed391be91910de612a97b89023",
+  "size": 20745
+}

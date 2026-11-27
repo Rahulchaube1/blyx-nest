@@ -1,0 +1,14 @@
+{
+  "slug": "focus_trap",
+  "title": "Focus Trap",
+  "kind": "framework",
+  "description": "Cycle keyboard focus around a modal boundary and release focus on dismissal.",
+  "repository": "https://github.com/Rahulchaube1/blyx-focus-trap",
+  "commit": "27f336bdbeb0e849545dfdb5fa30ce3200099bb4",
+  "module": "focus_trap",
+  "sourceDir": "vendor/focus_trap",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "3d53eb75467b7978b30677e571c851d57f1b48800cc5ac30be2c6f07d38c6229",
+  "size": 22437
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "pair_concordance",
+  "title": "Pair Concordance",
+  "kind": "library",
+  "description": "Count concordant minus discordant unordered pairs for two ranked measurements. Ties contribute zero.",
+  "repository": "https://github.com/Rahulchaube1/blyx-pair-concordance",
+  "commit": "4f039bf6855fcb05c93431fbe961edd5aecfa500",
+  "module": "pair_concordance",
+  "sourceDir": "vendor/pair_concordance",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "3a01a4392deb26da1240d4ad7c1ee8d125a6b227d96feb8ca9f4b948df74619b",
+  "size": 20920
+}

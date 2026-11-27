@@ -1,0 +1,14 @@
+{
+  "slug": "first_free_gap",
+  "title": "First Free Gap",
+  "kind": "library",
+  "description": "Find the first start time that fits a duration past sorted, possibly overlapping reservations. Ignore empty reservations.",
+  "repository": "https://github.com/Rahulchaube1/blyx-first-free-gap",
+  "commit": "6de32f5b7469be1fecdcc26a0b1e383654612748",
+  "module": "first_free_gap",
+  "sourceDir": "vendor/first_free_gap",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "93298734e742d014f1b463c60d760bfe7e6d863e4116fe7560b5e0d118fb53cf",
+  "size": 21934
+}

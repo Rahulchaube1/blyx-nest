@@ -1,0 +1,14 @@
+{
+  "slug": "residual_bias",
+  "title": "Residual Bias",
+  "kind": "library",
+  "description": "Measure signed mean prediction minus target for paired samples. An empty batch or mismatched lengths produces zero.",
+  "repository": "https://github.com/Rahulchaube1/blyx-residual-bias",
+  "commit": "b864c1b9ac3e6724c8362735f32cc51c188845e7",
+  "module": "residual_bias",
+  "sourceDir": "vendor/residual_bias",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "02f5dd52a10b509bc4aa60f3289e98c727aa602ebfb63bbe15dbdc6f64e84f70",
+  "size": 21269
+}

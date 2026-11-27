@@ -1,0 +1,14 @@
+{
+  "slug": "bin_first_fit",
+  "title": "Bin First Fit",
+  "kind": "library",
+  "description": "Find the first container with remaining capacity for a nonnegative item. Return minus one if no container fits.",
+  "repository": "https://github.com/Rahulchaube1/blyx-bin-first-fit",
+  "commit": "34c777c1279941e0a3114c0b7f1eff19fe0148dd",
+  "module": "bin_first_fit",
+  "sourceDir": "vendor/bin_first_fit",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "bd62b6c60a0f8cbfd2f6a53f552b655bd842d2bf34751d13370a2ec931a7daf0",
+  "size": 21011
+}

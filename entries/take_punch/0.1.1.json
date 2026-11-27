@@ -1,0 +1,14 @@
+{
+  "slug": "take_punch",
+  "title": "Take Punch",
+  "kind": "framework",
+  "description": "Punch a recording in and out on a monotonic sample clock and retain the captured duration.",
+  "repository": "https://github.com/Rahulchaube1/blyx-take-punch",
+  "commit": "ea706c62619b5c726723eed46e6c0b3ae10dd965",
+  "module": "take_punch",
+  "sourceDir": "vendor/take_punch",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "c4057ac2f1cbc2af4561d7bb2cf29750feffcf1161ca604556ef1678e2303c2b",
+  "size": 24216
+}

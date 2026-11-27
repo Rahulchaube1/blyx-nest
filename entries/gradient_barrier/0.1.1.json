@@ -1,0 +1,14 @@
+{
+  "slug": "gradient_barrier",
+  "title": "Gradient Barrier",
+  "kind": "framework",
+  "description": "Coordinate a fixed count of host-deduplicated gradient contributions before a single optimizer step.",
+  "repository": "https://github.com/Rahulchaube1/blyx-gradient-barrier",
+  "commit": "50fa960e4e502347953080dc33f65688f01dc993",
+  "module": "gradient_barrier",
+  "sourceDir": "vendor/gradient_barrier",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "734cdc9f42fca7765b16738aa00d118a3ece33eca166ab6984c45d0ba6f29db7",
+  "size": 20545
+}

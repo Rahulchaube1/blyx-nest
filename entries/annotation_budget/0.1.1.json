@@ -1,0 +1,14 @@
+{
+  "slug": "annotation_budget",
+  "title": "Annotation Budget",
+  "kind": "framework",
+  "description": "Reserve a bounded labeling budget, route affordable tasks and close the campaign when funds run out.",
+  "repository": "https://github.com/Rahulchaube1/blyx-annotation-budget",
+  "commit": "01701c5786ecaa8337a0e0efdb84e55ef63b721c",
+  "module": "annotation_budget",
+  "sourceDir": "vendor/annotation_budget",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "08b9799808804d2cdc25b07937d2875b095f2cce7a499587d9d12794d06c4f6e",
+  "size": 20248
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "fir_point",
+  "title": "Fir Point",
+  "kind": "library",
+  "description": "Evaluate one causal FIR output using taps in lag order and zero padding at the start of a signal.",
+  "repository": "https://github.com/Rahulchaube1/blyx-fir-point",
+  "commit": "e5b2df49b4dffc66216840f49b8a8d6cef5f5868",
+  "module": "fir_point",
+  "sourceDir": "vendor/fir_point",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "e6c6e6c5b633b4a1b4f30946db553570e21dfdf91bc7d4270793a08ba7a64308",
+  "size": 20185
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "grid_cell_index",
+  "title": "Grid Cell Index",
+  "kind": "library",
+  "description": "Map an in-bounds integer cell into a zero-based row-major array with explicit dimension checks.",
+  "repository": "https://github.com/Rahulchaube1/blyx-grid-cell-index",
+  "commit": "693fa8294873c7d5366e54f046916ada52181acb",
+  "module": "grid_cell_index",
+  "sourceDir": "vendor/grid_cell_index",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "4126559e8b0a25f3e425ae3c51b5cbe6dad58f4f25ec5d937352ec2d4b917267",
+  "size": 20139
+}

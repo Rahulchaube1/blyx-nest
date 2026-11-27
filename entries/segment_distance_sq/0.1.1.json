@@ -1,0 +1,14 @@
+{
+  "slug": "segment_distance_sq",
+  "title": "Segment Distance Sq",
+  "kind": "library",
+  "description": "Return squared Euclidean distance from a point to a closed segment, including the zero-length case.",
+  "repository": "https://github.com/Rahulchaube1/blyx-segment-distance-sq",
+  "commit": "a39d1c7d9dfd0e1db49364bd6b3d88c80d75a994",
+  "module": "segment_distance_sq",
+  "sourceDir": "vendor/segment_distance_sq",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "87aaed25a865860ca4c2bd4c609d5c46a1465124041abcdd30835c8593428044",
+  "size": 21069
+}

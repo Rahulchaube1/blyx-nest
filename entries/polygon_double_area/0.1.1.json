@@ -1,0 +1,14 @@
+{
+  "slug": "polygon_double_area",
+  "title": "Polygon Double Area",
+  "kind": "library",
+  "description": "Compute the absolute doubled area of a simple planar polygon from its vertex coordinates using the shoelace sum.",
+  "repository": "https://github.com/Rahulchaube1/blyx-polygon-double-area",
+  "commit": "f25a62b7755432a81006afbe1d398c24c2820a47",
+  "module": "polygon_double_area",
+  "sourceDir": "vendor/polygon_double_area",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "49efa20dc6e320c30c0a22f587a1e177427db5bc02365908c321486d6f97d627",
+  "size": 20441
+}

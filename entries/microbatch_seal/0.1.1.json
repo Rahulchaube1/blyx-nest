@@ -1,0 +1,14 @@
+{
+  "slug": "microbatch_seal",
+  "title": "Microbatch Seal",
+  "kind": "framework",
+  "description": "Close a microbatch on its target row count or an early flush and release only after sink confirmation.",
+  "repository": "https://github.com/Rahulchaube1/blyx-microbatch-seal",
+  "commit": "6f1f2b60134c043840a40a53a30c4d1f112b8689",
+  "module": "microbatch_seal",
+  "sourceDir": "vendor/microbatch_seal",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "5603cafc7589a88ad0a2805a951c6078e68b9d10f164596b7cf57c5090ba80fd",
+  "size": 25120
+}

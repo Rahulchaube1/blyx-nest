@@ -1,0 +1,14 @@
+{
+  "slug": "split_tender",
+  "title": "Split Tender",
+  "kind": "framework",
+  "description": "Collect installments in minor units and prevent capture above the outstanding order balance.",
+  "repository": "https://github.com/Rahulchaube1/blyx-split-tender",
+  "commit": "da7dc5aced4b109965b4d507385f7e315ff4b9e0",
+  "module": "split_tender",
+  "sourceDir": "vendor/split_tender",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "a753999e2a5ede73899d82f6d3e2ec8dfc9c1a1af87b58194343e98849734349",
+  "size": 18517
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "pixel_luma",
+  "title": "Pixel Luma",
+  "kind": "library",
+  "description": "Compute integer BT.601-style luma using fixed weights 77, 150 and 29 with nearest rounding. RGB channels must be bytes.",
+  "repository": "https://github.com/Rahulchaube1/blyx-pixel-luma",
+  "commit": "cd9e543e677f2a20cff62ca5fe791ca53e896cee",
+  "module": "pixel_luma",
+  "sourceDir": "vendor/pixel_luma",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "a05e7dc68aa60c4ad0d424de5f909616ad9f8b6b0a796ee5bd23391188f56288",
+  "size": 20753
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "peak_sample_index",
+  "title": "Peak Sample Index",
+  "kind": "library",
+  "description": "Locate the first sample of greatest absolute magnitude, preserving the index for waveform annotation. Empty input returns minus one.",
+  "repository": "https://github.com/Rahulchaube1/blyx-peak-sample-index",
+  "commit": "9b5c1a4db6ccb4cf099f1e88fd953c1a216bd7ba",
+  "module": "peak_sample_index",
+  "sourceDir": "vendor/peak_sample_index",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "c2747994eb128d6174aa6a9155232aadc49f259b3c2ae8fa7e883fb5db407240",
+  "size": 21100
+}

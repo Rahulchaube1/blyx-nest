@@ -1,0 +1,14 @@
+{
+  "slug": "turn_orientation",
+  "title": "Turn Orientation",
+  "kind": "library",
+  "description": "Determine the direction of a planar turn from six coordinates. Returns one for counterclockwise, zero for collinear, minus one for clockwise.",
+  "repository": "https://github.com/Rahulchaube1/blyx-turn-orientation",
+  "commit": "83ac2e34f95c531795954e5b5bf97f0c5954d979",
+  "module": "turn_orientation",
+  "sourceDir": "vendor/turn_orientation",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "4f1a5c1b37400eb7b67950068803944019b87c858e5360a30bd9ee886dfa21a0",
+  "size": 20187
+}

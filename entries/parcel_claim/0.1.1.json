@@ -1,0 +1,14 @@
+{
+  "slug": "parcel_claim",
+  "title": "Parcel Claim",
+  "kind": "framework",
+  "description": "Hold a lost-parcel claim during carrier investigation and cancel compensation when delivery wins the race.",
+  "repository": "https://github.com/Rahulchaube1/blyx-parcel-claim",
+  "commit": "c5e17474e366bc21f43792b1b2b26f254760132c",
+  "module": "parcel_claim",
+  "sourceDir": "vendor/parcel_claim",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "79dec64b543ede978154c20a7402c58e12cbe8a58c25a552187dbd9fff0ca83c",
+  "size": 19139
+}

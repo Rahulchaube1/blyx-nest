@@ -1,0 +1,14 @@
+{
+  "slug": "drain_workers",
+  "title": "Drain Workers",
+  "kind": "framework",
+  "description": "Stop new admissions before draining the known count of active workers and terminating a deployment.",
+  "repository": "https://github.com/Rahulchaube1/blyx-drain-workers",
+  "commit": "8d7c4eb83a6bed2b9841f1e6fbc174d06465fc2f",
+  "module": "drain_workers",
+  "sourceDir": "vendor/drain_workers",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "2ebb87c771b57ee48cebed5610d1417a59f5e024ad111f9ce4d25bdaa6d49ab5",
+  "size": 17156
+}

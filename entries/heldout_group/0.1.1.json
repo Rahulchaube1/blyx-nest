@@ -1,0 +1,14 @@
+{
+  "slug": "heldout_group",
+  "title": "Heldout Group",
+  "kind": "library",
+  "description": "Identify the nth distinct group in first-seen order for leave-one-group-out validation. Return its first row index or minus one.",
+  "repository": "https://github.com/Rahulchaube1/blyx-heldout-group",
+  "commit": "7c25477a3630afd68762415dff7e586964e292b2",
+  "module": "heldout_group",
+  "sourceDir": "vendor/heldout_group",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "04235dfa9c736c34d69df8fb4c906538149504fc89bb4fe855a1950f302fb04c",
+  "size": 21461
+}

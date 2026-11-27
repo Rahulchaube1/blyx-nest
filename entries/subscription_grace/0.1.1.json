@@ -1,0 +1,14 @@
+{
+  "slug": "subscription_grace",
+  "title": "Subscription Grace",
+  "kind": "framework",
+  "description": "Control renewal, grace-period expiration and reactivation by comparing absolute billing deadlines.",
+  "repository": "https://github.com/Rahulchaube1/blyx-subscription-grace",
+  "commit": "fe72b14011200cc78a7d66b40ad1b3f54ede7a40",
+  "module": "subscription_grace",
+  "sourceDir": "vendor/subscription_grace",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "90430d36797d14399df1b57eed28a535d59727abbf9cb2d0c4b87c002287b45c",
+  "size": 19045
+}

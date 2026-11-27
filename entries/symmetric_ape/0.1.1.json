@@ -1,0 +1,14 @@
+{
+  "slug": "symmetric_ape",
+  "title": "Symmetric Ape",
+  "kind": "library",
+  "description": "Compute mean symmetric absolute percentage error on a 0 to 200 scale with zero contribution when both values are zero.",
+  "repository": "https://github.com/Rahulchaube1/blyx-symmetric-ape",
+  "commit": "364c33dd28a5b0743745e4a135f39d8f0ca7973a",
+  "module": "symmetric_ape",
+  "sourceDir": "vendor/symmetric_ape",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "1918d3bb8654680d12f4a613e9a4053cf0b2a6d3e69a46733db8a4c0545e38de",
+  "size": 21002
+}

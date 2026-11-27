@@ -1,0 +1,14 @@
+{
+  "slug": "gift_balance",
+  "title": "Gift Balance",
+  "kind": "framework",
+  "description": "Redeem a prepaid balance multiple times, decline overdrafts, and close an exhausted card.",
+  "repository": "https://github.com/Rahulchaube1/blyx-gift-balance",
+  "commit": "e30941a1e4f7e7d99f9a848103c385f4129ae2ad",
+  "module": "gift_balance",
+  "sourceDir": "vendor/gift_balance",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "55406526d6e0b31c9ad802a507003f93c1caecdf1ddcd8dc2010f533623b0e3e",
+  "size": 19091
+}

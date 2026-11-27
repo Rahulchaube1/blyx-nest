@@ -1,0 +1,14 @@
+{
+  "slug": "periodic_index",
+  "title": "Periodic Index",
+  "kind": "library",
+  "description": "Wrap a signed pixel or lattice coordinate into a repeating axis of positive integer width.",
+  "repository": "https://github.com/Rahulchaube1/blyx-periodic-index",
+  "commit": "be1e684a0178538e3b4a63ec4bac69f75d7f3f82",
+  "module": "periodic_index",
+  "sourceDir": "vendor/periodic_index",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "852898e4bd062bb2468bf6d9a35da9e7410f0d268fae7b3debd7d491e963b468",
+  "size": 21357
+}

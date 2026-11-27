@@ -1,0 +1,14 @@
+{
+  "slug": "absolute_error_mean",
+  "title": "Absolute Error Mean",
+  "kind": "library",
+  "description": "Summarize average absolute deviation between paired targets and predictions. Empty or unequal batches return minus one.",
+  "repository": "https://github.com/Rahulchaube1/blyx-absolute-error-mean",
+  "commit": "33ef51c4bdca1dbc943a5efcd7613a2602884cdc",
+  "module": "absolute_error_mean",
+  "sourceDir": "vendor/absolute_error_mean",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "e368e2cac61ef182fcec986ecd25fe2cca84b925ee9e59cd9650586df6e7eaa4",
+  "size": 20901
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "exchange_stock",
+  "title": "Exchange Stock",
+  "kind": "framework",
+  "description": "Keep a replacement item reserved until receipt of the matching returned item.",
+  "repository": "https://github.com/Rahulchaube1/blyx-exchange-stock",
+  "commit": "4dd22919d152231ee20d91cc6e33d342820109b6",
+  "module": "exchange_stock",
+  "sourceDir": "vendor/exchange_stock",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "5ca70284b8c5a2b2c2aca04b65bdd3fbf46c3cb8581e608a93027e40408d0ebb",
+  "size": 18989
+}

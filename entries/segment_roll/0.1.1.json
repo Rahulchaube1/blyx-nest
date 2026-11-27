@@ -1,0 +1,14 @@
+{
+  "slug": "segment_roll",
+  "title": "Segment Roll",
+  "kind": "framework",
+  "description": "Roll bounded log segments without losing the append that triggered rotation.",
+  "repository": "https://github.com/Rahulchaube1/blyx-segment-roll",
+  "commit": "62b768ea45934ca4529189af0ae152470640dea5",
+  "module": "segment_roll",
+  "sourceDir": "vendor/segment_roll",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "64cd35260723b4ca4ff558f3aab80407491f5adc5e3543c3ee2b10ef02121f1e",
+  "size": 24123
+}

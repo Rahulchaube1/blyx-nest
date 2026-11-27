@@ -1,0 +1,14 @@
+{
+  "slug": "median_three",
+  "title": "Median Three",
+  "kind": "library",
+  "description": "Remove isolated impulses from a three-sample window by selecting its median, including ties.",
+  "repository": "https://github.com/Rahulchaube1/blyx-median-three",
+  "commit": "1092acdb00441b6d7d04719ec24bc05719b7c2d6",
+  "module": "median_three",
+  "sourceDir": "vendor/median_three",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "d1223602f86950c7d518ac3d5fc1f12c571d081592e36c6f3dc91f99b9846cc0",
+  "size": 20984
+}

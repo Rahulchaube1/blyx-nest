@@ -1,0 +1,14 @@
+{
+  "slug": "coupon_pool",
+  "title": "Coupon Pool",
+  "kind": "framework",
+  "description": "Manage a finite campaign redemption pool with replenishment and explicit suspension.",
+  "repository": "https://github.com/Rahulchaube1/blyx-coupon-pool",
+  "commit": "65003db444a419256ad510e58d56f7ffe27b18ae",
+  "module": "coupon_pool",
+  "sourceDir": "vendor/coupon_pool",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "7b7e0473f081ea85571b0cf817e8dacae6a4e4506a374af93615ee9355f6ee53",
+  "size": 18633
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "alpha_over_gray",
+  "title": "Alpha Over Gray",
+  "kind": "library",
+  "description": "Composite one straight-alpha grayscale sample over an opaque background with nearest byte rounding.",
+  "repository": "https://github.com/Rahulchaube1/blyx-alpha-over-gray",
+  "commit": "8e5b7b9add368f44c1692d9efa44d7f2153c1717",
+  "module": "alpha_over_gray",
+  "sourceDir": "vendor/alpha_over_gray",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "db38b3a41c321186d03a1160491414b1a2e2dd2c4b649656dc8296c7b6ebe910",
+  "size": 20696
+}

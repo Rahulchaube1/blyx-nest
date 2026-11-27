@@ -1,0 +1,14 @@
+{
+  "slug": "canary_traffic",
+  "title": "Canary Traffic",
+  "kind": "framework",
+  "description": "Gate ordered traffic increases on the health of the current rollout percentage.",
+  "repository": "https://github.com/Rahulchaube1/blyx-canary-traffic",
+  "commit": "10e1ff231435d4f63626b172f10d4fef8432ebc6",
+  "module": "canary_traffic",
+  "sourceDir": "vendor/canary_traffic",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "fba3df6c3462357b889b893504523570ce5300ce38e34a1124a34f9de75219d9",
+  "size": 17021
+}

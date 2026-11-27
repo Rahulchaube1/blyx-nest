@@ -1,0 +1,14 @@
+{
+  "slug": "compaction_swap",
+  "title": "Compaction Swap",
+  "kind": "framework",
+  "description": "Retain old table segments until the replacement file has the expected record count and readers drain.",
+  "repository": "https://github.com/Rahulchaube1/blyx-compaction-swap",
+  "commit": "79c11714ddb629f881389359810074ff591be39e",
+  "module": "compaction_swap",
+  "sourceDir": "vendor/compaction_swap",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "227716b31a3bf476148bae63ee1654032f3ee979c68c5bd56f9d423be4d4a519",
+  "size": 24766
+}

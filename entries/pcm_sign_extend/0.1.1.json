@@ -1,0 +1,14 @@
+{
+  "slug": "pcm_sign_extend",
+  "title": "Pcm Sign Extend",
+  "kind": "library",
+  "description": "Interpret an unsigned 16-bit PCM word as a signed sample. Values outside the word range return minus 32769.",
+  "repository": "https://github.com/Rahulchaube1/blyx-pcm-sign-extend",
+  "commit": "a47cad7f8901c4fc6e4adabc93609e3a9688b354",
+  "module": "pcm_sign_extend",
+  "sourceDir": "vendor/pcm_sign_extend",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "474d2864574ec03f8dc6f833c3ed99bcf2b3161e2ee81df0715f6943a3d40a63",
+  "size": 21718
+}

@@ -35,4 +35,21 @@ with tempfile.TemporaryDirectory() as scratch:
     assert metadata['commit']==subprocess.check_output(['git','rev-parse','HEAD'],cwd=upstream,text=True).strip()
     retry=subprocess.run(argv,capture_output=True,text=True)
     assert retry.returncode and 'already exists' in retry.stderr and archive.read_bytes()==original
-print('Validated the author workflow and immutable releases.')
+    nested = upstream/'packages'/'nested'
+    nested.mkdir(parents=True)
+    (nested/'Blyx.toml').write_text('[package]\nname="nested"\nversion="0.1.0"\n')
+    (nested/'nested.blyx').write_text('pub fn one() -> i64 { 1 }\n')
+    (nested/'LICENSE').write_text('MIT\n')
+    subprocess.run(['git','add','packages'],cwd=upstream,check=True)
+    subprocess.run(['git','-c','user.name=Registry test','-c','user.email=test@localhost','commit','-qm','Nested sample'],cwd=upstream,check=True)
+    (root/'main.blyx').write_text('use vendor::nested::nested;\nfn main() { println!(one()); }\n')
+    nested_args=list(argv)
+    nested_args[nested_args.index('--module')+1]='nested'
+    subprocess.run(nested_args+['--source-dir','packages/nested'],check=True)
+    assert json.loads((root/'entries/nested/0.1.0.json').read_bytes())['sourceDir']=='packages/nested'
+    with ZipFile(root/'archives/nested/0.1.0.zip') as z:
+        assert set(z.namelist())=={'main.blyx','expected.txt','vendor/nested/nested.blyx','vendor/nested/Blyx.toml','vendor/nested/LICENSE'}
+    for directory, diagnostic in [('packages/missing','committed Blyx.toml'),('../nested','repository-relative')]:
+        failure=subprocess.run(nested_args+['--source-dir',directory],capture_output=True,text=True)
+        assert failure.returncode and diagnostic in failure.stderr
+print('Validated root and nested packages, directory selection and immutable releases.')

@@ -31,6 +31,8 @@ python registry/submit.py ../my-package --ref v0.1.0 --repository https://github
 python registry/site.py
 ```
 
+If several packages share a repository, pass a directory relative to the Git root, for example `--source-dir packages/fd_masked_attention`. Nest compares the files in that directory with the pinned commit. Each package directory needs its own manifest, module and license.
+
 The module and source manifest must be committed together. For the ID `mypackage`, the manifest name can be `mypackage` or `blyx-mypackage`. Include a license, keep dependencies in the source tree, and submit a new X.Y.Z release for changes. A reviewer checks that the submitter maintains or is authorized by the source project, that the license permits redistribution, and that the example exercises the public module. Tools listed in the registry must demonstrate a direct Blyx integration. [Propose a tool](https://github.com/Rahulchaube1/blyx-nest/issues/new?template=tool.yml)
 
 ## Build and verify

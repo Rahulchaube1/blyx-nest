@@ -3,7 +3,7 @@ import argparse
 import subprocess
 from pathlib import Path
 import tomllib
-from package import ROOT, allowed, publish_files, require
+from package import ROOT, allowed, good_path, publish_files, require
 
 
 def git(repo, *args):
@@ -16,6 +16,8 @@ def prepare(args):
     tracked = git(source, 'ls-tree', '-r', '-z', commit).decode().split('\0')
     source_files = {}
     subdir = getattr(args, 'source_dir', None)
+    if subdir is not None:
+        require(good_path(subdir), 'Use a repository-relative package directory')
     selected = subdir+'/' if subdir else ''
     for line in filter(None, tracked):
         details, name = line.split('\t',1)
@@ -27,6 +29,7 @@ def prepare(args):
             raise ValueError('Vendor dependencies as committed Blyx source before submitting')
         if mode.startswith('100') and kind == 'blob' and allowed(name):
             source_files[name] = git(source, 'cat-file','blob',oid)
+    require('Blyx.toml' in source_files, 'Selected package directory must contain a committed Blyx.toml')
     manifest = tomllib.loads(source_files['Blyx.toml'].decode())['package']
     original = manifest['name']
     slug = original.removeprefix('blyx-')

@@ -1,0 +1,14 @@
+{
+  "slug": "fd_logit_ensemble",
+  "module": "logit_ensemble",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck logit-ensemble",
+  "description": "Ensemble two model distributions by a probability-space mixture. Supply a row-constant mixing weight in [0,1].",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_logit_ensemble",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "9965300f41039e1c507dc102e195c0a30cbe9a8327c3f7a54fb4307f38c42858",
+  "size": 41433
+}

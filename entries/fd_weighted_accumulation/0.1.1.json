@@ -1,0 +1,14 @@
+{
+  "slug": "fd_weighted_accumulation",
+  "module": "weighted_accumulation",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck weighted-accumulation",
+  "description": "Merge two per-example mean gradients using their counts, then emit the merged mean and new count. Nonnegative counts are row constants.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_weighted_accumulation",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "cc2b417ca0599df40242c3dd742b9ead745d10d0d33c7809d6bded9340b6bd04",
+  "size": 29898
+}

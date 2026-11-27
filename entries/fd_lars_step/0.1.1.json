@@ -1,0 +1,14 @@
+{
+  "slug": "fd_lars_step",
+  "module": "lars_step",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck lars-step",
+  "description": "Scale each parameter row by a LARS trust ratio before an SGD step. Zero norms fall back to unit scaling.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_lars_step",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "936ae06d15877daa0fb8819060c20cd79eee7e6751af9afa968c703132578eed",
+  "size": 28120
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "fd_adamw_step",
+  "module": "adamw_step",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck adamw-step",
+  "description": "Apply AdamW with decoupled decay, beta1=0.9 and beta2=0.999. Pass bias denominators 1-beta^step and nonnegative second moments.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_adamw_step",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "4baf4dfc6efb5de5195fd2d5a63dcd8c567adf5560b740e5ca82a4371e473e29",
+  "size": 31137
+}

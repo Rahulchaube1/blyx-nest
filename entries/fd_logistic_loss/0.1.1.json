@@ -1,0 +1,14 @@
+{
+  "slug": "fd_logistic_loss",
+  "module": "logistic_loss",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck logistic-loss",
+  "description": "Compute stable binary cross entropy from logits and its derivative. Supply binary or soft targets in [0,1].",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_logistic_loss",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "06218de0d7232082b9975ecae7d84c357063e467c6e57585e63bca1173edae7a",
+  "size": 31506
+}

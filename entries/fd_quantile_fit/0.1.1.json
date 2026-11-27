@@ -1,0 +1,14 @@
+{
+  "slug": "fd_quantile_fit",
+  "module": "quantile_fit",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck quantile-fit",
+  "description": "Train conditional quantiles with pinball loss. Supply a quantile between zero and one. Use zero subgradient at a tie.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_quantile_fit",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "fc19f15be6f35a96ed2112e179b440bf1b2e77026b908b5fda4f8ec5ec5dd18a",
+  "size": 39755
+}

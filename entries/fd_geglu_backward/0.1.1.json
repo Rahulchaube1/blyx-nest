@@ -1,0 +1,14 @@
+{
+  "slug": "fd_geglu_backward",
+  "module": "geglu_backward",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck geglu-backward",
+  "description": "Use a tanh-approximate GELU gate and propagate both value and gate derivatives.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_geglu_backward",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "5bd39b5fe63cd852b5d75f78ca6de874949b9e291dfa28daf6a2820359195bec",
+  "size": 32443
+}

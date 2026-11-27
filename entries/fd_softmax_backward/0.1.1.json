@@ -1,0 +1,14 @@
+{
+  "slug": "fd_softmax_backward",
+  "module": "softmax_backward",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck softmax-backward",
+  "description": "Normalize attention scores along each row and compute the softmax vector-Jacobian product.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_softmax_backward",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "86a659415bab7b8dc3cb8c5d4a3e90ee06fc5834760e102b5c4c371426f58cb1",
+  "size": 29452
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "fd_preference_dpo",
+  "module": "preference_dpo",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck preference-dpo",
+  "description": "Score a preferred/rejected response pair against a reference policy. Return the DPO loss and gradient to the policy log-ratio.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_preference_dpo",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "1b454a01b97efb407dbfb87795517b6467c7eefe2cff083a6128feeec9c63aa9",
+  "size": 31444
+}

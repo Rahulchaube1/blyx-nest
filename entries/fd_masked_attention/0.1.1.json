@@ -1,0 +1,14 @@
+{
+  "slug": "fd_masked_attention",
+  "module": "masked_attention",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck masked-attention",
+  "description": "Normalize only unmasked attention scores and propagate through allowed positions. Fully masked rows return zeros. Use a binary mask.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_masked_attention",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "b5c134d7f6cedc6d867f0abc40d292a3cfbd597ed9dd603ae53e8775bb48b93d",
+  "size": 44512
+}

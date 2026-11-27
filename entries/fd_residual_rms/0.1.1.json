@@ -1,0 +1,14 @@
+{
+  "slug": "fd_residual_rms",
+  "module": "residual_rms",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck residual-rms",
+  "description": "Fuse a residual addition with pre-normalization and return the combined residual stream and scaled output.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_residual_rms",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "e63f5be3ccdebe33e8cb8a2d14a896f59cd59e4b59c8d04e3ce4b2cfa7a0e092",
+  "size": 41243
+}

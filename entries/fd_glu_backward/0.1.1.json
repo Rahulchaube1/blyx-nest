@@ -1,0 +1,14 @@
+{
+  "slug": "fd_glu_backward",
+  "module": "glu_backward",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck glu-backward",
+  "description": "Apply a sigmoid gate and return both activation and gate gradients for a gated linear unit.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_glu_backward",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "efa6165f006e958589130a4468ced428f4e37f0f462de6724d405795000e8b2e",
+  "size": 38413
+}

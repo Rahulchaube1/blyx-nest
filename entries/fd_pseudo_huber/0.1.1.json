@@ -1,0 +1,14 @@
+{
+  "slug": "fd_pseudo_huber",
+  "module": "pseudo_huber",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck pseudo-huber",
+  "description": "Use a smooth robust regression objective and its bounded influence function with scale one.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_pseudo_huber",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "c3b402cb01cc5a7d90b6d2cd897a3cf9de236e99844355cc5b61ca7b44a0f6fd",
+  "size": 27680
+}

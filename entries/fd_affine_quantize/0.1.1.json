@@ -1,0 +1,14 @@
+{
+  "slug": "fd_affine_quantize",
+  "module": "affine_quantize",
+  "kind": "framework",
+  "repository": "https://github.com/Rahulchaube1/blyx-flightdeck",
+  "title": "Flightdeck affine-quantize",
+  "description": "Simulate 8-bit asymmetric activation quantization with zero included in the range and integer zero point. Outputs use FP32 storage.",
+  "license": "MIT OR Apache-2.0",
+  "sourceDir": "packages/fd_affine_quantize",
+  "version": "0.1.1",
+  "commit": "bf9c3d5003a91c76a32e61593aba17d79f6de0f3",
+  "sha256": "6b9449327f65544ff034d1595089750bbbbe4fc15de3e5793f10cf6288ba2cda",
+  "size": 35167
+}

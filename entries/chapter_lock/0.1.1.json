@@ -1,0 +1,14 @@
+{
+  "slug": "chapter_lock",
+  "title": "Chapter Lock",
+  "kind": "framework",
+  "description": "Prevent a book export from racing a new chapter edit by sealing a numbered manuscript snapshot.",
+  "repository": "https://github.com/Rahulchaube1/blyx-chapter-lock",
+  "commit": "ff87769639d241b6fd7d6bcca9f543515cec442c",
+  "module": "chapter_lock",
+  "sourceDir": "vendor/chapter_lock",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "27b53348a64f76130fbc9755414d915d6b27be0f8fb26eeb87e50b80c21a249f",
+  "size": 24055
+}

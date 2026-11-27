@@ -1,0 +1,14 @@
+{
+  "slug": "edition_review",
+  "title": "Edition Review",
+  "kind": "framework",
+  "description": "Keep editorial approval tied to the submitted revision even when an author edits during review.",
+  "repository": "https://github.com/Rahulchaube1/blyx-edition-review",
+  "commit": "d960dc7da817abe3a16c05a24215a853878c10d1",
+  "module": "edition_review",
+  "sourceDir": "vendor/edition_review",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "bacf9dd9c795435104dd149126f4dc387117303a1d5596a8d9421dd6c5b63c2b",
+  "size": 24387
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "ordered_subsequence",
+  "title": "Ordered Subsequence",
+  "kind": "library",
+  "description": "Test whether a series of required events appears in order, allowing unrelated events in between.",
+  "repository": "https://github.com/Rahulchaube1/blyx-ordered-subsequence",
+  "commit": "bd9d64e8ebb144041d8a7702aa8dd11771cf9aba",
+  "module": "ordered_subsequence",
+  "sourceDir": "vendor/ordered_subsequence",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "d5b86cf05e12665be1c98ba29171360a14fbf14238c13fca8e867ef8cb63f0e8",
+  "size": 20939
+}

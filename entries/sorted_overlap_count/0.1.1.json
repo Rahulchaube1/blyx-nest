@@ -1,0 +1,14 @@
+{
+  "slug": "sorted_overlap_count",
+  "title": "Sorted Overlap Count",
+  "kind": "library",
+  "description": "Count the multiset intersection of two sorted vectors while honoring repeated keys on both sides.",
+  "repository": "https://github.com/Rahulchaube1/blyx-sorted-overlap-count",
+  "commit": "ad6dcddd00bcd4494ada7fc4a06e82ae71377624",
+  "module": "sorted_overlap_count",
+  "sourceDir": "vendor/sorted_overlap_count",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "dd0d2d8375cb6751cdb5c91fa465dfe417aa7fd9ff49bace73ca8619178dd1ed",
+  "size": 21479
+}

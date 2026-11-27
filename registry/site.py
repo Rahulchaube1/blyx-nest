@@ -129,6 +129,7 @@ def build(artwork_dir=None):
     for file in ('style.css','nest.js','blyx.png'):
         shutil.copyfile(ROOT/'web'/file,OUT/file)
     write('.nojekyll','')
+    moves = json.loads((ROOT / "registry/approved-project-moves.json").read_bytes())
     groups=defaultdict(list)
     originals=set()
     for meta in sorted((ROOT/'entries').glob('*/*.json')):
@@ -151,7 +152,12 @@ def build(artwork_dir=None):
         versions.sort(key=lambda row:tuple(map(int,row[0]['version'].split('.'))),reverse=True)
         rows=[row for row,_ in versions]
         latest,files=versions[0]
-        require(len({r['repository'].casefold() for r in rows})==1, 'A package owner change needs a reviewed migration')
+        # Retain original source links for immutable releases moved to dedicated repositories.
+        for newer, older in zip(rows, rows[1:]):
+            if newer['repository'].casefold() == older['repository'].casefold():
+                continue
+            move = [older['version'], older['commit'], older['repository'], newer['version'], newer['commit'], newer['repository']]
+            require(move in moves.get(slug, []), 'A source repository change needs a reviewed migration')
         light={k:latest[k] for k in ('slug','title','kind','description','module')}
         light.update(latest=latest['version'], icon=write_icon(latest, files, artwork, OUT))
         index.append(light)

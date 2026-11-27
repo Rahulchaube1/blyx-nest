@@ -1,0 +1,192 @@
+{
+  "edition_review": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "d960dc7da817abe3a16c05a24215a853878c10d1",
+      "https://github.com/Rahulchaube1/blyx-edition-review"
+    ]
+  ],
+  "embargo_clock": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "797c3e47e03dedd3bcb860ebb9c222702d2423c5",
+      "https://github.com/Rahulchaube1/blyx-embargo-clock"
+    ]
+  ],
+  "locale_bundle": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "1e2abb4891e669ecd024f3ec2cb2723f0cb04631",
+      "https://github.com/Rahulchaube1/blyx-locale-bundle"
+    ]
+  ],
+  "alias_cutover": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "154b24cc56bc6697224f28ebee66bab6066d850c",
+      "https://github.com/Rahulchaube1/blyx-alias-cutover"
+    ]
+  ],
+  "comment_appeals": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "266e63cc86571f444205937227105d2da1d09776",
+      "https://github.com/Rahulchaube1/blyx-comment-appeals"
+    ]
+  ],
+  "edit_lease": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "a267ed23c2635160ea06feb197d0dc18a67dea25",
+      "https://github.com/Rahulchaube1/blyx-edit-lease"
+    ]
+  ],
+  "newsletter_proof": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "fdd088d6c337755b86e04d044db1b8142e83ad70",
+      "https://github.com/Rahulchaube1/blyx-newsletter-proof"
+    ]
+  ],
+  "media_rights": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "4e9b0652bb64a085a7dde4c5baa07d7ffbfd3f5c",
+      "https://github.com/Rahulchaube1/blyx-media-rights"
+    ]
+  ],
+  "chapter_lock": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "ff87769639d241b6fd7d6bcca9f543515cec442c",
+      "https://github.com/Rahulchaube1/blyx-chapter-lock"
+    ]
+  ],
+  "caption_review": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "2f6a7795f06e9bb3b44b9d9d98c7edf6b5e67823",
+      "https://github.com/Rahulchaube1/blyx-caption-review"
+    ]
+  ],
+  "lower_bound_pos": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "d04c26d2b9a02be8f5f9bbd1dd8a193bed9c201f",
+      "https://github.com/Rahulchaube1/blyx-lower-bound-pos"
+    ]
+  ],
+  "run_mode": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "4d1b989ddafeb9d3f30e84feb4756143475677ad",
+      "https://github.com/Rahulchaube1/blyx-run-mode"
+    ]
+  ],
+  "common_prefix_len": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "dc060031353cdff351744c3ac6353651016e1090",
+      "https://github.com/Rahulchaube1/blyx-common-prefix-len"
+    ]
+  ],
+  "ordered_subsequence": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "bd9d64e8ebb144041d8a7702aa8dd11771cf9aba",
+      "https://github.com/Rahulchaube1/blyx-ordered-subsequence"
+    ]
+  ],
+  "sorted_overlap_count": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "ad6dcddd00bcd4494ada7fc4a06e82ae71377624",
+      "https://github.com/Rahulchaube1/blyx-sorted-overlap-count"
+    ]
+  ],
+  "first_inversion": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "76784db0777fb4505303bafb31b652065e5c5a50",
+      "https://github.com/Rahulchaube1/blyx-first-inversion"
+    ]
+  ],
+  "stable_rank": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "4833e7c116a0069ee00963db72264f724f6da69a",
+      "https://github.com/Rahulchaube1/blyx-stable-rank"
+    ]
+  ],
+  "majority_index": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "c3a034d3815a0985d4cc81ce3b8e3175f43043a7",
+      "https://github.com/Rahulchaube1/blyx-majority-index"
+    ]
+  ],
+  "max_slice_sum": [
+    [
+      "0.1.0",
+      "6349f23784edeb3d86bc1660b084b76ba9e65545",
+      "https://github.com/Rahulchaube1/blyx-workbench",
+      "0.1.1",
+      "746b6df844f67ef98e057f8dd73ee2a7c0f0fd88",
+      "https://github.com/Rahulchaube1/blyx-max-slice-sum"
+    ]
+  ]
+}

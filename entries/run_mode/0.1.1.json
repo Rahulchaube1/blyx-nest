@@ -1,0 +1,14 @@
+{
+  "slug": "run_mode",
+  "title": "Run Mode",
+  "kind": "library",
+  "description": "Return the most frequent value in a sorted nonempty vector, choosing the smallest value on ties. Empty input returns zero.",
+  "repository": "https://github.com/Rahulchaube1/blyx-run-mode",
+  "commit": "4d1b989ddafeb9d3f30e84feb4756143475677ad",
+  "module": "run_mode",
+  "sourceDir": "vendor/run_mode",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "ec15694dfc6fe9f51c9706aa1f19168f0bbe0bb7e3032d39b908dca07a866be7",
+  "size": 20399
+}

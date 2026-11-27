@@ -1,0 +1,14 @@
+{
+  "slug": "newsletter_proof",
+  "title": "Newsletter Proof",
+  "kind": "framework",
+  "description": "Invalidate a newsletter proof after a revision and bind the send request to the approved proof.",
+  "repository": "https://github.com/Rahulchaube1/blyx-newsletter-proof",
+  "commit": "fdd088d6c337755b86e04d044db1b8142e83ad70",
+  "module": "newsletter_proof",
+  "sourceDir": "vendor/newsletter_proof",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "9a760c8adb6b84363264b8313d4066b4bfe8cabec8d7b16f849a5cb0ea4f385e",
+  "size": 24258
+}

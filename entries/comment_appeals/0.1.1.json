@@ -1,0 +1,14 @@
+{
+  "slug": "comment_appeals",
+  "title": "Comment Appeals",
+  "kind": "framework",
+  "description": "Preserve a moderation case ID across hiding, appeal, review and restoration.",
+  "repository": "https://github.com/Rahulchaube1/blyx-comment-appeals",
+  "commit": "266e63cc86571f444205937227105d2da1d09776",
+  "module": "comment_appeals",
+  "sourceDir": "vendor/comment_appeals",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "c7c9170fb20731dd644481d84e41c536a8483b6b2307542910076f3649fb8cc9",
+  "size": 24321
+}

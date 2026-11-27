@@ -1,0 +1,14 @@
+{
+  "slug": "lower_bound_pos",
+  "title": "Lower Bound Pos",
+  "kind": "library",
+  "description": "Locate the first element greater than or equal to a key in an ascending numeric vector. Returns the length when insertion belongs at the end.",
+  "repository": "https://github.com/Rahulchaube1/blyx-lower-bound-pos",
+  "commit": "d04c26d2b9a02be8f5f9bbd1dd8a193bed9c201f",
+  "module": "lower_bound_pos",
+  "sourceDir": "vendor/lower_bound_pos",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "36f5161452aadfcab99411b7db9535cd3b9eb16f515b089ae09af1c8b631baa0",
+  "size": 21314
+}

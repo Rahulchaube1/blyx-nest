@@ -1,0 +1,14 @@
+{
+  "slug": "common_prefix_len",
+  "title": "Common Prefix Len",
+  "kind": "library",
+  "description": "Find the length of the shared leading sequence of two numeric ID streams before producing a diff.",
+  "repository": "https://github.com/Rahulchaube1/blyx-common-prefix-len",
+  "commit": "dc060031353cdff351744c3ac6353651016e1090",
+  "module": "common_prefix_len",
+  "sourceDir": "vendor/common_prefix_len",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "b08fae986a3cfa172aca74db5fb2e2adb96b4788e872d2c486299ea1698b4b19",
+  "size": 20599
+}

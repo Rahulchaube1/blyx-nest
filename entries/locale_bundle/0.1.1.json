@@ -1,0 +1,14 @@
+{
+  "slug": "locale_bundle",
+  "title": "Locale Bundle",
+  "kind": "framework",
+  "description": "Collect a declared number of translated segments and hold publication while segments remain.",
+  "repository": "https://github.com/Rahulchaube1/blyx-locale-bundle",
+  "commit": "1e2abb4891e669ecd024f3ec2cb2723f0cb04631",
+  "module": "locale_bundle",
+  "sourceDir": "vendor/locale_bundle",
+  "version": "0.1.1",
+  "license": "MIT",
+  "sha256": "aa87bd0c32077c9b4a5c8706027265e9a5a0f0c8ef55bfa36a33dcc7a4a6b5a9",
+  "size": 24433
+}

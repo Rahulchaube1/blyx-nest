@@ -1,0 +1,14 @@
+{
+  "slug": "loudness_pass",
+  "title": "Loudness Pass",
+  "description": "Require a measured peak from a first pass before applying a bounded mastering target.",
+  "kind": "framework",
+  "module": "loudness_pass",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-loudness-pass",
+  "commit": "953724c0ffa90ea3167e5acc8dbdd08e2566f229",
+  "sourceDir": "vendor/loudness_pass",
+  "license": "MIT",
+  "sha256": "95f48cd2243c1a796786bf54b3bc87f03cc44d65505e06b9badf40e837429b64",
+  "size": 41552
+}

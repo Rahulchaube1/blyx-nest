@@ -1,0 +1,14 @@
+{
+  "slug": "reboot_ring",
+  "title": "Reboot Ring",
+  "description": "Admit nodes to a rolling reboot one at a time and wait for each health check before the next node.",
+  "kind": "framework",
+  "module": "reboot_ring",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-reboot-ring",
+  "commit": "58d69756975a98790c71d16c68cc7529996b1d8b",
+  "sourceDir": "vendor/reboot_ring",
+  "license": "MIT",
+  "sha256": "1faf9952125a5003caebf99a058154082fdff194a531db617262ecf57623b2ba",
+  "size": 26572
+}

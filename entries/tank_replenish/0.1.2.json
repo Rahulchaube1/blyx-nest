@@ -1,0 +1,14 @@
+{
+  "slug": "tank_replenish",
+  "title": "Tank Replenish",
+  "description": "Request a refill below a low-water mark and close the order only after level recovery.",
+  "kind": "framework",
+  "module": "tank_replenish",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-tank-replenish",
+  "commit": "33263ae5e1b6b4f5ecb86f5877c418c167f11992",
+  "sourceDir": "vendor/tank_replenish",
+  "license": "MIT",
+  "sha256": "f61236bf8cca80c0b25fcd57a228c0261601fbe2e1cfbd464e1f3ee315796eff",
+  "size": 38266
+}

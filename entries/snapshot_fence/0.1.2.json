@@ -1,0 +1,14 @@
+{
+  "slug": "snapshot_fence",
+  "title": "Snapshot Fence",
+  "description": "Buffer changes during snapshot export and release the change feed only at a matching snapshot fence.",
+  "kind": "framework",
+  "module": "snapshot_fence",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-snapshot-fence",
+  "commit": "f6092d7b208fedd5fea4da429277f7d47f220d4b",
+  "sourceDir": "vendor/snapshot_fence",
+  "license": "MIT",
+  "sha256": "9883d9693b431d8609a96147f4a7869b1f4db583750284f273ed3344f81b705d",
+  "size": 46837
+}

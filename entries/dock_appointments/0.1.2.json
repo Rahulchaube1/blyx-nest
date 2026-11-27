@@ -1,0 +1,14 @@
+{
+  "slug": "dock_appointments",
+  "title": "Dock Appointments",
+  "description": "Keep a loading bay available until its booked arrival time and account for late arrivals.",
+  "kind": "framework",
+  "module": "dock_appointments",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-dock-appointments",
+  "commit": "4de56f4b6758d42467a4b52697d94169ee0ac04d",
+  "sourceDir": "vendor/dock_appointments",
+  "license": "MIT",
+  "sha256": "062c08fe416ea9efc0a7e61d798ce85275fe5d4ef42bd7d44f41c06db7763857",
+  "size": 32886
+}

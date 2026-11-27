@@ -1,0 +1,14 @@
+{
+  "slug": "cycle_count",
+  "title": "Cycle Count",
+  "description": "Freeze a bin for a blind stock count and require reconciliation for discrepancies.",
+  "kind": "framework",
+  "module": "cycle_count",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-cycle-count",
+  "commit": "91e475bfa630347fc76e23553945201a616f1f29",
+  "sourceDir": "vendor/cycle_count",
+  "license": "MIT",
+  "sha256": "00aa89df04d00a0f6747e6280271c58528430108246b0b3f840cf92d80fe38dd",
+  "size": 38981
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "dark_frame_stack",
+  "title": "Dark Frame Stack",
+  "description": "Acquire a required stack of dark frames and repeat the acquisition when a light leak is detected.",
+  "kind": "framework",
+  "module": "dark_frame_stack",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-dark-frame-stack",
+  "commit": "e889665b954db9c3b832c56c664826ed6a0c3220",
+  "sourceDir": "vendor/dark_frame_stack",
+  "license": "MIT",
+  "sha256": "b4f232c11fd228c1f99a0d32c974a7542a485349d1a11941590f7d04d8692ed9",
+  "size": 44467
+}

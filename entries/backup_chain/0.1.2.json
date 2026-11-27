@@ -1,0 +1,14 @@
+{
+  "slug": "backup_chain",
+  "title": "Backup Chain",
+  "description": "Require a base snapshot and contiguous increments before sealing a restorable backup chain.",
+  "kind": "framework",
+  "module": "backup_chain",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-backup-chain",
+  "commit": "20d5026323d7c290d1ef0dddee3eeb6d66336de3",
+  "sourceDir": "vendor/backup_chain",
+  "license": "MIT",
+  "sha256": "8eac37c4c3f48c31823b5b04d89fa1ad90fc7ea8bac3ef98a83002dc6489c1d0",
+  "size": 47471
+}

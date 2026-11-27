@@ -1,0 +1,14 @@
+{
+  "slug": "return_triage",
+  "title": "Return Triage",
+  "description": "Route inspected returns to stock, repair, or disposal while preserving the return authorization ID.",
+  "kind": "framework",
+  "module": "return_triage",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-return-triage",
+  "commit": "5d415ee74a4b91769aff9aed920c4b922fae1ba8",
+  "sourceDir": "vendor/return_triage",
+  "license": "MIT",
+  "sha256": "8c466301886efc3ef8ccd1bd759fda8b4f3267c6336817b20150f57a4e9b874c",
+  "size": 39771
+}

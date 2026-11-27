@@ -1,0 +1,14 @@
+{
+  "slug": "backorder_fill",
+  "title": "Backorder Fill",
+  "description": "Release a backordered line only after cumulative inbound receipts satisfy its shortage.",
+  "kind": "framework",
+  "module": "backorder_fill",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-backorder-fill",
+  "commit": "c2f345084259850bced5d1fb5e1f589b76e9af68",
+  "sourceDir": "vendor/backorder_fill",
+  "license": "MIT",
+  "sha256": "06fa79f28196621d8b56205f5a506512183f38ab2e748902867a9b4c9421dcda",
+  "size": 48427
+}

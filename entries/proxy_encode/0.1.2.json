@@ -1,0 +1,14 @@
+{
+  "slug": "proxy_encode",
+  "title": "Proxy Encode",
+  "description": "Bind a low-resolution editing proxy to an original asset ID and support regeneration after rejection.",
+  "kind": "framework",
+  "module": "proxy_encode",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-proxy-encode",
+  "commit": "2f4cb1835d46fdaad7dc1046d0ab529ff1c55b18",
+  "sourceDir": "vendor/proxy_encode",
+  "license": "MIT",
+  "sha256": "d41f39600f805443543f45a3b9b9a947345bbec8d9362b5fc0ec840356a3ecf2",
+  "size": 54429
+}

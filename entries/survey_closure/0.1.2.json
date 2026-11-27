@@ -1,0 +1,14 @@
+{
+  "slug": "survey_closure",
+  "title": "Survey Closure",
+  "description": "Hold a survey traverse for remeasurement if its reported closure error exceeds the selected tolerance.",
+  "kind": "framework",
+  "module": "survey_closure",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-survey-closure",
+  "commit": "33824152f3baeaf35c7e97a55c5f6a9562aec425",
+  "sourceDir": "vendor/survey_closure",
+  "license": "MIT",
+  "sha256": "ac8a4c2ffc5c74ec2fca8621b1a7cff9ad20398573740967089809e40abb1968",
+  "size": 37526
+}

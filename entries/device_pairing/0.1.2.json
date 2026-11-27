@@ -1,0 +1,14 @@
+{
+  "slug": "device_pairing",
+  "title": "Device Pairing",
+  "description": "Match a nonsecret device discovery ID across discovery, user selection and connection callbacks.",
+  "kind": "framework",
+  "module": "device_pairing",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-device-pairing",
+  "commit": "6f1a203cb579776045863114ceb9c7ce3880415e",
+  "sourceDir": "vendor/device_pairing",
+  "license": "MIT",
+  "sha256": "d993b143ad92f3ba9fcfd55d9be1ba3d35fabdfcdcac2f2836bc25f0e30d0be3",
+  "size": 46010
+}

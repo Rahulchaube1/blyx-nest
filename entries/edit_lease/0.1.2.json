@@ -1,0 +1,14 @@
+{
+  "slug": "edit_lease",
+  "title": "Edit Lease",
+  "description": "Control an exclusive editing window with renewal, expiry and explicit release using logical timestamps.",
+  "kind": "framework",
+  "module": "edit_lease",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-edit-lease",
+  "commit": "d06f46698c82efd457d640d8b10fb72817504421",
+  "sourceDir": "vendor/edit_lease",
+  "license": "MIT",
+  "sha256": "f703ff4bbd507d1dee06b481c2fb3316d7f0acdaf47ade07de6869ab15d779e1",
+  "size": 33514
+}

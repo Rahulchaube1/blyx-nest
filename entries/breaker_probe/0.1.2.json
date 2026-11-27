@@ -1,0 +1,14 @@
+{
+  "slug": "breaker_probe",
+  "title": "Breaker Probe",
+  "description": "Open a circuit after a configured number of consecutive failures and admit a single recovery probe.",
+  "kind": "framework",
+  "module": "breaker_probe",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-breaker-probe",
+  "commit": "ed9361edd54f3e6e5f8c4bdee8f5b843e16c1281",
+  "sourceDir": "vendor/breaker_probe",
+  "license": "MIT",
+  "sha256": "805dc757895da994b4b4424be9ecf5c621c54c8dc4f3200fa71009b875bcc7f4",
+  "size": 24106
+}

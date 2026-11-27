@@ -1,0 +1,14 @@
+{
+  "slug": "embedding_reindex",
+  "title": "Embedding Reindex",
+  "description": "Build and verify a new embedding index without routing queries to partially ingested vectors.",
+  "kind": "framework",
+  "module": "embedding_reindex",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-embedding-reindex",
+  "commit": "ed59b183d357896f9b65a06606f5ec9b4f9da035",
+  "sourceDir": "vendor/embedding_reindex",
+  "license": "MIT",
+  "sha256": "5cf71f603884ad8746d5efb025f915d3bba31a8767d71ba14c659e8cb240f0d5",
+  "size": 53321
+}

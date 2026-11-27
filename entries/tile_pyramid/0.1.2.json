@@ -1,0 +1,14 @@
+{
+  "slug": "tile_pyramid",
+  "title": "Tile Pyramid",
+  "description": "Publish pyramid levels in descending zoom order and close only after zoom zero is complete.",
+  "kind": "framework",
+  "module": "tile_pyramid",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-tile-pyramid",
+  "commit": "6cf902fd5435006a798329587a4d0a9c22eeb5df",
+  "sourceDir": "vendor/tile_pyramid",
+  "license": "MIT",
+  "sha256": "45101423156d4c5812067768dd35692044f42c36d96d39c2c691f7da3d86e29c",
+  "size": 42820
+}

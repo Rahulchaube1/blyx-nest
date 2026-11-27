@@ -1,0 +1,14 @@
+{
+  "slug": "offline_drafts",
+  "title": "Offline Drafts",
+  "description": "Accumulate offline edits and keep dirty status until the uploaded revision is acknowledged.",
+  "kind": "framework",
+  "module": "offline_drafts",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-offline-drafts",
+  "commit": "270d070a87d6d3a7ff7b5218a507f0dff92f9927",
+  "sourceDir": "vendor/offline_drafts",
+  "license": "MIT",
+  "sha256": "5a0782693166e8050cbe8a000447012ce8e0547f35eb939808d504d4989f7ab5",
+  "size": 40142
+}

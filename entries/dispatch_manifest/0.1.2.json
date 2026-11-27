@@ -1,0 +1,14 @@
+{
+  "slug": "dispatch_manifest",
+  "title": "Dispatch Manifest",
+  "description": "Seal one route manifest only after all listed stops have been scanned or explicitly removed.",
+  "kind": "framework",
+  "module": "dispatch_manifest",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-dispatch-manifest",
+  "commit": "ae8afba96d7572496aebbe639d47b0034755fa3c",
+  "sourceDir": "vendor/dispatch_manifest",
+  "license": "MIT",
+  "sha256": "85ac8bbec99deda68a41b82468d09c8369137c5a6545e77d152f0470d3b1ee08",
+  "size": 41204
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "cart_reserve",
+  "title": "Cart Reserve",
+  "description": "Reserve a fixed cart quantity, release unneeded units and commit the exact remainder.",
+  "kind": "framework",
+  "module": "cart_reserve",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-cart-reserve",
+  "commit": "c077b945f2a85f9b7daeec2f1de74abe748fe8bc",
+  "sourceDir": "vendor/cart_reserve",
+  "license": "MIT",
+  "sha256": "5c85261b533f09804052035afea049b8d7c4fcd0b7135a5692403cf437adc130",
+  "size": 29797
+}

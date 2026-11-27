@@ -1,0 +1,14 @@
+{
+  "slug": "pallet_break",
+  "title": "Pallet Break",
+  "description": "Pick whole cases from a pallet and direct residual loose units to repacking.",
+  "kind": "framework",
+  "module": "pallet_break",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-pallet-break",
+  "commit": "65b3ba1adafc84077eb2dcfcc67a87ba6a95f90a",
+  "sourceDir": "vendor/pallet_break",
+  "license": "MIT",
+  "sha256": "98fd7e082a387811ebc1d71c9395ff012c25afc10b3ed203817dd5fdd78193c2",
+  "size": 46389
+}

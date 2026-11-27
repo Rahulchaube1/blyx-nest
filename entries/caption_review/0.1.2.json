@@ -1,0 +1,14 @@
+{
+  "slug": "caption_review",
+  "title": "Caption Review",
+  "description": "Track outstanding subtitle corrections and return a corrected track for listening approval.",
+  "kind": "framework",
+  "module": "caption_review",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-caption-review",
+  "commit": "df0f5ace79e538358434ecb724632a5d63aa947e",
+  "sourceDir": "vendor/caption_review",
+  "license": "MIT",
+  "sha256": "a1b6495aaae7ddfa66d07ac5017a12db0f751ebc18ab4656ef975f0bb9bfde7e",
+  "size": 29059
+}

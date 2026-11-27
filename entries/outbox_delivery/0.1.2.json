@@ -1,0 +1,14 @@
+{
+  "slug": "outbox_delivery",
+  "title": "Outbox Delivery",
+  "description": "Coordinate durable outbox insertion, delivery and acknowledgement with a stable message ID.",
+  "kind": "framework",
+  "module": "outbox_delivery",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-outbox-delivery",
+  "commit": "be23890c420836ee670151f545b96a363e0b5327",
+  "sourceDir": "vendor/outbox_delivery",
+  "license": "MIT",
+  "sha256": "2d7ffc7d81f5363751c65ee64120d9ed40f4d90db8f1f9ad84171041bffe4510",
+  "size": 57080
+}

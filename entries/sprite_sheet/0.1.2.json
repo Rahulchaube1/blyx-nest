@@ -1,0 +1,14 @@
+{
+  "slug": "sprite_sheet",
+  "title": "Sprite Sheet",
+  "description": "Assign frames into a fixed-capacity sprite atlas and reject an incomplete finalization.",
+  "kind": "framework",
+  "module": "sprite_sheet",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-sprite-sheet",
+  "commit": "cdbdd5690a79f036d3968858e556358bace065c6",
+  "sourceDir": "vendor/sprite_sheet",
+  "license": "MIT",
+  "sha256": "88b00e0149e5bbf316477f3b596c5806c34b22f09d6b2a9be48d76871228802a",
+  "size": 45673
+}

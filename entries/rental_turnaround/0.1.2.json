@@ -1,0 +1,14 @@
+{
+  "slug": "rental_turnaround",
+  "title": "Rental Turnaround",
+  "description": "Bind returned equipment to its rental ID and require cleaning or repair before reissue.",
+  "kind": "framework",
+  "module": "rental_turnaround",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-rental-turnaround",
+  "commit": "ae731684175ad89188d526447571c26d3c186c5b",
+  "sourceDir": "vendor/rental_turnaround",
+  "license": "MIT",
+  "sha256": "62d13e7f0f17d96eb0335ecb4e696d23061a5d4a45457d0424904b1fd53bfc92",
+  "size": 56135
+}

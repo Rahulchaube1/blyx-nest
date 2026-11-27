@@ -1,0 +1,14 @@
+{
+  "slug": "fold_holdout",
+  "title": "Fold Holdout",
+  "description": "Fence training and scoring by fold ID so a late training completion cannot score the wrong holdout.",
+  "kind": "framework",
+  "module": "fold_holdout",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-fold-holdout",
+  "commit": "2904e5561d23186e891adb7b18683e0d92e5418d",
+  "sourceDir": "vendor/fold_holdout",
+  "license": "MIT",
+  "sha256": "8607a74e85747358b9d116e3073b5afab38f0e8d9000cf8e6bb10821eb29c7ff",
+  "size": 46348
+}

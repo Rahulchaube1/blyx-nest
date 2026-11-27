@@ -1,0 +1,14 @@
+{
+  "slug": "level_checkpoint",
+  "title": "Level Checkpoint",
+  "description": "Track forward game progress while allowing respawns only at a previously committed checkpoint.",
+  "kind": "framework",
+  "module": "level_checkpoint",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-level-checkpoint",
+  "commit": "cab6cf9380c3d1382c430bb07a5fc95d1a899e6d",
+  "sourceDir": "vendor/level_checkpoint",
+  "license": "MIT",
+  "sha256": "61420d136137602db16a0f694d4e3606435418ea4e6f316c317d45410d36e220",
+  "size": 52907
+}

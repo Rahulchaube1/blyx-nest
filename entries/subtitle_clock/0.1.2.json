@@ -1,0 +1,14 @@
+{
+  "slug": "subtitle_clock",
+  "title": "Subtitle Clock",
+  "description": "Accept nonoverlapping cues in timestamp order and mark the last closed cue for export.",
+  "kind": "framework",
+  "module": "subtitle_clock",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-subtitle-clock",
+  "commit": "cfc0198f09f7174dd1414e17ee8da635849277ea",
+  "sourceDir": "vendor/subtitle_clock",
+  "license": "MIT",
+  "sha256": "8693f425b9b198006399fc638ec3edd3035e98df1ca3e791c3aa6a3e2a5f5c97",
+  "size": 53912
+}

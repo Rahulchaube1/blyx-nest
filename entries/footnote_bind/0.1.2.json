@@ -1,0 +1,14 @@
+{
+  "slug": "footnote_bind",
+  "title": "Footnote Bind",
+  "description": "Resolve forward footnote references and block typesetting while the outstanding count is positive.",
+  "kind": "framework",
+  "module": "footnote_bind",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-footnote-bind",
+  "commit": "ed49aef4683b816e16a894bbd677c0b9f4e5af2a",
+  "sourceDir": "vendor/footnote_bind",
+  "license": "MIT",
+  "sha256": "890cff0eee6ad7743735f89a281bf0657dc330a94bfdb7930f8ac0db6d1f10e7",
+  "size": 43194
+}

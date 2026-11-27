@@ -1,0 +1,14 @@
+{
+  "slug": "media_rights",
+  "title": "Media Rights",
+  "description": "Track the expiry of a licensed asset and direct the host to withdraw an expired public copy.",
+  "kind": "framework",
+  "module": "media_rights",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-media-rights",
+  "commit": "2930dcabce9f93fee2be1958798095f7963b0300",
+  "sourceDir": "vendor/media_rights",
+  "license": "MIT",
+  "sha256": "f80138bf21b8d7dd3c41163b32e1166ffa8b2686989aec321fb374ee2070b71f",
+  "size": 44018
+}

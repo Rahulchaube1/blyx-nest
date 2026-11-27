@@ -1,0 +1,14 @@
+{
+  "slug": "scene_stream",
+  "title": "Scene Stream",
+  "description": "Load a destination game scene before detaching the current scene and discard stale load callbacks.",
+  "kind": "framework",
+  "module": "scene_stream",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-scene-stream",
+  "commit": "cbf683ed50b64f06cbcdf2cd13960cd10b74aa40",
+  "sourceDir": "vendor/scene_stream",
+  "license": "MIT",
+  "sha256": "e327c96fea6343adc1325a16f25768998f4a976386abab4015597bf7f9bf28c7",
+  "size": 73372
+}

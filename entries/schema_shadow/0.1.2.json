@@ -1,0 +1,14 @@
+{
+  "slug": "schema_shadow",
+  "title": "Schema Shadow",
+  "description": "Protect a shadow-table cutover until the declared row backfill and an explicit consistency check finish.",
+  "kind": "framework",
+  "module": "schema_shadow",
+  "version": "0.1.2",
+  "repository": "https://github.com/Rahulchaube1/blyx-schema-shadow",
+  "commit": "fde375e7525135847a98a8dab3849366e659b122",
+  "sourceDir": "vendor/schema_shadow",
+  "license": "MIT",
+  "sha256": "c7dd36c5abbd231160d6d79a5416186688a562403e2bd39bcbcb16caba395cd7",
+  "size": 39884
+}

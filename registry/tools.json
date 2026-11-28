@@ -2,10 +2,10 @@
   {
     "slug": "blyxc",
     "title": "Blyx Compiler",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "description": "Check and run Blyx programs or compile a native executable.",
     "repository": "https://github.com/Rahulchaube1/blyxxxx",
-    "release": "https://github.com/Rahulchaube1/blyxxxx/releases/tag/v0.2.2",
+    "release": "https://github.com/Rahulchaube1/blyxxxx/releases/tag/v0.2.3",
     "guide": "https://www.blyx-lang.space/download"
   },
   {
